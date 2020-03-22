@@ -34,5 +34,9 @@ We're tring to fix vulnerabilities from get go, using `npm install lodash.mergew
 ### TODO
 
 - ~~config.yml~~
-- processing shit
 - move stuff from older site
+- get processing npm things
+- move processing stuff
+- categories as a loop
+- find a variable font
+
