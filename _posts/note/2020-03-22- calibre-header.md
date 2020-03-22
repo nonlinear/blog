@@ -2,12 +2,15 @@
 layout: default
 title: Calibre PDF Conversion
 slug: Calibre
-categories: processing
+categories: note
 status: public
 description: how to convert epubs to pdfs
-date: 2020-03-22 13:21:51 -0500
+date: 2020-01-29 18:03:16 -0500
 permalink: /:categories/:slug/
 ---
+
+
+permalink: /:categories/:slug/
 
 ## Instructions
 

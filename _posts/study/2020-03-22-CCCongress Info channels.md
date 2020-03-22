@@ -5,7 +5,7 @@ slug: ccc
 categories: study
 status: public
 description: notes on CCC convention policies
-date: 2020-03-22 13:26:19 -0500
+date: 2020-01-29 18:03:16 -0500
 permalink: /:categories/:slug/
 ---
 

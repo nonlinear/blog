@@ -3,9 +3,9 @@ layout: default
 title: After the crisis
 slug: after-crisis
 categories: note
-status: draft
+status: public
 description: a program for transformative change 
-date: 2020-03-22 13:23:57 -0500
+date: 2020-01-29 18:03:16 -0500
 permalink: /:categories/:slug/
 ---
 

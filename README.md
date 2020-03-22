@@ -30,17 +30,3 @@ When it's running, go to [https://localhost:4000](https://localhost:4000) on you
 ### Troubleshooting
 
 We're tring to fix vulnerabilities from get go, using `npm install lodash.mergewith@4.6.2 set-value@2.0.1 mixin-deep@1.3.2 lodash@4.17.12 diff@3.5.0 js-yaml@3.13.1 fstream@1.0.12 tar@2.2.2 extend@3.0.2 --save` but do try `npm audit fix` if still showing errors.
-
-### TODO
-
-- ~~config.yml~~
-- move stuff from older site
-- get processing npm things
-- move processing stuff
-- categories as a loop
-- find a variable font
-- statuses
-- RSS doesn't show private or draft
-- atext for new file
-- atext for header
-

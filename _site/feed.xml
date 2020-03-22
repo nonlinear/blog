@@ -1,4 +1,294 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="www.nonlinear.nyc/feed.xml" rel="self" type="application/atom+xml" /><link href="www.nonlinear.nyc/" rel="alternate" type="text/html" /><updated>2020-03-22T13:41:08-04:00</updated><id>www.nonlinear.nyc/feed.xml</id><title type="html">nonlinear</title><subtitle>The anagram of my name is anarchist fool</subtitle><entry><title type="html">Kichari</title><link href="www.nonlinear.nyc/recipe/kichari/" rel="alternate" type="text/html" title="Kichari" /><published>2020-01-29T18:03:16-05:00</published><updated>2020-01-29T18:03:16-05:00</updated><id>www.nonlinear.nyc/recipe/kichari</id><content type="html" xml:base="www.nonlinear.nyc/recipe/kichari/">&lt;ul&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="www.nonlinear.nyc/feed.xml" rel="self" type="application/atom+xml" /><link href="www.nonlinear.nyc/" rel="alternate" type="text/html" /><updated>2020-03-22T14:25:21-04:00</updated><id>www.nonlinear.nyc/feed.xml</id><title type="html">nonlinear</title><subtitle>The anagram of my name is anarchist fool</subtitle><entry><title type="html">Stories thru data</title><link href="www.nonlinear.nyc/study/data-viz/" rel="alternate" type="text/html" title="Stories thru data" /><published>2020-01-29T18:03:16-05:00</published><updated>2020-01-29T18:03:16-05:00</updated><id>www.nonlinear.nyc/study/data-viz</id><content type="html" xml:base="www.nonlinear.nyc/study/data-viz/">&lt;h1 id=&quot;stories-through-data&quot;&gt;Stories Through Data&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://brainstation.io/event/nyc-data-visualization-feb2020?utm_source=bstnmeetup&amp;amp;utm_medium=eventpr&amp;amp;utm_campaign=febnyc2020panel&quot;&gt;Making an Impact with Data Visualization&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;lily-boyce&quot;&gt;Lily Boyce&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Data Visualization Engineer, Condé Nast&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/lilyelle?lang=en&quot;&gt;Lily Boyce (@lilyelle) / Twitter&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.foodandwaterwatch.org/&quot;&gt;Food &amp;amp; Water Watch&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/Users/nonlinear/Critical/notes/data-visualization/dakota-access-pipeline-bakken-banking-finance-.jpg&quot; alt=&quot;dakota-access-pipeline-bakken-banking-finance-&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;D3 + React&lt;/li&gt;
+  &lt;li&gt;Conde Nast
+    &lt;ul&gt;
+      &lt;li&gt;Business Intelligence&lt;/li&gt;
+      &lt;li&gt;Data Products for Clients&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;table&gt;
+      &lt;tbody&gt;
+        &lt;tr&gt;
+          &lt;td&gt;[1 Year of Trump’s Tweets, Analyzed&lt;/td&gt;
+          &lt;td&gt;Teen Vogue](https://www.teenvogue.com/story/trump-tweet-analysis)&lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/tbody&gt;
+    &lt;/table&gt;
+  &lt;/li&gt;
+  &lt;li&gt;60% of epicurious user base uses mobile&lt;/li&gt;
+  &lt;li&gt;
+    &lt;table&gt;
+      &lt;tbody&gt;
+        &lt;tr&gt;
+          &lt;td&gt;[Find Your 2019 Thanksgiving Recipes With This Clickable Tool&lt;/td&gt;
+          &lt;td&gt;Epicurious](https://www.epicurious.com/holidays-events/thanksgiving-recipe-finder-by-ingredient-make-your-menu-article)&lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/tbody&gt;
+    &lt;/table&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;arina-igumenshcheva&quot;&gt;Arina Igumenshcheva&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Data Analyst, &lt;a href=&quot;https://www.thorn.org/&quot;&gt;Thorn&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://dumps.wikimedia.org/other/clickstream/readme.html&quot;&gt;wikipedia clickstream data dump&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://matplotlib.org/&quot;&gt;Matplotlib: Python plotting&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;d3&lt;/li&gt;
+  &lt;li&gt;Vis.jsp&lt;/li&gt;
+  &lt;li&gt;consider your own biases and expectations&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;martin-lüttgersheiden&quot;&gt;Martin Lüttgersheiden&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Lead Data Scientist, Healthify&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://angel.co/mluttgersheiden&quot;&gt;AngelList&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://wwnorton.com/books/The-Wall-Street-Journal-Guide-to-Information-Graphics/&quot;&gt;The Wall Street Journal Guide to Information Graphics&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;wow, guide thru, then exploration&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">Stories Through Data</summary></entry><entry><title type="html">After the crisis</title><link href="www.nonlinear.nyc/note/after-crisis/" rel="alternate" type="text/html" title="After the crisis" /><published>2020-01-29T18:03:16-05:00</published><updated>2020-01-29T18:03:16-05:00</updated><id>www.nonlinear.nyc/note/after-crisis</id><content type="html" xml:base="www.nonlinear.nyc/note/after-crisis/">&lt;p&gt;&lt;a href=&quot;https://www.vice.com/en_us/article/wxekvw/the-world-after-coronavirus-healthcare-labor-climate-internet&quot;&gt;What the World Will Look Like After Coronavirus - VICE&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Free and universal healthcare (“healthcare is a basic human right” -B. Sanders)&lt;/li&gt;
+  &lt;li&gt;Abolish ICE and prisons (“ICE is now a public health hazard”)&lt;/li&gt;
+  &lt;li&gt;Protect and empower labor (“Without these protections, everyone’s safety and health is put at risk”)&lt;/li&gt;
+  &lt;li&gt;A healthier climate (“If the 2008-09 financial crash is any  indicator, carbon could shoot right back up as soon as the crisis is  over”)&lt;/li&gt;
+  &lt;li&gt;Fast, accessible broadband (“Community owned/operated broadband  networks, long demonized and even prohibited by law are looking better  than ever”)&lt;/li&gt;
+  &lt;li&gt;Smash the surveillance state (“This pandemic mustn’t be used to infringe on the civil liberties and privacy of millions”)&lt;/li&gt;
+  &lt;li&gt;Billionaire wealth (“They’re sending people to work while jetting off to luxurious doomsday bunkers, getting Covid-19 tests while normal  people can’t, and also singing ‘Imagine’ from bucolic getaways.”)&lt;/li&gt;
+  &lt;li&gt;Public transit that works (“Congress is poised to prioritize bailing  out airlines and the cruise industry before it takes a look at public  transit”)&lt;/li&gt;
+  &lt;li&gt;The right to repair (“Right-to-repair has become a matter of life and death.”)&lt;/li&gt;
+  &lt;li&gt;Science for the people (“We were caught flat-footed by a fixation on ‘innovation’ and lack of public options”)&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">What the World Will Look Like After Coronavirus - VICE</summary></entry><entry><title type="html">Boards, notes</title><link href="www.nonlinear.nyc/project/boards/" rel="alternate" type="text/html" title="Boards, notes" /><published>2020-01-29T18:03:16-05:00</published><updated>2020-01-29T18:03:16-05:00</updated><id>www.nonlinear.nyc/project/boards</id><content type="html" xml:base="www.nonlinear.nyc/project/boards/">&lt;h2 id=&quot;todo&quot;&gt;TODO&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;review cheap projector&lt;/li&gt;
+  &lt;li&gt;review cheap printer&lt;/li&gt;
+  &lt;li&gt;review cheap camera&lt;/li&gt;
+  &lt;li&gt;review cables and connectors&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;os-business-model&quot;&gt;OS business model&lt;/h1&gt;
+
+&lt;h2 id=&quot;pyramid&quot;&gt;pyramid&lt;/h2&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Name&lt;/th&gt;
+      &lt;th&gt;Stakeholder&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Topology application&lt;/td&gt;
+      &lt;td&gt;Janeraka, nycmesh&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Post-it application&lt;/td&gt;
+      &lt;td&gt;Pushpin port? how?&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Art application&lt;/td&gt;
+      &lt;td&gt;define&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Boards Platform&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;mailto:bernardoxhc@gmail.com&quot;&gt;Bernardo Fontes&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Business Model&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;mailto:georgia@simplysecure.org&quot;&gt;Georgia Bullen&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&quot;notes-by-oliver&quot;&gt;Notes by Oliver&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://protocol.ai/projects/&quot;&gt;Projects - Protocol Labs&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://nadiaeghbal.com/&quot;&gt;Nadia Eghbal&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;grants-to-look-out-for&quot;&gt;Grants to look out for&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/nayafia/microgrants#a-list-of-microgrant-programs-for-your-good-ideas&quot;&gt;A list of microgrant programs for your good ideas&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://wisconsinfastforward.com/wff_standard.htm&quot;&gt;Wisconsin Fast Forward Grants&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;The prototype fund German&lt;/li&gt;
+  &lt;li&gt;Tafka Mexican open source&lt;/li&gt;
+  &lt;li&gt;Canndid foundation center&lt;/li&gt;
+  &lt;li&gt;Open tech funds, prototypes (internet freedom)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;possible-fiscal-sponsors&quot;&gt;Possible Fiscal Sponsors&lt;/h2&gt;
+
+&lt;h2 id=&quot;partnerships-to-study&quot;&gt;Partnerships to study&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://publiclab.org/&quot;&gt;🎈 Public Lab: a DIY environmental science community&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://twitter.com/lizbarry&quot;&gt;Liz Barry&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://treekit.org/&quot;&gt;treeKIT - Maintenance mode&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;inkandswitch
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://github.com/inkandswitch/pushpin&quot;&gt;pushpin: A collaborative corkboard app&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://github.com/inkandswitch/interactive-shape-recognition&quot;&gt;interactive-shape-recognition: Implementation of “A Simple Approach to Recognise Geometric Shapes Interactively”&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://schoolofdata.nyc/&quot;&gt;NYC School of Data – a community conference through #civicdesign, #civictech, &amp;amp; #opendata.&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.digital-democracy.org/mapeo/&quot;&gt;Digital Democracy - Mapeo&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Lai yi Olsen&lt;/li&gt;
+  &lt;li&gt;Caroline sanders&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;todo-1&quot;&gt;Todo&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;thank Oliver, show ethical OS licncing&lt;/li&gt;
+  &lt;li&gt;thank Georgia, ask for pushpin invite, and art recommendations (Laiyi Olsen and Caroline sanders)&lt;/li&gt;
+  &lt;li&gt;storyboard “topology”: nycmesh and Janeraka&lt;/li&gt;
+  &lt;li&gt;Storyboard “pushpin” port&lt;/li&gt;
+  &lt;li&gt;Storyboard “art”&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Ryzome
+Fractured artists
+Open source collective
+Walking paper project&lt;/p&gt;
+
+&lt;h2 id=&quot;models-to-study&quot;&gt;Models to study&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;ethical open source&lt;/li&gt;
+  &lt;li&gt;Open access (for scientific papers)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;model-to-validate-its-a-very-crude-model&quot;&gt;model to validate (it’s a very crude model)&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;get paid in advance
+    &lt;ul&gt;
+      &lt;li&gt;focused scope: epic, estimated&lt;/li&gt;
+      &lt;li&gt;Grants, funds, crowdsourcing&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;deliver as commons
+    &lt;ul&gt;
+      &lt;li&gt;main code&lt;/li&gt;
+      &lt;li&gt;Integrations with existing libraries&lt;/li&gt;
+      &lt;li&gt;New libraries (stand alone projects)&lt;/li&gt;
+      &lt;li&gt;Documentation, methods (Creative Commons?)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;reputation for more grants&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">TODO</summary></entry><entry><title type="html">Ethical Code, notes</title><link href="www.nonlinear.nyc/project/ethical/" rel="alternate" type="text/html" title="Ethical Code, notes" /><published>2020-01-29T18:03:16-05:00</published><updated>2020-01-29T18:03:16-05:00</updated><id>www.nonlinear.nyc/project/ethical</id><content type="html" xml:base="www.nonlinear.nyc/project/ethical/">&lt;p&gt;Here are my notes, then zee notes, for zee to consolidate and announce.&lt;/p&gt;
+
+&lt;h4 id=&quot;audience&quot;&gt;Audience&lt;/h4&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Palantir as company and developers&lt;/li&gt;
+  &lt;li&gt;non-developers (use laymen terms)&lt;/li&gt;
+  &lt;li&gt;maintainers
+    &lt;ol&gt;
+      &lt;li&gt;software is in use by palantir&lt;/li&gt;
+      &lt;li&gt;not on palantir and want to protect themselves&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h4 id=&quot;funnels&quot;&gt;Funnels&lt;/h4&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;maintainers with software in use
+    &lt;ol&gt;
+      &lt;li&gt;change the licensing: point to the research&lt;/li&gt;
+      &lt;li&gt;pledge on README (badge)&lt;/li&gt;
+      &lt;li&gt;donate money to a group that opposes ICE (README that they did)&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;maintainers unsure if they are used by palantir
+    &lt;ol&gt;
+      &lt;li&gt;github oauth to detect if (alerts? phase 2? discuss)
+        &lt;ol&gt;
+          &lt;li&gt;if yes, check “maintainers with software in use”&lt;/li&gt;
+          &lt;li&gt;if no, how to protect yourself from it&lt;/li&gt;
+        &lt;/ol&gt;
+      &lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;dev non-mantainers
+    &lt;ol&gt;
+      &lt;li&gt;raise an issue on ethical license (padding with warnings, how to behave)&lt;/li&gt;
+      &lt;li&gt;donate money to a group that opposes ICE (if you can afford)&lt;/li&gt;
+      &lt;li&gt;donate to repo (better contrast for repos on pledge)&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;non-dev
+    &lt;ol&gt;
+      &lt;li&gt;dashboard, graphs, progress, bird-eye view: explain what they are seeing (phase 2?)&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h4 id=&quot;arguments-to-expose&quot;&gt;Arguments to expose&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;open source traditionless&lt;/li&gt;
+  &lt;li&gt;overworked, underpaid maintainers (donation, thank you for your service, etc)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;tech-to-discuss&quot;&gt;Tech to discuss&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;flags on CTAs so we can measure progress (of donation, of issues raised, etc)&lt;/li&gt;
+  &lt;li&gt;proxy mesure for repo popularity: reveal power curve, some repos are better than others (likes, follow, activity. it PROBABLY exists somewhere)&lt;/li&gt;
+  &lt;li&gt;dashboard&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">Here are my notes, then zee notes, for zee to consolidate and announce.</summary></entry><entry><title type="html">Nonlinear, notes</title><link href="www.nonlinear.nyc/project/nonlinear/" rel="alternate" type="text/html" title="Nonlinear, notes" /><published>2020-01-29T18:03:16-05:00</published><updated>2020-01-29T18:03:16-05:00</updated><id>www.nonlinear.nyc/project/nonlinear</id><content type="html" xml:base="www.nonlinear.nyc/project/nonlinear/">&lt;h1 id=&quot;todo&quot;&gt;TODO&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;why is config.yml info not on head?&lt;/li&gt;
+  &lt;li&gt;cover on frontmatter
+    &lt;ul&gt;
+      &lt;li&gt;find a default cover per category&lt;/li&gt;
+      &lt;li&gt;ensure cover appear on open links (failsafe for animated gif)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;check unsorted&lt;/li&gt;
+  &lt;li&gt;get processing npm things&lt;/li&gt;
+  &lt;li&gt;move processing stuff&lt;/li&gt;
+  &lt;li&gt;categories as a loop&lt;/li&gt;
+  &lt;li&gt;find a variable font&lt;/li&gt;
+  &lt;li&gt;&lt;del&gt;status: public, draft, private&lt;/del&gt;&lt;/li&gt;
+  &lt;li&gt;RSS shouldn’t show private or draft&lt;/li&gt;
+  &lt;li&gt;&lt;del&gt;atext for new file&lt;/del&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;del&gt;atext for frontmatter&lt;/del&gt;&lt;/li&gt;
+  &lt;li&gt;design this mofo&lt;/li&gt;
+  &lt;li&gt;p5js inside div, not floating around&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">TODO</summary></entry><entry><title type="html">Kichari</title><link href="www.nonlinear.nyc/recipe/kichari/" rel="alternate" type="text/html" title="Kichari" /><published>2020-01-29T18:03:16-05:00</published><updated>2020-01-29T18:03:16-05:00</updated><id>www.nonlinear.nyc/recipe/kichari</id><content type="html" xml:base="www.nonlinear.nyc/recipe/kichari/">&lt;ul&gt;
   &lt;li&gt;6 cups water&lt;/li&gt;
   &lt;li&gt;1 cup basmati rice&lt;/li&gt;
   &lt;li&gt;1/2 cup yellow split mung dal (soaked for 1 hour or more)&lt;/li&gt;
@@ -7,20 +297,7 @@
   &lt;li&gt;2 cups vegetables … coarsely chopped into 1/2 in cubes, leafy greens also coarsely chopped into strips&lt;/li&gt;
   &lt;li&gt;1/2-1 tbsp salt&lt;/li&gt;
   &lt;li&gt;fresh cilantro&lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><summary type="html">6 cups water 1 cup basmati rice 1/2 cup yellow split mung dal (soaked for 1 hour or more) pinch of asafetida (hing) powder 1 tbsp everyday savory spice mix 2 cups vegetables … coarsely chopped into 1/2 in cubes, leafy greens also coarsely chopped into strips 1/2-1 tbsp salt fresh cilantro</summary></entry><entry><title type="html">Voices from the Gang Database</title><link href="www.nonlinear.nyc/study/gang-database/" rel="alternate" type="text/html" title="Voices from the Gang Database" /><published>2020-01-29T18:03:16-05:00</published><updated>2020-01-29T18:03:16-05:00</updated><id>www.nonlinear.nyc/study/gang-database</id><content type="html" xml:base="www.nonlinear.nyc/study/gang-database/">&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.stopspying.org/&quot;&gt;STOP&lt;/a&gt;: Surveillance Technology Oversight Project&lt;/li&gt;
-  &lt;li&gt;?&lt;/li&gt;
-  &lt;li&gt;Victor Dempsey : &lt;a href=&quot;https://www.legalaidnyc.org/stories/providing-essential-legal-services-in-the-community-justice-unit/&quot;&gt;The Legal Aid Society&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Alex Vitale: &lt;a href=&quot;https://policingandjustice.squarespace.com/&quot;&gt;Policing &amp;amp; Social Justice Project&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://static1.squarespace.com/static/5de981188ae1bf14a94410f5/t/5df14904887d561d6cc9455e/1576093963895/2019+New+York+City+Gang+Policing+Report+-+FINAL%29.pdf&quot;&gt;GANG TAKEDOWNS IN THE DE BLASIO ERA:The Dangers of  ‘Precision Policing’ (PDF)&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Dense social networks&lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><summary type="html">STOP: Surveillance Technology Oversight Project ? Victor Dempsey : The Legal Aid Society Alex Vitale: Policing &amp;amp; Social Justice Project</summary></entry><entry><title type="html">Krita Shortcuts</title><link href="www.nonlinear.nyc/study/krita/" rel="alternate" type="text/html" title="Krita Shortcuts" /><published>2020-01-15T18:03:16-05:00</published><updated>2020-01-15T18:03:16-05:00</updated><id>www.nonlinear.nyc/study/krita</id><content type="html" xml:base="www.nonlinear.nyc/study/krita/">&lt;p&gt;First off, use popup tool for most anything. Find trigger, and learn usage.&lt;/p&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">6 cups water 1 cup basmati rice 1/2 cup yellow split mung dal (soaked for 1 hour or more) pinch of asafetida (hing) powder 1 tbsp everyday savory spice mix 2 cups vegetables … coarsely chopped into 1/2 in cubes, leafy greens also coarsely chopped into strips 1/2-1 tbsp salt fresh cilantro</summary></entry><entry><title type="html">Krita Shortcuts</title><link href="www.nonlinear.nyc/study/krita/" rel="alternate" type="text/html" title="Krita Shortcuts" /><published>2020-01-29T18:03:16-05:00</published><updated>2020-01-29T18:03:16-05:00</updated><id>www.nonlinear.nyc/study/krita</id><content type="html" xml:base="www.nonlinear.nyc/study/krita/">&lt;p&gt;First off, use popup tool for most anything. Find trigger, and learn usage.&lt;/p&gt;
 
 &lt;p&gt;control-shift-F full screen&lt;/p&gt;
 
@@ -90,7 +367,7 @@ V move tool&lt;/p&gt;
 &lt;p&gt;zoom&lt;/p&gt;
 
 &lt;p&gt;control + zoom in
-control - zoom out&lt;/p&gt;</content><author><name></name></author><summary type="html">First off, use popup tool for most anything. Find trigger, and learn usage. control-shift-F full screen For anything popup tool bar DOESN’T cover: Alt-UP Activate next layer (was pgup) Alt-DOWN Activate previous layer (was pgdn) Control-Shift J cut selection to new layer Control shift A deselect color Picker Brushes outLine selection tool Brush Blend Modes Alt-shift-(capitalized letter) behind Q cleaR Color color Burn color Dodge darKen diffErence dIssolve eXclusion Hard light hard mix L hard overlay P hUe liGhten lineAr burn linear dodge W linear light J luminosity Y Multiply Normal pin light Z saTuration Screen soFt light Vivid light reorganize per function, based on video add video link control-L levels control-U HVS adjustment layer shift-del remove layer f2 rename current layer brush size [ decrease ] increase G gradient V move tool control-alt-C resize canvas zoom control + zoom in control - zoom out</summary></entry><entry><title type="html">Animation Primer</title><link href="www.nonlinear.nyc/study/animation/" rel="alternate" type="text/html" title="Animation Primer" /><published>2020-01-15T18:03:16-05:00</published><updated>2020-01-15T18:03:16-05:00</updated><id>www.nonlinear.nyc/study/animation</id><content type="html" xml:base="www.nonlinear.nyc/study/animation/">&lt;h2 id=&quot;duration&quot;&gt;duration&lt;/h2&gt;
+control - zoom out&lt;/p&gt;</content><author><name></name></author><summary type="html">First off, use popup tool for most anything. Find trigger, and learn usage. control-shift-F full screen For anything popup tool bar DOESN’T cover: Alt-UP Activate next layer (was pgup) Alt-DOWN Activate previous layer (was pgdn) Control-Shift J cut selection to new layer Control shift A deselect color Picker Brushes outLine selection tool Brush Blend Modes Alt-shift-(capitalized letter) behind Q cleaR Color color Burn color Dodge darKen diffErence dIssolve eXclusion Hard light hard mix L hard overlay P hUe liGhten lineAr burn linear dodge W linear light J luminosity Y Multiply Normal pin light Z saTuration Screen soFt light Vivid light reorganize per function, based on video add video link control-L levels control-U HVS adjustment layer shift-del remove layer f2 rename current layer brush size [ decrease ] increase G gradient V move tool control-alt-C resize canvas zoom control + zoom in control - zoom out</summary></entry><entry><title type="html">Animation Primer</title><link href="www.nonlinear.nyc/study/animation/" rel="alternate" type="text/html" title="Animation Primer" /><published>2020-01-29T18:03:16-05:00</published><updated>2020-01-29T18:03:16-05:00</updated><id>www.nonlinear.nyc/study/animation</id><content type="html" xml:base="www.nonlinear.nyc/study/animation/">&lt;h2 id=&quot;duration&quot;&gt;duration&lt;/h2&gt;
 
 &lt;p&gt;Specifies how many seconds or milliseconds an animation takes to complete one cycle. Default 0&lt;/p&gt;
 
@@ -112,7 +389,7 @@ control - zoom out&lt;/p&gt;</content><author><name></name></author><summary typ
 
 &lt;h2 id=&quot;visibility&quot;&gt;visibility&lt;/h2&gt;
 
-&lt;p&gt;Determines whether or not a transformed element is visible when it is not facing the screen.&lt;/p&gt;</content><author><name></name></author><summary type="html">duration Specifies how many seconds or milliseconds an animation takes to complete one cycle. Default 0 delay Specifies when the animation will start. Default 0 function Describes how the animation will progress over one cycle of its duration. Default “ease” count Specifies the number of times an animation is played. Default 1 fill-mode Specifies if the effects of an animation are before the animation starts and after it ends. visibility Determines whether or not a transformed element is visible when it is not facing the screen.</summary></entry><entry><title type="html">computational guidance systems</title><link href="www.nonlinear.nyc/study/computational-guidance-systems/" rel="alternate" type="text/html" title="computational guidance systems" /><published>2020-01-15T18:03:16-05:00</published><updated>2020-01-15T18:03:16-05:00</updated><id>www.nonlinear.nyc/study/computational-guidance-systems</id><content type="html" xml:base="www.nonlinear.nyc/study/computational-guidance-systems/">&lt;ul&gt;
+&lt;p&gt;Determines whether or not a transformed element is visible when it is not facing the screen.&lt;/p&gt;</content><author><name></name></author><summary type="html">duration Specifies how many seconds or milliseconds an animation takes to complete one cycle. Default 0 delay Specifies when the animation will start. Default 0 function Describes how the animation will progress over one cycle of its duration. Default “ease” count Specifies the number of times an animation is played. Default 1 fill-mode Specifies if the effects of an animation are before the animation starts and after it ends. visibility Determines whether or not a transformed element is visible when it is not facing the screen.</summary></entry><entry><title type="html">computational guidance systems</title><link href="www.nonlinear.nyc/study/computational-guidance-systems/" rel="alternate" type="text/html" title="computational guidance systems" /><published>2020-01-29T18:03:16-05:00</published><updated>2020-01-29T18:03:16-05:00</updated><id>www.nonlinear.nyc/study/computational-guidance-systems</id><content type="html" xml:base="www.nonlinear.nyc/study/computational-guidance-systems/">&lt;ul&gt;
   &lt;li&gt;Robb Beal&lt;/li&gt;
 &lt;/ul&gt;
 
@@ -265,7 +542,7 @@ control - zoom out&lt;/p&gt;</content><author><name></name></author><summary typ
     &lt;/ul&gt;
   &lt;/li&gt;
   &lt;li&gt;personalized interfaces, after a couple of uses, struggle, adaptation&lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><summary type="html">Robb Beal</summary></entry><entry><title type="html">figma config</title><link href="www.nonlinear.nyc/study/figma-config/" rel="alternate" type="text/html" title="figma config" /><published>2020-01-15T18:03:16-05:00</published><updated>2020-01-15T18:03:16-05:00</updated><id>www.nonlinear.nyc/study/figma-config</id><content type="html" xml:base="www.nonlinear.nyc/study/figma-config/">&lt;ul&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">Robb Beal</summary></entry><entry><title type="html">figma config</title><link href="www.nonlinear.nyc/study/figma-config/" rel="alternate" type="text/html" title="figma config" /><published>2020-01-29T18:03:16-05:00</published><updated>2020-01-29T18:03:16-05:00</updated><id>www.nonlinear.nyc/study/figma-config</id><content type="html" xml:base="www.nonlinear.nyc/study/figma-config/">&lt;ul&gt;
   &lt;li&gt;“Community”&lt;/li&gt;
 &lt;/ul&gt;
 
@@ -349,58 +626,4 @@ control - zoom out&lt;/p&gt;</content><author><name></name></author><summary typ
 
     &lt;p&gt;tagging elements in figma&lt;/p&gt;
   &lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><summary type="html">“Community”</summary></entry><entry><title type="html">Open CV</title><link href="www.nonlinear.nyc/study/open-cv/" rel="alternate" type="text/html" title="Open CV" /><published>2020-01-15T18:03:16-05:00</published><updated>2020-01-15T18:03:16-05:00</updated><id>www.nonlinear.nyc/study/open-cv</id><content type="html" xml:base="www.nonlinear.nyc/study/open-cv/">&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;The Viola-Jones Algorithm (grayscale, find a nose, box travels thru the image)&lt;/p&gt;
-
-    &lt;ul&gt;
-      &lt;li&gt;“Rapid Object Detection using a Boosted Cascade of Simple Features”&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Haar-like Features&lt;/p&gt;
-
-    &lt;ul&gt;
-      &lt;li&gt;edge, line, four rectangle&lt;/li&gt;
-      &lt;li&gt;greater than 0.3&lt;/li&gt;
-      &lt;li&gt;&lt;img src=&quot;/assets/images/posts/Screen Shot 2019-12-10 at 10.38.31 AM.png&quot; alt=&quot;Screen Shot 2019-12-10 at 10.38.31 AM&quot; style=&quot;zoom:50%; padding: 50px 0&quot; /&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-
-    &lt;h2 id=&quot;integral-image&quot;&gt;Integral Image&lt;/h2&gt;
-
-    &lt;ul&gt;
-      &lt;li&gt;precalculates sums, so each area can be found with just 4 operations&lt;/li&gt;
-      &lt;li&gt;makes raster vector (scale-free)&lt;/li&gt;
-      &lt;li&gt;as long as it’s rectangles&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/posts/Screen Shot 2019-12-10 at 1.16.02 PM.png&quot; alt=&quot;Screen Shot 2019-12-10 at 1.16.02 PM&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/posts/Screen Shot 2019-12-10 at 1.16.16 PM.png&quot; alt=&quot;Screen Shot 2019-12-10 at 1.16.16 PM&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/posts/Screen Shot 2019-12-10 at 1.18.23 PM.png&quot; alt=&quot;Screen Shot 2019-12-10 at 1.18.23 PM&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/posts/Screen Shot 2019-12-10 at 1.18.47 PM.png&quot; alt=&quot;Screen Shot 2019-12-10 at 1.18.47 PM&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/posts/Screen Shot 2019-12-10 at 1.18.59 PM.png&quot; alt=&quot;Screen Shot 2019-12-10 at 1.18.59 PM&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;training-classifiers&quot;&gt;Training Classifiers&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;when training, scale the image DOWN&lt;/li&gt;
-  &lt;li&gt;mirror images&lt;/li&gt;
-  &lt;li&gt;non- images (same size, WITHOUT training to spot), for false positives, labeled&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.researchgate.net/publication/3766402_General_framework_for_object_detection&quot;&gt;General framework for object detection&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;adaboost&quot;&gt;Adaboost&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Adaptative Boosting&lt;/li&gt;
-  &lt;li&gt;weak classifier (over 50%)&lt;/li&gt;
-  &lt;li&gt;strong classifier&lt;/li&gt;
-  &lt;li&gt;ensemble method (a lot of weak classifiers make a strong classifier)&lt;/li&gt;
-  &lt;li&gt;&lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><summary type="html">The Viola-Jones Algorithm (grayscale, find a nose, box travels thru the image)</summary></entry></feed>
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">“Community”</summary></entry></feed>

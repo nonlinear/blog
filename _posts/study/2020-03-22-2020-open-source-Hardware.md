@@ -5,7 +5,7 @@ slug: open-source-hardware
 categories: study
 status: public
 description: Notes on open source hardware convention
-date: 2020-03-22 13:22:48 -0500
+date: 2020-01-29 18:03:16 -0500
 permalink: /:categories/:slug/
 ---
 
