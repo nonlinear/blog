@@ -3,6 +3,7 @@ layout: default
 title: computational guidance systems
 slug: computational-guidance-systems
 categories: study
+status: public
 description: notes on UX+Data, Computation as Your Experience Design Superpower
 date: 2020-01-15 18:03:16 -0500
 permalink: /:categories/:slug/

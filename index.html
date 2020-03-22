@@ -13,7 +13,8 @@ categories: home
 	<ul class="col-sm">
 		<li><h3>Studies</h3></li>
 		{% for post in site.posts %}
-		{% if post.categories contains 'study' %}
+		{% if post.categories contains 'study' and post.status contains 'public' %}
+
 		<li>
 			<a href="{{ post.url }}">{{ post.title }}
 			</a>
@@ -26,7 +27,7 @@ categories: home
 	<ul class="col-sm">
 		<li><h3>Recipes</h3></li>
 		{% for post in site.posts %}
-		{% if post.categories contains 'recipe' %}
+		{% if post.categories contains 'recipe' and post.status contains 'public' %}
 		<li>
 			<a href="{{ post.url }}">{{ post.title }}
 			</a>
@@ -38,7 +39,7 @@ categories: home
 	<ul class="col-sm">
 		<li><h3>Processing</h3></li>
 		{% for post in site.posts %}
-		{% if post.categories contains 'processing' %}
+		{% if post.categories contains 'processing' and post.status contains 'public' %}
 		<li>
 			<a href="{{ post.url }}">{{ post.title }}
 			</a>

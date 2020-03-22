@@ -39,4 +39,6 @@ We're tring to fix vulnerabilities from get go, using `npm install lodash.mergew
 - move processing stuff
 - categories as a loop
 - find a variable font
+- statuses
+- RSS doesn't show private or draft
 

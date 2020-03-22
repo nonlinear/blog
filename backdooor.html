@@ -1,0 +1,21 @@
+---
+layout: default
+title: praxis
+categories: home
+---
+<h3>secret shit</h3>
+
+
+<ul>
+		{% for post in site.posts %}
+		{% if post.status contains 'private' or post.status contains 'draft' %}
+
+		<li>
+			<a href="{{ post.url }}">{{ post.title }}
+			</a><br>
+			category: {{ post.categories }}</br>
+		status: {{ post.status }}
+		</li>
+		{% endif %}
+		{% endfor %}
+</ul>

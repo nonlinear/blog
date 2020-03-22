@@ -3,6 +3,7 @@ layout: default
 title: Animation Primer
 slug: animation
 categories: study
+status: public
 description: Parameters you need to know for web animation
 date: 2020-01-15 18:03:16 -0500
 permalink: /:categories/:slug/
