@@ -2,7 +2,7 @@
 layout: default
 title: Open Source Hardware
 slug: open-source-hardware
-categories:study
+categories: study
 status: public
 description: Notes on open source hardware convention
 date: 2020-03-22 13:22:48 -0500
@@ -18,7 +18,7 @@ permalink: /:categories/:slug/
 
  - Sean Montgomery
  - [EmotiBit – Wearable emotion sensing for any project](https://www.emotibit.com/)
- - ![Screen Shot 2020-03-13 at 11.36.45 AM](/Users/nfrota/Critical/notes/images/Screen Shot 2020-03-13 at 11.36.45 AM.png)
+ - ![Screen Shot 2020-03-13 at 11.36.45 AM](/assets/images/posts/Screen Shot 2020-03-13 at 11.36.45 AM.png)
 
  ### All  Good Things Scale
 
@@ -28,19 +28,19 @@ permalink: /:categories/:slug/
  - right tools + right squad = achieving squad goals
  - accessibility with half the swearing
 
-![Screen Shot 2020-03-13 at 11.53.30 AM](/Users/nfrota/Critical/notes/images/Screen Shot 2020-03-13 at 11.53.30 AM.png)
+![Screen Shot 2020-03-13 at 11.53.30 AM](/assets/images/posts/Screen Shot 2020-03-13 at 11.53.30 AM.png)
 
-![Screen Shot 2020-03-13 at 11.54.17 AM](/Users/nfrota/Critical/notes/images/Screen Shot 2020-03-13 at 11.54.17 AM.png)
+![Screen Shot 2020-03-13 at 11.54.17 AM](/assets/images/posts/Screen Shot 2020-03-13 at 11.54.17 AM.png)
 
-![Screen Shot 2020-03-13 at 11.54.44 AM](/Users/nfrota/Critical/notes/images/Screen Shot 2020-03-13 at 11.54.44 AM.png)
+![Screen Shot 2020-03-13 at 11.54.44 AM](/assets/images/posts/Screen Shot 2020-03-13 at 11.54.44 AM.png)
 
-![Screen Shot 2020-03-13 at 11.55.36 AM](/Users/nfrota/Critical/notes/images/Screen Shot 2020-03-13 at 11.55.36 AM.png)
+![Screen Shot 2020-03-13 at 11.55.36 AM](/assets/images/posts/Screen Shot 2020-03-13 at 11.55.36 AM.png)
 
-![Screen Shot 2020-03-13 at 11.55.44 AM](/Users/nfrota/Critical/notes/images/Screen Shot 2020-03-13 at 11.55.44 AM.png)
+![Screen Shot 2020-03-13 at 11.55.44 AM](/assets/images/posts/Screen Shot 2020-03-13 at 11.55.44 AM.png)
 
-![Screen Shot 2020-03-13 at 11.56.01 AM](/Users/nfrota/Critical/notes/images/Screen Shot 2020-03-13 at 11.56.01 AM.png)
+![Screen Shot 2020-03-13 at 11.56.01 AM](/assets/images/posts/Screen Shot 2020-03-13 at 11.56.01 AM.png)
 
-![Screen Shot 2020-03-13 at 11.56.58 AM](/Users/nfrota/Critical/notes/images/Screen Shot 2020-03-13 at 11.56.58 AM.png)
+![Screen Shot 2020-03-13 at 11.56.58 AM](/assets/images/posts/Screen Shot 2020-03-13 at 11.56.58 AM.png)
 
 
 

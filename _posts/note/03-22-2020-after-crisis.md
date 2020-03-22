@@ -2,14 +2,14 @@
 layout: default
 title: After the crisis
 slug: after-crisis
-categories: notes
+categories: note
 status: draft
 description: a program for transformative change 
 date: 2020-03-22 13:23:57 -0500
 permalink: /:categories/:slug/
 ---
 
-https://www.vice.com/en_us/article/wxekvw/the-world-after-coronavirus-healthcare-labor-climate-internet
+[What the World Will Look Like After Coronavirus - VICE](https://www.vice.com/en_us/article/wxekvw/the-world-after-coronavirus-healthcare-labor-climate-internet)
 
 - Free and universal healthcare ("healthcare is a basic human right" -B. Sanders)
 - Abolish ICE and prisons ("ICE is now a public health hazard")

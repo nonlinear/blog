@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="www.nonlinear.nyc/feed.xml" rel="self" type="application/atom+xml" /><link href="www.nonlinear.nyc/" rel="alternate" type="text/html" /><updated>2020-03-22T13:31:33-04:00</updated><id>www.nonlinear.nyc/feed.xml</id><title type="html">nonlinear</title><subtitle>The anagram of my name is anarchist fool</subtitle><entry><title type="html">Kichari</title><link href="www.nonlinear.nyc/recipe/kichari/" rel="alternate" type="text/html" title="Kichari" /><published>2020-01-29T18:03:16-05:00</published><updated>2020-01-29T18:03:16-05:00</updated><id>www.nonlinear.nyc/recipe/kichari</id><content type="html" xml:base="www.nonlinear.nyc/recipe/kichari/">&lt;ul&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="www.nonlinear.nyc/feed.xml" rel="self" type="application/atom+xml" /><link href="www.nonlinear.nyc/" rel="alternate" type="text/html" /><updated>2020-03-22T13:41:08-04:00</updated><id>www.nonlinear.nyc/feed.xml</id><title type="html">nonlinear</title><subtitle>The anagram of my name is anarchist fool</subtitle><entry><title type="html">Kichari</title><link href="www.nonlinear.nyc/recipe/kichari/" rel="alternate" type="text/html" title="Kichari" /><published>2020-01-29T18:03:16-05:00</published><updated>2020-01-29T18:03:16-05:00</updated><id>www.nonlinear.nyc/recipe/kichari</id><content type="html" xml:base="www.nonlinear.nyc/recipe/kichari/">&lt;ul&gt;
   &lt;li&gt;6 cups water&lt;/li&gt;
   &lt;li&gt;1 cup basmati rice&lt;/li&gt;
   &lt;li&gt;1/2 cup yellow split mung dal (soaked for 1 hour or more)&lt;/li&gt;
@@ -196,7 +196,7 @@ control - zoom out&lt;/p&gt;</content><author><name></name></author><summary typ
     &lt;p&gt;a/b test dont tell a lot about optimal design dimension&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=17851964&quot;&gt;google vizier&lt;/a&gt;&lt;img src=&quot;/assets/images/talks/Screen Shot 2020-01-15 at 7.36.55 PM.png&quot; alt=&quot;Screen Shot 2020-01-15 at 7.36.55 PM&quot; /&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=17851964&quot;&gt;google vizier&lt;/a&gt;&lt;img src=&quot;/assets/images/posts/Screen Shot 2020-01-15 at 7.36.55 PM.png&quot; alt=&quot;Screen Shot 2020-01-15 at 7.36.55 PM&quot; /&gt;&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;https://sigopt.com/&lt;/p&gt;
@@ -238,14 +238,14 @@ control - zoom out&lt;/p&gt;</content><author><name></name></author><summary typ
           &lt;tbody&gt;
             &lt;tr&gt;
               &lt;td&gt;[VisiBlends, a New Approach to Disrupt Visual Messaging&lt;/td&gt;
-              &lt;td&gt;Columbia Engineering](https://engineering.columbia.edu/press-releases/lydia-chilton-visiblends)&lt;img src=&quot;/assets/images/talks/chilton-system_diagram_half_iterate_v2-1600.jpg&quot; alt=&quot;chilton-system_diagram_half_iterate_v2-1600&quot; /&gt;&lt;/td&gt;
+              &lt;td&gt;Columbia Engineering](https://engineering.columbia.edu/press-releases/lydia-chilton-visiblends)&lt;img src=&quot;/assets/images/posts/chilton-system_diagram_half_iterate_v2-1600.jpg&quot; alt=&quot;chilton-system_diagram_half_iterate_v2-1600&quot; /&gt;&lt;/td&gt;
             &lt;/tr&gt;
           &lt;/tbody&gt;
         &lt;/table&gt;
       &lt;/li&gt;
       &lt;li&gt;geometric shape matching&lt;/li&gt;
       &lt;li&gt;SymbolFinder: &lt;a href=&quot;https://www.slideshare.net/hmslydia/ai-tools-for-creative-work&quot;&gt;AI Tools for Creative Work&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;img src=&quot;/assets/images/talks/Screen Shot 2020-01-15 at 7.48.32 PM.png&quot; alt=&quot;Screen Shot 2020-01-15 at 7.48.32 PM&quot; /&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;img src=&quot;/assets/images/posts/Screen Shot 2020-01-15 at 7.48.32 PM.png&quot; alt=&quot;Screen Shot 2020-01-15 at 7.48.32 PM&quot; /&gt;&lt;/li&gt;
       &lt;li&gt;&lt;a href=&quot;https://www.cs.columbia.edu/~chilton/web/my_publications/VisiFit_CHI_2020_submission.pdf&quot;&gt;VisiFit: AI Tools to Iteratively Improve Visual Blends&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;Noun to noun combinations. noun to verb combinations&lt;/li&gt;
       &lt;li&gt;Lydia Chilton!!!&lt;/li&gt;
@@ -326,7 +326,7 @@ control - zoom out&lt;/p&gt;</content><author><name></name></author><summary typ
 
     &lt;ol&gt;
       &lt;li&gt;audit
-&lt;img src=&quot;/assets/images/talks/IMG_8189.jpeg&quot; alt=&quot;IMG_8189&quot; /&gt;
+&lt;img src=&quot;/assets/images/posts/IMG_8189.jpeg&quot; alt=&quot;IMG_8189&quot; /&gt;
         &lt;ul&gt;
           &lt;li&gt;illustrations&lt;/li&gt;
           &lt;li&gt;key messages&lt;/li&gt;
@@ -334,15 +334,15 @@ control - zoom out&lt;/p&gt;</content><author><name></name></author><summary typ
         &lt;/ul&gt;
       &lt;/li&gt;
       &lt;li&gt;design
-&lt;img src=&quot;/assets/images/talks/IMG_8190.jpeg&quot; alt=&quot;IMG_8190&quot; /&gt;
-&lt;img src=&quot;/assets/images/talks/IMG_8191.jpeg&quot; alt=&quot;IMG_8191&quot; /&gt;&lt;/li&gt;
+&lt;img src=&quot;/assets/images/posts/IMG_8190.jpeg&quot; alt=&quot;IMG_8190&quot; /&gt;
+&lt;img src=&quot;/assets/images/posts/IMG_8191.jpeg&quot; alt=&quot;IMG_8191&quot; /&gt;&lt;/li&gt;
       &lt;li&gt;organize
-&lt;img src=&quot;/assets/images/talks/IMG_8192.jpeg&quot; alt=&quot;IMG_8192&quot; /&gt;
-&lt;img src=&quot;/assets/images/talks/IMG_8193.jpeg&quot; alt=&quot;IMG_8193&quot; /&gt;&lt;/li&gt;
+&lt;img src=&quot;/assets/images/posts/IMG_8192.jpeg&quot; alt=&quot;IMG_8192&quot; /&gt;
+&lt;img src=&quot;/assets/images/posts/IMG_8193.jpeg&quot; alt=&quot;IMG_8193&quot; /&gt;&lt;/li&gt;
       &lt;li&gt;produce
-&lt;img src=&quot;/assets/images/talks/IMG_8194.jpeg&quot; alt=&quot;IMG_8194&quot; /&gt;&lt;/li&gt;
+&lt;img src=&quot;/assets/images/posts/IMG_8194.jpeg&quot; alt=&quot;IMG_8194&quot; /&gt;&lt;/li&gt;
       &lt;li&gt;socialize
-&lt;img src=&quot;/assets/images/talks/IMG_8195.jpeg&quot; alt=&quot;IMG_8195&quot; /&gt;&lt;/li&gt;
+&lt;img src=&quot;/assets/images/posts/IMG_8195.jpeg&quot; alt=&quot;IMG_8195&quot; /&gt;&lt;/li&gt;
     &lt;/ol&gt;
 
     &lt;p&gt;icons represent concepts not UI (because UI changes)&lt;/p&gt;
@@ -363,7 +363,7 @@ control - zoom out&lt;/p&gt;</content><author><name></name></author><summary typ
     &lt;ul&gt;
       &lt;li&gt;edge, line, four rectangle&lt;/li&gt;
       &lt;li&gt;greater than 0.3&lt;/li&gt;
-      &lt;li&gt;&lt;img src=&quot;/assets/images/talks/Screen Shot 2019-12-10 at 10.38.31 AM.png&quot; alt=&quot;Screen Shot 2019-12-10 at 10.38.31 AM&quot; style=&quot;zoom:50%; padding: 50px 0&quot; /&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;img src=&quot;/assets/images/posts/Screen Shot 2019-12-10 at 10.38.31 AM.png&quot; alt=&quot;Screen Shot 2019-12-10 at 10.38.31 AM&quot; style=&quot;zoom:50%; padding: 50px 0&quot; /&gt;&lt;/li&gt;
     &lt;/ul&gt;
 
     &lt;h2 id=&quot;integral-image&quot;&gt;Integral Image&lt;/h2&gt;
@@ -376,15 +376,15 @@ control - zoom out&lt;/p&gt;</content><author><name></name></author><summary typ
   &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/talks/Screen Shot 2019-12-10 at 1.16.02 PM.png&quot; alt=&quot;Screen Shot 2019-12-10 at 1.16.02 PM&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/posts/Screen Shot 2019-12-10 at 1.16.02 PM.png&quot; alt=&quot;Screen Shot 2019-12-10 at 1.16.02 PM&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/talks/Screen Shot 2019-12-10 at 1.16.16 PM.png&quot; alt=&quot;Screen Shot 2019-12-10 at 1.16.16 PM&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/posts/Screen Shot 2019-12-10 at 1.16.16 PM.png&quot; alt=&quot;Screen Shot 2019-12-10 at 1.16.16 PM&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/talks/Screen Shot 2019-12-10 at 1.18.23 PM.png&quot; alt=&quot;Screen Shot 2019-12-10 at 1.18.23 PM&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/posts/Screen Shot 2019-12-10 at 1.18.23 PM.png&quot; alt=&quot;Screen Shot 2019-12-10 at 1.18.23 PM&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/talks/Screen Shot 2019-12-10 at 1.18.47 PM.png&quot; alt=&quot;Screen Shot 2019-12-10 at 1.18.47 PM&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/posts/Screen Shot 2019-12-10 at 1.18.47 PM.png&quot; alt=&quot;Screen Shot 2019-12-10 at 1.18.47 PM&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/talks/Screen Shot 2019-12-10 at 1.18.59 PM.png&quot; alt=&quot;Screen Shot 2019-12-10 at 1.18.59 PM&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/posts/Screen Shot 2019-12-10 at 1.18.59 PM.png&quot; alt=&quot;Screen Shot 2019-12-10 at 1.18.59 PM&quot; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;training-classifiers&quot;&gt;Training Classifiers&lt;/h3&gt;
 

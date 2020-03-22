@@ -51,7 +51,7 @@ permalink: /:categories/:slug/
 
 - a/b test dont tell a lot about optimal design dimension
 
-- [google vizier](https://news.ycombinator.com/item?id=17851964)![Screen Shot 2020-01-15 at 7.36.55 PM](/assets/images/talks/Screen Shot 2020-01-15 at 7.36.55 PM.png)
+- [google vizier](https://news.ycombinator.com/item?id=17851964)![Screen Shot 2020-01-15 at 7.36.55 PM](/assets/images/posts/Screen Shot 2020-01-15 at 7.36.55 PM.png)
 
 - https://sigopt.com/
 
@@ -70,10 +70,10 @@ Recommendations
 - **visual metaphors:** images that convey a message symbolically
   - are both object identifiable?
   - are they integrated?
-  - [VisiBlends, a New Approach to Disrupt Visual Messaging | Columbia Engineering](https://engineering.columbia.edu/press-releases/lydia-chilton-visiblends)![chilton-system_diagram_half_iterate_v2-1600](/assets/images/talks/chilton-system_diagram_half_iterate_v2-1600.jpg)
+  - [VisiBlends, a New Approach to Disrupt Visual Messaging | Columbia Engineering](https://engineering.columbia.edu/press-releases/lydia-chilton-visiblends)![chilton-system_diagram_half_iterate_v2-1600](/assets/images/posts/chilton-system_diagram_half_iterate_v2-1600.jpg)
   - geometric shape matching
   - SymbolFinder: [AI Tools for Creative Work](https://www.slideshare.net/hmslydia/ai-tools-for-creative-work)
-  - ![Screen Shot 2020-01-15 at 7.48.32 PM](/assets/images/talks/Screen Shot 2020-01-15 at 7.48.32 PM.png)
+  - ![Screen Shot 2020-01-15 at 7.48.32 PM](/assets/images/posts/Screen Shot 2020-01-15 at 7.48.32 PM.png)
   - [VisiFit: AI Tools to Iteratively Improve Visual Blends](https://www.cs.columbia.edu/~chilton/web/my_publications/VisiFit_CHI_2020_submission.pdf)
   - Noun to noun combinations. noun to verb combinations
   - Lydia Chilton!!!

@@ -57,20 +57,20 @@ diversity should evoke belonging
 - build your illustration library
 
   1. audit
-     ![IMG_8189](/assets/images/talks/IMG_8189.jpeg)
+     ![IMG_8189](/assets/images/posts/IMG_8189.jpeg)
      - illustrations
      - key messages
      - Audiences (marketing, product, b2b, b2c, international)
   2. design
-     ![IMG_8190](/assets/images/talks/IMG_8190.jpeg)
-     ![IMG_8191](/assets/images/talks/IMG_8191.jpeg)
+     ![IMG_8190](/assets/images/posts/IMG_8190.jpeg)
+     ![IMG_8191](/assets/images/posts/IMG_8191.jpeg)
   3. organize
-     ![IMG_8192](/assets/images/talks/IMG_8192.jpeg)
-     ![IMG_8193](/assets/images/talks/IMG_8193.jpeg)
+     ![IMG_8192](/assets/images/posts/IMG_8192.jpeg)
+     ![IMG_8193](/assets/images/posts/IMG_8193.jpeg)
   4. produce
-     ![IMG_8194](/assets/images/talks/IMG_8194.jpeg)
+     ![IMG_8194](/assets/images/posts/IMG_8194.jpeg)
   5. socialize
-     ![IMG_8195](/assets/images/talks/IMG_8195.jpeg)
+     ![IMG_8195](/assets/images/posts/IMG_8195.jpeg)
 
   icons represent concepts not UI (because UI changes)
 
