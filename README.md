@@ -41,4 +41,6 @@ We're tring to fix vulnerabilities from get go, using `npm install lodash.mergew
 - find a variable font
 - statuses
 - RSS doesn't show private or draft
+- atext for new file
+- atext for header
 
