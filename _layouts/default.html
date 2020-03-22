@@ -1,72 +1,18 @@
-<!DOCTYPE html>
+---
+layout: default
+---
 <html>
-
 {% include head.html %}
+<body class="{%- if page.categories -%}{{ page.categories }}{%- endif -%}" id="{%- if page.status -%}{{ page.status }}{%- endif -%}">
+	<div class="container">
+		<article class="main">
+				{{ content }}
+		</article>
 
-<body class="bg-{% if page.category %}{{ page.category }}{% else %}home{% endif %}">
 
-  {% if page.category %}
-  <div class="home nav">
-    <div class="container">
-      <a href="{{ site.url }}"><h2>{{ site.title }}</h2></a>
-    </div>
-  </div>
-  <div class="{{ page.category }} post">
-    <div class="container">
-      {% include share.html %}
-      <h1>{{ page.title }}</h1>
-      {{ content }}
-      <hr>
-      <div class="footer">
-        <!-- <a href="#" class="btn">
-          <i class="fa fa-plus"></i>
-          more {{ page.category }}
-        </a> -->
-        {% include share.html %}
-      </div>
-    </div>
-  </div>
-  {% else %}
-  <div class="start home">
 
-    <div class="container first">
-   <!--    <div class="projects">
-        <a href="http://dillonmag.com">
-          <h3>Dillon</h3>
-          <div class="description">the digital illustration magazine</div>
-        </a>
-        <a href="https://github.com/lazy-8/base#lazy-8base">
-          <h3>Base</h3>
-          <div class="description">rapid prototyping with gulp</div>
-        </a>
-        <a href="/tile">
-          <h3>Tile</h3>
-          <div class="description">configurable SVG patterns</div>
-        </a>
-     <a href="/tangle">
-          <h3>Tangle</h3>
-          <div class="description">powercharge your CSS transitions</div>
-        </a>
-      </div> -->
-      <header>
-        <h1>{{ site.title }}</h1>
-        <a href="/me/"><h2>about me</h2></a>
-        <a href="/portfolio/"><h2>portfolio</h2></a>
-      </header>
-    </div>
-  </div>
-  {% for post in paginator.posts %}
-  {% unless post.draft == true  %}
-  <a href="{{ post.url }}" class="preview {{ post.category }}" >
-    <div class="container">
-      <h2>{{ post.title }}</h2>
-      <p class="description">{{ post.description }}</p>
-    </div>
-  </a>
-  {% endunless %}
-  {% endfor %}
-  {% endif %}
-  {% include footer.html %}
+	</div>
+{% include scripts.html %}
 </body>
 
 </html>
