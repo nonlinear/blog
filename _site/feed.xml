@@ -1,629 +1,1014 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="www.nonlinear.nyc/feed.xml" rel="self" type="application/atom+xml" /><link href="www.nonlinear.nyc/" rel="alternate" type="text/html" /><updated>2020-03-22T14:25:21-04:00</updated><id>www.nonlinear.nyc/feed.xml</id><title type="html">nonlinear</title><subtitle>The anagram of my name is anarchist fool</subtitle><entry><title type="html">Stories thru data</title><link href="www.nonlinear.nyc/study/data-viz/" rel="alternate" type="text/html" title="Stories thru data" /><published>2020-01-29T18:03:16-05:00</published><updated>2020-01-29T18:03:16-05:00</updated><id>www.nonlinear.nyc/study/data-viz</id><content type="html" xml:base="www.nonlinear.nyc/study/data-viz/">&lt;h1 id=&quot;stories-through-data&quot;&gt;Stories Through Data&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://brainstation.io/event/nyc-data-visualization-feb2020?utm_source=bstnmeetup&amp;amp;utm_medium=eventpr&amp;amp;utm_campaign=febnyc2020panel&quot;&gt;Making an Impact with Data Visualization&lt;/a&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="www.nonlinear.nyc/feed.xml" rel="self" type="application/atom+xml" /><link href="www.nonlinear.nyc/" rel="alternate" type="text/html" /><updated>2020-03-22T16:29:23-04:00</updated><id>www.nonlinear.nyc/feed.xml</id><title type="html">nonlinear</title><subtitle>The anagram of my name is anarchist fool</subtitle><entry><title type="html">P5*js</title><link href="www.nonlinear.nyc/2020/03/22/p5-js.html" rel="alternate" type="text/html" title="P5*js" /><published>2020-03-22T00:00:00-04:00</published><updated>2020-03-22T00:00:00-04:00</updated><id>www.nonlinear.nyc/2020/03/22/p5*js</id><content type="html" xml:base="www.nonlinear.nyc/2020/03/22/p5-js.html">&lt;h1 id=&quot;videos&quot;&gt;Videos&lt;/h1&gt;
 
 &lt;hr /&gt;
-
-&lt;h3 id=&quot;lily-boyce&quot;&gt;Lily Boyce&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Data Visualization Engineer, Condé Nast&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://twitter.com/lilyelle?lang=en&quot;&gt;Lily Boyce (@lilyelle) / Twitter&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.foodandwaterwatch.org/&quot;&gt;Food &amp;amp; Water Watch&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img src=&quot;/Users/nonlinear/Critical/notes/data-visualization/dakota-access-pipeline-bakken-banking-finance-.jpg&quot; alt=&quot;dakota-access-pipeline-bakken-banking-finance-&quot; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;D3 + React&lt;/li&gt;
-  &lt;li&gt;Conde Nast
-    &lt;ul&gt;
-      &lt;li&gt;Business Intelligence&lt;/li&gt;
-      &lt;li&gt;Data Products for Clients&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;table&gt;
-      &lt;tbody&gt;
-        &lt;tr&gt;
-          &lt;td&gt;[1 Year of Trump’s Tweets, Analyzed&lt;/td&gt;
-          &lt;td&gt;Teen Vogue](https://www.teenvogue.com/story/trump-tweet-analysis)&lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/tbody&gt;
-    &lt;/table&gt;
-  &lt;/li&gt;
-  &lt;li&gt;60% of epicurious user base uses mobile&lt;/li&gt;
-  &lt;li&gt;
-    &lt;table&gt;
-      &lt;tbody&gt;
-        &lt;tr&gt;
-          &lt;td&gt;[Find Your 2019 Thanksgiving Recipes With This Clickable Tool&lt;/td&gt;
-          &lt;td&gt;Epicurious](https://www.epicurious.com/holidays-events/thanksgiving-recipe-finder-by-ingredient-make-your-menu-article)&lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/tbody&gt;
-    &lt;/table&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;h3 id=&quot;arina-igumenshcheva&quot;&gt;Arina Igumenshcheva&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Data Analyst, &lt;a href=&quot;https://www.thorn.org/&quot;&gt;Thorn&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://dumps.wikimedia.org/other/clickstream/readme.html&quot;&gt;wikipedia clickstream data dump&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://matplotlib.org/&quot;&gt;Matplotlib: Python plotting&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;d3&lt;/li&gt;
-  &lt;li&gt;Vis.jsp&lt;/li&gt;
-  &lt;li&gt;consider your own biases and expectations&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;h3 id=&quot;martin-lüttgersheiden&quot;&gt;Martin Lüttgersheiden&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Lead Data Scientist, Healthify&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://angel.co/mluttgersheiden&quot;&gt;AngelList&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://wwnorton.com/books/The-Wall-Street-Journal-Guide-to-Information-Graphics/&quot;&gt;The Wall Street Journal Guide to Information Graphics&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;wow, guide thru, then exploration&lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><summary type="html">Stories Through Data</summary></entry><entry><title type="html">After the crisis</title><link href="www.nonlinear.nyc/note/after-crisis/" rel="alternate" type="text/html" title="After the crisis" /><published>2020-01-29T18:03:16-05:00</published><updated>2020-01-29T18:03:16-05:00</updated><id>www.nonlinear.nyc/note/after-crisis</id><content type="html" xml:base="www.nonlinear.nyc/note/after-crisis/">&lt;p&gt;&lt;a href=&quot;https://www.vice.com/en_us/article/wxekvw/the-world-after-coronavirus-healthcare-labor-climate-internet&quot;&gt;What the World Will Look Like After Coronavirus - VICE&lt;/a&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Free and universal healthcare (“healthcare is a basic human right” -B. Sanders)&lt;/li&gt;
-  &lt;li&gt;Abolish ICE and prisons (“ICE is now a public health hazard”)&lt;/li&gt;
-  &lt;li&gt;Protect and empower labor (“Without these protections, everyone’s safety and health is put at risk”)&lt;/li&gt;
-  &lt;li&gt;A healthier climate (“If the 2008-09 financial crash is any  indicator, carbon could shoot right back up as soon as the crisis is  over”)&lt;/li&gt;
-  &lt;li&gt;Fast, accessible broadband (“Community owned/operated broadband  networks, long demonized and even prohibited by law are looking better  than ever”)&lt;/li&gt;
-  &lt;li&gt;Smash the surveillance state (“This pandemic mustn’t be used to infringe on the civil liberties and privacy of millions”)&lt;/li&gt;
-  &lt;li&gt;Billionaire wealth (“They’re sending people to work while jetting off to luxurious doomsday bunkers, getting Covid-19 tests while normal  people can’t, and also singing ‘Imagine’ from bucolic getaways.”)&lt;/li&gt;
-  &lt;li&gt;Public transit that works (“Congress is poised to prioritize bailing  out airlines and the cruise industry before it takes a look at public  transit”)&lt;/li&gt;
-  &lt;li&gt;The right to repair (“Right-to-repair has become a matter of life and death.”)&lt;/li&gt;
-  &lt;li&gt;Science for the people (“We were caught flat-footed by a fixation on ‘innovation’ and lack of public options”)&lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><summary type="html">What the World Will Look Like After Coronavirus - VICE</summary></entry><entry><title type="html">Boards, notes</title><link href="www.nonlinear.nyc/project/boards/" rel="alternate" type="text/html" title="Boards, notes" /><published>2020-01-29T18:03:16-05:00</published><updated>2020-01-29T18:03:16-05:00</updated><id>www.nonlinear.nyc/project/boards</id><content type="html" xml:base="www.nonlinear.nyc/project/boards/">&lt;h2 id=&quot;todo&quot;&gt;TODO&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;review cheap projector&lt;/li&gt;
-  &lt;li&gt;review cheap printer&lt;/li&gt;
-  &lt;li&gt;review cheap camera&lt;/li&gt;
-  &lt;li&gt;review cables and connectors&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&quot;os-business-model&quot;&gt;OS business model&lt;/h1&gt;
-
-&lt;h2 id=&quot;pyramid&quot;&gt;pyramid&lt;/h2&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;Name&lt;/th&gt;
-      &lt;th&gt;Stakeholder&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Topology application&lt;/td&gt;
-      &lt;td&gt;Janeraka, nycmesh&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Post-it application&lt;/td&gt;
-      &lt;td&gt;Pushpin port? how?&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Art application&lt;/td&gt;
-      &lt;td&gt;define&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Boards Platform&lt;/td&gt;
-      &lt;td&gt;&lt;a href=&quot;mailto:bernardoxhc@gmail.com&quot;&gt;Bernardo Fontes&lt;/a&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Business Model&lt;/td&gt;
-      &lt;td&gt;&lt;a href=&quot;mailto:georgia@simplysecure.org&quot;&gt;Georgia Bullen&lt;/a&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;h2 id=&quot;notes-by-oliver&quot;&gt;Notes by Oliver&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://protocol.ai/projects/&quot;&gt;Projects - Protocol Labs&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://nadiaeghbal.com/&quot;&gt;Nadia Eghbal&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;grants-to-look-out-for&quot;&gt;Grants to look out for&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/nayafia/microgrants#a-list-of-microgrant-programs-for-your-good-ideas&quot;&gt;A list of microgrant programs for your good ideas&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://wisconsinfastforward.com/wff_standard.htm&quot;&gt;Wisconsin Fast Forward Grants&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;The prototype fund German&lt;/li&gt;
-  &lt;li&gt;Tafka Mexican open source&lt;/li&gt;
-  &lt;li&gt;Canndid foundation center&lt;/li&gt;
-  &lt;li&gt;Open tech funds, prototypes (internet freedom)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;possible-fiscal-sponsors&quot;&gt;Possible Fiscal Sponsors&lt;/h2&gt;
-
-&lt;h2 id=&quot;partnerships-to-study&quot;&gt;Partnerships to study&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://publiclab.org/&quot;&gt;🎈 Public Lab: a DIY environmental science community&lt;/a&gt;
-    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;https://twitter.com/lizbarry&quot;&gt;Liz Barry&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://treekit.org/&quot;&gt;treeKIT - Maintenance mode&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;inkandswitch
-    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;https://github.com/inkandswitch/pushpin&quot;&gt;pushpin: A collaborative corkboard app&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://github.com/inkandswitch/interactive-shape-recognition&quot;&gt;interactive-shape-recognition: Implementation of “A Simple Approach to Recognise Geometric Shapes Interactively”&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://schoolofdata.nyc/&quot;&gt;NYC School of Data – a community conference through #civicdesign, #civictech, &amp;amp; #opendata.&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.digital-democracy.org/mapeo/&quot;&gt;Digital Democracy - Mapeo&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Lai yi Olsen&lt;/li&gt;
-  &lt;li&gt;Caroline sanders&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;todo-1&quot;&gt;Todo&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;thank Oliver, show ethical OS licncing&lt;/li&gt;
-  &lt;li&gt;thank Georgia, ask for pushpin invite, and art recommendations (Laiyi Olsen and Caroline sanders)&lt;/li&gt;
-  &lt;li&gt;storyboard “topology”: nycmesh and Janeraka&lt;/li&gt;
-  &lt;li&gt;Storyboard “pushpin” port&lt;/li&gt;
-  &lt;li&gt;Storyboard “art”&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Ryzome
-Fractured artists
-Open source collective
-Walking paper project&lt;/p&gt;
-
-&lt;h2 id=&quot;models-to-study&quot;&gt;Models to study&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;ethical open source&lt;/li&gt;
-  &lt;li&gt;Open access (for scientific papers)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;model-to-validate-its-a-very-crude-model&quot;&gt;model to validate (it’s a very crude model)&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;get paid in advance
-    &lt;ul&gt;
-      &lt;li&gt;focused scope: epic, estimated&lt;/li&gt;
-      &lt;li&gt;Grants, funds, crowdsourcing&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;deliver as commons
-    &lt;ul&gt;
-      &lt;li&gt;main code&lt;/li&gt;
-      &lt;li&gt;Integrations with existing libraries&lt;/li&gt;
-      &lt;li&gt;New libraries (stand alone projects)&lt;/li&gt;
-      &lt;li&gt;Documentation, methods (Creative Commons?)&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;reputation for more grants&lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><summary type="html">TODO</summary></entry><entry><title type="html">Ethical Code, notes</title><link href="www.nonlinear.nyc/project/ethical/" rel="alternate" type="text/html" title="Ethical Code, notes" /><published>2020-01-29T18:03:16-05:00</published><updated>2020-01-29T18:03:16-05:00</updated><id>www.nonlinear.nyc/project/ethical</id><content type="html" xml:base="www.nonlinear.nyc/project/ethical/">&lt;p&gt;Here are my notes, then zee notes, for zee to consolidate and announce.&lt;/p&gt;
-
-&lt;h4 id=&quot;audience&quot;&gt;Audience&lt;/h4&gt;
+&lt;h2 id=&quot;how-i-learn&quot;&gt;How I Learn&lt;/h2&gt;
 
 &lt;ol&gt;
-  &lt;li&gt;Palantir as company and developers&lt;/li&gt;
-  &lt;li&gt;non-developers (use laymen terms)&lt;/li&gt;
-  &lt;li&gt;maintainers
-    &lt;ol&gt;
-      &lt;li&gt;software is in use by palantir&lt;/li&gt;
-      &lt;li&gt;not on palantir and want to protect themselves&lt;/li&gt;
-    &lt;/ol&gt;
+  &lt;li&gt;Set timer (5 min)&lt;/li&gt;
+  &lt;li&gt;How do I feel&lt;/li&gt;
+  &lt;li&gt;How do I learn&lt;/li&gt;
+  &lt;li&gt;Demo:
+    &lt;ul&gt;
+      &lt;li&gt;
+        &lt;h2 id=&quot;processing-night-is-now-a-weekly-online-talk&quot;&gt;&lt;a href=&quot;https://praxis.nyc/processing&quot;&gt;Processing Night&lt;/a&gt; is now a weekly online talk&lt;/h2&gt;
+        &lt;h2 id=&quot;kinetic-typography&quot;&gt;Kinetic Typography&lt;/h2&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
   &lt;/li&gt;
+  &lt;li&gt;Set Timer (10 min?)&lt;/li&gt;
+  &lt;li&gt;How do I feel? (context)&lt;/li&gt;
+  &lt;li&gt;What did I do? (brief)&lt;/li&gt;
+  &lt;li&gt;Demo&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;h4 id=&quot;funnels&quot;&gt;Funnels&lt;/h4&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;maintainers with software in use
+&lt;ul&gt;
+  &lt;li&gt;Tim Rodenbröker: Kinetic Typography (&lt;a href=&quot;https://timrodenbroeker.de/processing-tutorial-kinetic-typography-1/&quot;&gt;article&lt;/a&gt;, &lt;a href=&quot;https://www.youtube.com/watch?v=SKDhkB8g1So&amp;amp;feature=youtu.be&quot;&gt;video&lt;/a&gt;)&lt;/li&gt;
+  &lt;li&gt;Results (&lt;a href=&quot;https://github.com/nonlinear/processing-night/tree/master/kinetic_typography&quot;&gt;github&lt;/a&gt;)
     &lt;ol&gt;
-      &lt;li&gt;change the licensing: point to the research&lt;/li&gt;
-      &lt;li&gt;pledge on README (badge)&lt;/li&gt;
-      &lt;li&gt;donate money to a group that opposes ICE (README that they did)&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;maintainers unsure if they are used by palantir
-    &lt;ol&gt;
-      &lt;li&gt;github oauth to detect if (alerts? phase 2? discuss)
+      &lt;li&gt;Possibilities&lt;/li&gt;
+      &lt;li&gt;Things I learned
         &lt;ol&gt;
-          &lt;li&gt;if yes, check “maintainers with software in use”&lt;/li&gt;
-          &lt;li&gt;if no, how to protect yourself from it&lt;/li&gt;
+          &lt;li&gt;When working on Pgraphics element, make sure to define a renderer.&lt;/li&gt;
+          &lt;li&gt;Sine function&lt;/li&gt;
+          &lt;li&gt;random function&lt;/li&gt;
+          &lt;li&gt;translate, rotate, skew move everything BELOW code. Push/pop wraps it like a parenthesis. (&lt;a href=&quot;https://youtu.be/OaBSHuP4xcE&quot;&gt;video tutorial&lt;/a&gt;)&lt;/li&gt;
+        &lt;/ol&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Tools that helped
+        &lt;ol&gt;
+          &lt;li&gt;Sublimerge (to diff between your code  and tutotial one, and identify typos)&lt;/li&gt;
+          &lt;li&gt;new snippets: push, pop, matrix, rotate, createFont and all text related, beginDraw, endDraw&lt;/li&gt;
         &lt;/ol&gt;
       &lt;/li&gt;
     &lt;/ol&gt;
   &lt;/li&gt;
-  &lt;li&gt;dev non-mantainers
-    &lt;ol&gt;
-      &lt;li&gt;raise an issue on ethical license (padding with warnings, how to behave)&lt;/li&gt;
-      &lt;li&gt;donate money to a group that opposes ICE (if you can afford)&lt;/li&gt;
-      &lt;li&gt;donate to repo (better contrast for repos on pledge)&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;non-dev
-    &lt;ol&gt;
-      &lt;li&gt;dashboard, graphs, progress, bird-eye view: explain what they are seeing (phase 2?)&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h4 id=&quot;arguments-to-expose&quot;&gt;Arguments to expose&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;open source traditionless&lt;/li&gt;
-  &lt;li&gt;overworked, underpaid maintainers (donation, thank you for your service, etc)&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h4 id=&quot;tech-to-discuss&quot;&gt;Tech to discuss&lt;/h4&gt;
+&lt;hr /&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;flags on CTAs so we can measure progress (of donation, of issues raised, etc)&lt;/li&gt;
-  &lt;li&gt;proxy mesure for repo popularity: reveal power curve, some repos are better than others (likes, follow, activity. it PROBABLY exists somewhere)&lt;/li&gt;
-  &lt;li&gt;dashboard&lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><summary type="html">Here are my notes, then zee notes, for zee to consolidate and announce.</summary></entry><entry><title type="html">Nonlinear, notes</title><link href="www.nonlinear.nyc/project/nonlinear/" rel="alternate" type="text/html" title="Nonlinear, notes" /><published>2020-01-29T18:03:16-05:00</published><updated>2020-01-29T18:03:16-05:00</updated><id>www.nonlinear.nyc/project/nonlinear</id><content type="html" xml:base="www.nonlinear.nyc/project/nonlinear/">&lt;h1 id=&quot;todo&quot;&gt;TODO&lt;/h1&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;why is config.yml info not on head?&lt;/li&gt;
-  &lt;li&gt;cover on frontmatter
-    &lt;ul&gt;
-      &lt;li&gt;find a default cover per category&lt;/li&gt;
-      &lt;li&gt;ensure cover appear on open links (failsafe for animated gif)&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;check unsorted&lt;/li&gt;
-  &lt;li&gt;get processing npm things&lt;/li&gt;
-  &lt;li&gt;move processing stuff&lt;/li&gt;
-  &lt;li&gt;categories as a loop&lt;/li&gt;
-  &lt;li&gt;find a variable font&lt;/li&gt;
-  &lt;li&gt;&lt;del&gt;status: public, draft, private&lt;/del&gt;&lt;/li&gt;
-  &lt;li&gt;RSS shouldn’t show private or draft&lt;/li&gt;
-  &lt;li&gt;&lt;del&gt;atext for new file&lt;/del&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;del&gt;atext for frontmatter&lt;/del&gt;&lt;/li&gt;
-  &lt;li&gt;design this mofo&lt;/li&gt;
-  &lt;li&gt;p5js inside div, not floating around&lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><summary type="html">TODO</summary></entry><entry><title type="html">Kichari</title><link href="www.nonlinear.nyc/recipe/kichari/" rel="alternate" type="text/html" title="Kichari" /><published>2020-01-29T18:03:16-05:00</published><updated>2020-01-29T18:03:16-05:00</updated><id>www.nonlinear.nyc/recipe/kichari</id><content type="html" xml:base="www.nonlinear.nyc/recipe/kichari/">&lt;ul&gt;
-  &lt;li&gt;6 cups water&lt;/li&gt;
-  &lt;li&gt;1 cup basmati rice&lt;/li&gt;
-  &lt;li&gt;1/2 cup yellow split mung dal (soaked for 1 hour or more)&lt;/li&gt;
-  &lt;li&gt;pinch of asafetida (hing) powder&lt;/li&gt;
-  &lt;li&gt;1 tbsp everyday savory spice mix&lt;/li&gt;
-  &lt;li&gt;2 cups vegetables … coarsely chopped into 1/2 in cubes, leafy greens also coarsely chopped into strips&lt;/li&gt;
-  &lt;li&gt;1/2-1 tbsp salt&lt;/li&gt;
-  &lt;li&gt;fresh cilantro&lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><summary type="html">6 cups water 1 cup basmati rice 1/2 cup yellow split mung dal (soaked for 1 hour or more) pinch of asafetida (hing) powder 1 tbsp everyday savory spice mix 2 cups vegetables … coarsely chopped into 1/2 in cubes, leafy greens also coarsely chopped into strips 1/2-1 tbsp salt fresh cilantro</summary></entry><entry><title type="html">Krita Shortcuts</title><link href="www.nonlinear.nyc/study/krita/" rel="alternate" type="text/html" title="Krita Shortcuts" /><published>2020-01-29T18:03:16-05:00</published><updated>2020-01-29T18:03:16-05:00</updated><id>www.nonlinear.nyc/study/krita</id><content type="html" xml:base="www.nonlinear.nyc/study/krita/">&lt;p&gt;First off, use popup tool for most anything. Find trigger, and learn usage.&lt;/p&gt;
-
-&lt;p&gt;control-shift-F full screen&lt;/p&gt;
-
-&lt;p&gt;For anything popup tool bar DOESN’T cover:&lt;/p&gt;
-
-&lt;p&gt;Alt-UP Activate next layer (was pgup)
-Alt-DOWN Activate previous layer (was pgdn)
-Control-Shift J cut selection to new layer&lt;/p&gt;
-
-&lt;p&gt;Control shift A deselect&lt;/p&gt;
-
-&lt;p&gt;color Picker
-Brushes
-outLine selection tool&lt;/p&gt;
-
-&lt;p&gt;Brush Blend Modes Alt-shift-(capitalized letter)&lt;/p&gt;
-
-&lt;p&gt;behind Q
-cleaR
-Color
-color Burn
-color Dodge
-darKen
-diffErence
-dIssolve
-eXclusion
-Hard light
-hard mix L
-hard overlay P
-hUe
-liGhten
-lineAr burn
-linear dodge W
-linear light J
-luminosity Y
-Multiply
-Normal
-pin light Z
-saTuration
-Screen
-soFt light
-Vivid light&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;reorganize per function, based on video&lt;/li&gt;
-  &lt;li&gt;add video link&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;control-L levels
-control-U HVS adjustment&lt;/p&gt;
-
-&lt;p&gt;layer&lt;/p&gt;
-
-&lt;p&gt;shift-del remove layer
-f2 rename current layer&lt;/p&gt;
-
-&lt;p&gt;brush size&lt;/p&gt;
-
-&lt;p&gt;[ decrease
-] increase&lt;/p&gt;
-
-&lt;p&gt;G gradient
-V move tool&lt;/p&gt;
-
-&lt;p&gt;control-alt-C resize canvas&lt;/p&gt;
-
-&lt;p&gt;zoom&lt;/p&gt;
-
-&lt;p&gt;control + zoom in
-control - zoom out&lt;/p&gt;</content><author><name></name></author><summary type="html">First off, use popup tool for most anything. Find trigger, and learn usage. control-shift-F full screen For anything popup tool bar DOESN’T cover: Alt-UP Activate next layer (was pgup) Alt-DOWN Activate previous layer (was pgdn) Control-Shift J cut selection to new layer Control shift A deselect color Picker Brushes outLine selection tool Brush Blend Modes Alt-shift-(capitalized letter) behind Q cleaR Color color Burn color Dodge darKen diffErence dIssolve eXclusion Hard light hard mix L hard overlay P hUe liGhten lineAr burn linear dodge W linear light J luminosity Y Multiply Normal pin light Z saTuration Screen soFt light Vivid light reorganize per function, based on video add video link control-L levels control-U HVS adjustment layer shift-del remove layer f2 rename current layer brush size [ decrease ] increase G gradient V move tool control-alt-C resize canvas zoom control + zoom in control - zoom out</summary></entry><entry><title type="html">Animation Primer</title><link href="www.nonlinear.nyc/study/animation/" rel="alternate" type="text/html" title="Animation Primer" /><published>2020-01-29T18:03:16-05:00</published><updated>2020-01-29T18:03:16-05:00</updated><id>www.nonlinear.nyc/study/animation</id><content type="html" xml:base="www.nonlinear.nyc/study/animation/">&lt;h2 id=&quot;duration&quot;&gt;duration&lt;/h2&gt;
-
-&lt;p&gt;Specifies how many seconds or milliseconds an animation takes to complete one cycle. Default 0&lt;/p&gt;
-
-&lt;h2 id=&quot;delay&quot;&gt;delay&lt;/h2&gt;
-
-&lt;p&gt;Specifies when the animation will start. Default 0&lt;/p&gt;
-
-&lt;h2 id=&quot;function&quot;&gt;function&lt;/h2&gt;
-
-&lt;p&gt;Describes how the animation will progress over one cycle of its duration. Default “ease”&lt;/p&gt;
-
-&lt;h2 id=&quot;count&quot;&gt;count&lt;/h2&gt;
-
-&lt;p&gt;Specifies the number of times an animation is played. Default 1&lt;/p&gt;
-
-&lt;h2 id=&quot;fill-mode&quot;&gt;fill-mode&lt;/h2&gt;
-
-&lt;p&gt;Specifies if the effects of an animation are before the animation starts and after it ends.&lt;/p&gt;
-
-&lt;h2 id=&quot;visibility&quot;&gt;visibility&lt;/h2&gt;
-
-&lt;p&gt;Determines whether or not a transformed element is visible when it is not facing the screen.&lt;/p&gt;</content><author><name></name></author><summary type="html">duration Specifies how many seconds or milliseconds an animation takes to complete one cycle. Default 0 delay Specifies when the animation will start. Default 0 function Describes how the animation will progress over one cycle of its duration. Default “ease” count Specifies the number of times an animation is played. Default 1 fill-mode Specifies if the effects of an animation are before the animation starts and after it ends. visibility Determines whether or not a transformed element is visible when it is not facing the screen.</summary></entry><entry><title type="html">computational guidance systems</title><link href="www.nonlinear.nyc/study/computational-guidance-systems/" rel="alternate" type="text/html" title="computational guidance systems" /><published>2020-01-29T18:03:16-05:00</published><updated>2020-01-29T18:03:16-05:00</updated><id>www.nonlinear.nyc/study/computational-guidance-systems</id><content type="html" xml:base="www.nonlinear.nyc/study/computational-guidance-systems/">&lt;ul&gt;
-  &lt;li&gt;Robb Beal&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;Machine Learning&lt;/th&gt;
-      &lt;th&gt;Optimization&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;prediction, inference, learn from data&lt;/td&gt;
-      &lt;td&gt;find max/min, human-in-the-loop, evaluation&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Machine Learning as molecular gastronomy&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;BayesOpt&lt;/th&gt;
-      &lt;th&gt;Combinatorial Optimization&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;max/min&lt;/td&gt;
-      &lt;td&gt;Interactive: the optimization happens in using the product&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;h4 id=&quot;bayesopt&quot;&gt;BayesOpt&lt;/h4&gt;
+&lt;h2 id=&quot;json&quot;&gt;Json&lt;/h2&gt;
 
 &lt;ol&gt;
-  &lt;li&gt;variables, what min and max&lt;/li&gt;
-  &lt;li&gt;ask optmizer, given bounds above&lt;/li&gt;
-  &lt;li&gt;have users evaluate the UI thru representative task (observation)&lt;/li&gt;
-  &lt;li&gt;feed value metric of observation, back to 3&lt;/li&gt;
+  &lt;li&gt;Set Timer (5 min)&lt;/li&gt;
+  &lt;li&gt;How do I feel? (context)&lt;/li&gt;
+  &lt;li&gt;What did I do? (brief)&lt;/li&gt;
+  &lt;li&gt;Demo
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;http://www.nonlinear.nyc/processing-night/json.html&quot;&gt;json loop&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://github.com/praxisnyc/sample-data#sample-data&quot;&gt;sample-data&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;TIL
+    &lt;ol&gt;
+      &lt;li&gt;JSON can only point to URL, not local&lt;/li&gt;
+      &lt;li&gt;I gotta make &lt;code class=&quot;highlighter-rouge&quot;&gt;random()&lt;/code&gt; work&lt;/li&gt;
+      &lt;li&gt;variables can be outside &lt;code class=&quot;highlighter-rouge&quot;&gt;function&lt;/code&gt; (cleaner)&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
 &lt;/ol&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;operators&quot;&gt;Operators&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;+&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;-&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;*&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;/&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;%&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;converted: &lt;code class=&quot;highlighter-rouge&quot;&gt;map()&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;round()&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;random()&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;cos()&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;stars&quot;&gt;Stars&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;learn if/else&lt;/li&gt;
+  &lt;li&gt;learn how to bring an external file INSIDE p5js&lt;/li&gt;
+  &lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">Videos</summary></entry><entry><title type="html">Other Publisher Workflows</title><link href="www.nonlinear.nyc/2020/03/22/Other-Publisher-Workflows.html" rel="alternate" type="text/html" title="Other Publisher Workflows" /><published>2020-03-22T00:00:00-04:00</published><updated>2020-03-22T00:00:00-04:00</updated><id>www.nonlinear.nyc/2020/03/22/Other-Publisher-Workflows</id><content type="html" xml:base="www.nonlinear.nyc/2020/03/22/Other-Publisher-Workflows.html">&lt;h1 id=&quot;other-publisher-workflows&quot;&gt;Other Publisher Workflows&lt;/h1&gt;
+
+&lt;p&gt;Hi everyone,&lt;/p&gt;
+
+&lt;p&gt;I’m  CCing Shawn Chittle who will be joining us next Tuesday for 2 months,  until we get the full-time requisition filled. He comes with a ton of  experience in product design and leadership, most recently heading up design for Zillow.&lt;/p&gt;
+
+&lt;p&gt;First off, thank you for sharing. I love that the individual universities are consolidating this information, so researchers don’t need to know that  their institution is part of some bigger deal and find that info there. I love that the instructions are specific to the university. I wonder if we can canonize this approach in the  agreements somehow. This is also one of the more robust ones I’ve seen,  which is great.&lt;/p&gt;
+
+&lt;p&gt;Here’s my take on consolidating. I’ll also find a place to stash the workflow  info so we don’t lose it, unless there’s an existing place that should  live?&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;AIP&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;6 journals, none fully OA&lt;/li&gt;
+  &lt;li&gt;Manual process and authors need to notify AIP about their affiliation.&lt;/li&gt;
+  &lt;li&gt;“AIP is working on automization of the workflow”&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;ACS&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;All ACS journals, including OA&lt;/li&gt;
+  &lt;li&gt;CC-BY license&lt;/li&gt;
+  &lt;li&gt;Agreement covers about 70% of publishing output; it sounds like organizations  will need to pay for more publishing output when the agreement runs out&lt;/li&gt;
+  &lt;li&gt;No automated workflow yet. ACS is finding articles that are accepted after Jan 1, reporting to the consortium, then individual universities  verify.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;CUP&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;It sounds like all hybrid and OA journals&lt;/li&gt;
+  &lt;li&gt;License signing is via RightsLink&lt;/li&gt;
+  &lt;li&gt;LU directs authors to enter “Lund University” in the “Affiliation discount” field, which waives the APC&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Here’s something I found online which references the RightsLink UI if you want to take a peek. While it is a bit confusing, I see merit in how they’re handling institutional matching – one big scrolling box inline that shortens as you refine, with the “can’t find  your institution” link to the right. I wonder if that would reduce user  error.&lt;/p&gt;
+
+&lt;p&gt;https://www.lib4ri.ch/files/applying_affiliation_discount_for_science_advances_apc.pdf&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Cogitatio Press&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;All 4 journals&lt;/li&gt;
+  &lt;li&gt;They don’t make a distinction about corresponding vs. co author, they just note authors&lt;/li&gt;
+  &lt;li&gt;Authors must submit using their institutional email address (@lu.se) – this  makes the bold assumption that the submitter’s affiliation represents  all affiliations, or rather forces someone affiliated with Lund to be the submitter&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;De Gruyter&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Weirdly, LU says 90% Discount on Hybrid, 30% discount on pure OA, but DG’s own  page on Hybrid says your institution will cover the APC – anyone reading that differently?&lt;/li&gt;
+  &lt;li&gt;They directly link to a Sweden-specific page on De Guyter’s side: https://www.degruyter.com/page/1770&lt;/li&gt;
+  &lt;li&gt;CC-BY or CC-BY-NC&lt;/li&gt;
+  &lt;li&gt;Universities must actively subscribe to the hybrid journal being published in; 8 institutions have the full collection&lt;/li&gt;
+  &lt;li&gt;Corresponding author only&lt;/li&gt;
+  &lt;li&gt;This page says instructions are on each journal’s “Submission of  Manuscripts” page, but then each journal I looked at references more  information at these generic pages, so I can’t actually find the instructions for authors on how to specify their affiliation&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;ECS&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The link goes directly to an ECS page and I can’t find the specific detail for these deals&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Elsevier&lt;/strong&gt;&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;
-    &lt;p&gt;distance, delay, decay, etc (metrics)&lt;/p&gt;
+    &lt;p&gt;Journals in the ScienceDirect Freedom collection, and journals from Cell Press. Many journals are excluded.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;Metrics&lt;/p&gt;
+    &lt;p&gt;Their workflow is like ours. “In the platform the author states the  affiliation and can also add other information. Based on the stated  affiliation, the current options for publishing are shown and the author can choose Gold OA”&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Journey screenshots here: https://www.ub.lu.se/en/sites/ub.lu.se.en/files/publicering_under_elsevier_avtalet.pdf&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;ul&gt;
+      &lt;li&gt;I  like the screen with “getting ready” instructions including noting that a PO or tax exemption info may be requested if applicable&lt;/li&gt;
+      &lt;li&gt;It looks like they, too, are instructing authors to focus on institution and not department.&lt;/li&gt;
+      &lt;li&gt;The rest of the workflow is very similar to ours; enter coauthor details,  enter funder info, select OA, select license, select ownership, review  terms and accept. They have also chunked it into distinct screens. I’d like to review some of the instructional copy they have and see if they’ve figured out a better way to explain some  of the thorny concepts, since it’s best if we have familiarity and  convergence when we can.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;IOP&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;50 hybrid journals. You still need to apply for APC funding for fully OA.&lt;/li&gt;
+  &lt;li&gt;They request the corresponding author state affiliation AND use lu.se email address at submission&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;IWA&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;25% discount; they have OA for books which is covered as well&lt;/li&gt;
+  &lt;li&gt;They use RightsLink&lt;/li&gt;
+  &lt;li&gt;Workflow here, similar to CUP
+ https://iwaponline.com/open_access/pages/institutional_waivers&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Karger&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;All journals and unlimited OA&lt;/li&gt;
+  &lt;li&gt;Corresponding author affiliation only&lt;/li&gt;
+  &lt;li&gt;Affiliation is specified at submission&lt;/li&gt;
+  &lt;li&gt;Workflow here, page 10 (P.S.: yikes): https://www.ub.lu.se/en/sites/ub.lu.se.en/files/karger_author_workflow.pdf&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;OUP&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Limited number of articles, covers 75-85% of expected articles&lt;/li&gt;
+  &lt;li&gt;All Hybrid. OA and 41 titles from full collection excluded.&lt;/li&gt;
+  &lt;li&gt;Their workflow is almost the reverse of ours: Upon acceptance, corresponding  author gets link to “Author services site.” After selecting CC-BY,  author goes to APC page, where they can pick their institution from a discount list.&lt;/li&gt;
+  &lt;li&gt;Institution independently verifies before article is published.&lt;/li&gt;
+  &lt;li&gt;I found some screenshots here: https://www.embl.de/services/library/open-access-information/publisher-schemes/oup/ - the OA account info dominates the OA screen and is seen by everyone&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;RSC&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Unlimited&lt;/li&gt;
+  &lt;li&gt;Corresponding authors&lt;/li&gt;
+  &lt;li&gt;Hybrid, not OA. Must apply to central fund for OA.&lt;/li&gt;
+  &lt;li&gt;No clear details about how they are determining eligibility, but on RSC’s  own page it requests they use their institutional email and state their  affiliation in their manuscript, so it must be a combination of email and a manual production process to invite  authors: https://www.rsc.org/journals-books-databases/open-access/read-and-publish/&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;SAGE&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Unlimited in hybrid, 20% discount for OA; 12 journals excluded&lt;/li&gt;
+  &lt;li&gt;SAGE is launching a new management system in 2020 which is post-acceptance.  They claim this is where authors can state that the article is part of a publisher agreement, but they also claim that upon acceptance they will be notified that the article can be  published with OA. So, not clear when/how they will determine  eligibility. TBD.&lt;/li&gt;
+  &lt;li&gt;Lund University does not verify author affiliation – I wonder what was negotiated, then.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;SPIE&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;They request that authors submit their paper and state their affiliation including department, and use their university email&lt;/li&gt;
+  &lt;li&gt;There is additionally an institutional dropdown in the submission process to designate that they are part of the agreement.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Springer Compact&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Hybrid journals&lt;/li&gt;
+  &lt;li&gt;Corresponding author must be affiliated with Lund and state it as an affiliation (presumably at submission)&lt;/li&gt;
+  &lt;li&gt;Authors are requested to use lu.se email&lt;/li&gt;
+  &lt;li&gt;Limited to article type&lt;/li&gt;
+  &lt;li&gt;Once your article is accepted, Springer will ask you to confirm affiliation  to Lund University. Springer and the institution then verify  eligibility.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Springer Nature Fully OA&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;BMC, Springer Open Journals, Nature Comms, Scientific Reports, and Palgrave Communications&lt;/li&gt;
+  &lt;li&gt;LU-affiliated corresponding authors will be identified when submitting a manuscript.&lt;/li&gt;
+  &lt;li&gt;Authors are advised to only enter Lund University to facilitate identification. LU also verifies affiliation.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;T&amp;amp;F&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Cap of 1450 APCs&lt;/li&gt;
+  &lt;li&gt;T&amp;amp;F core content only – 2,300 hybrid journals. No fully OA&lt;/li&gt;
+  &lt;li&gt;Affiliation stated at submissions; authors also asked to use lu.se email address.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Final thoughts:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;A lot of publishers are providing sub-optimal means to identify authors, and  we’re among the best at helping and checking to make sure eligible  authors get through. We’ll be on par with Elsevier after this release which is good news in this case. Hooray for us!&lt;/p&gt;
+
+&lt;p&gt;I  don’t think the hybrid description of the workflow on LU’s page is as  clear as others’. We don’t advise explicitly that the best way to ensure eligibility is to have the affiliated corresponding author submit, and to provide accurate institutional information at  submission. The instructions can also confuse someone because not every  author is going to get an email showing they are covered. It would be  best to make it clear that they will have the opportunity to clarify institutional affiliations after being invited to sign their  license. I’d also encourage authors to use their institutional @lu.edu  email from the et-go because that is just another way we can make sure  they are seeing notification at the right time.&lt;/p&gt;
+
+&lt;p&gt;What  I’m reading from a lot of these is that institutions are independently  verifying eligibility of articles before the article gets published. I  can only guess that in that model with something like OUP, they are getting a lot of authors who claim affiliation but  don’t qualify, and the institution needs to review before it gets  covered and published. This seems like it could really slow the  publishing process down (waiting on institutions) and require a lot of back-tracking for authors who mistakenly (or intentionally)  claim eligibility when they are not eligible. On the other hand, I bet  they don’t get a lot of authors who are mistakenly paying for their own  APCs. Pros and Cons.&lt;/p&gt;
+
+&lt;p&gt;Danielle&lt;/p&gt;</content><author><name></name></author><summary type="html">Other Publisher Workflows</summary></entry><entry><title type="html">Todo</title><link href="www.nonlinear.nyc/2020/03/22/TODO.html" rel="alternate" type="text/html" title="Todo" /><published>2020-03-22T00:00:00-04:00</published><updated>2020-03-22T00:00:00-04:00</updated><id>www.nonlinear.nyc/2020/03/22/TODO</id><content type="html" xml:base="www.nonlinear.nyc/2020/03/22/TODO.html">&lt;h1 id=&quot;todo&quot;&gt;TODO&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;organize dental project (fresar)&lt;/li&gt;
+  &lt;li&gt;finish zine&lt;/li&gt;
+  &lt;li&gt;Boards
+    &lt;ul&gt;
+      &lt;li&gt;Try paper programs&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;escolher foto do gunther&lt;/li&gt;
+  &lt;li&gt;praxis cases
+    &lt;ul&gt;
+      &lt;li&gt;technoqueers&lt;/li&gt;
+      &lt;li&gt;janeraka&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;accessories&quot;&gt;Accessories&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.amazon.com/VAVA-Adapter-Delivery-Ethernet-Laptops-Grey/dp/B079GSMZ7G/ref=as_li_ss_tl?ie=UTF8&amp;amp;linkCode=ll1&amp;amp;tag=insider04-20&amp;amp;linkId=840202d6fb0c462964ed0ded11d54b1e&quot;&gt;VAVA USB C Hub 9-in-1 Adapter with PD Power Deliverys&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.amazon.com/d/Computer-Accessories/Twelve-South-Space-Saving-Vertical-notebooks/B071RWKNF2/ref=as_li_ss_tl?ie=UTF8&amp;amp;linkCode=ll1&amp;amp;tag=insider04-20&amp;amp;linkId=f03e971db8501faa879297c9e8054ef3&quot;&gt;Twelve South BookArc for MacBook&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.amazon.com/MagSafe-Adapter-Magnetic-MacBook-Charger/dp/B077BQ5PMY/ref=as_li_ss_tl?ie=UTF8&amp;amp;linkCode=ll1&amp;amp;tag=insider04-20&amp;amp;linkId=cb0d62a5fa549d378ee7dbfd90f9c8ba&quot;&gt;USB-C Magnetic Charger Charging Cable&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.amazon.com/dp/B07PWC32ZD/?linkCode=xm2&quot;&gt;USB C Charger, Anker 60W PIQ 3.0&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Nomad Kevlar USB C Cable&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;notification-changelog&quot;&gt;Notification Changelog&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;my submissions&lt;/li&gt;
+  &lt;li&gt;progress board&lt;/li&gt;
+  &lt;li&gt;submission overview&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;other-issues&quot;&gt;Other issues&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;new “or” design&lt;/li&gt;
+  &lt;li&gt;fix button shadow&lt;/li&gt;
+  &lt;li&gt;revision, 95% of submissions&lt;/li&gt;
+  &lt;li&gt;design: same keyword (animation of pill going out)&lt;/li&gt;
+  &lt;li&gt;press states&lt;/li&gt;
+  &lt;li&gt;journal brand colors enhancement: &lt;a href=&quot;https://stackoverflow.com/questions/27869740/find-the-correct-wcag-aa-contrast-color-for-a-given-hex-background-value&quot;&gt;a test if color works with contrast?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;jnr-journal-branding&quot;&gt;JNR Journal Branding&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;open graph&lt;/li&gt;
+  &lt;li&gt;favicons&lt;/li&gt;
+  &lt;li&gt;app icons (ios, windows)&lt;/li&gt;
+  &lt;li&gt;blurb (square layout)&lt;/li&gt;
+  &lt;li&gt;header desktop&lt;/li&gt;
+  &lt;li&gt;html email&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;plugins&quot;&gt;Plugins&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;ADA English Language Editor services (if below score)&lt;/li&gt;
+  &lt;li&gt;fit with journal?&lt;/li&gt;
+  &lt;li&gt;scope checking&lt;/li&gt;
+  &lt;li&gt;proof of concept 3rd party&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;useful-links&quot;&gt;Useful Links&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://css-irl.info/7-uses-for-css-custom-properties/&quot;&gt;7 Uses for CSS Custom Properties&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.biorxiv.org/content/10.1101/088278v5.full.pdf&quot;&gt;Ten Simple Rules for Structuring Papers&lt;/a&gt; — &lt;em&gt;Focus your paper on one central contribution, which you communicate in the  title; write for flesh-and-blood human beings who do not know your work; stick to the context-content-conclusion (C-C-C) scheme; optimize your  logical flow by avoiding zig-zag and using parallelism; tell a complete  story in the abstract; get across why the paper matters in the  introduction; communicate the results as a sequence of statements,  supported by figures, that connect logically to support the central  contribution; discuss how the gap was filled, the limitations of the  interpretation, and the relevance to the field; allocate time where it  matters: title, abstract, figures, and outlining; get feedback to  reduce, reuse, and recycle the story.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;aldeia&lt;/p&gt;
+
+&lt;p&gt;altamira&lt;/p&gt;
+
+&lt;p&gt;belem&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;h4 id=&quot;likely-things-to-be-easy-unlikely-things-to-be-possible&quot;&gt;&lt;em&gt;likely things to be easy, unlikely things to be possible&lt;/em&gt;&lt;/h4&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;conferences&quot;&gt;Conferences&lt;/h3&gt;
+
+&lt;h4 id=&quot;an-event-apart&quot;&gt;An Event Apart&lt;/h4&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;August 26–28, 2019 Chicago or October 28–30, Denver&lt;/p&gt;
 
     &lt;ul&gt;
-      &lt;li&gt;distance, delay, decay&lt;/li&gt;
-      &lt;li&gt;brightness, contrast, saturation, color balance (3)&lt;/li&gt;
+      &lt;li&gt;$1,600?&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://aneventapart.com/event/chicago-2019&quot;&gt;chicago&lt;/a&gt;, &lt;a href=&quot;https://aneventapart.com/event/denver-2019&quot;&gt;denver&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;Danielle: AEA Chicago has a good agenda, but policy is you should be booking  travel more than 2 weeks ahead of time unless it’s an emergency, and  that’s short notice for next sprint.
+   AEA Denver is similar but I notice there are fewer sessions on user research and integrating that insight into design.&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;optimal state&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.circlesconference.com/&quot;&gt;Circles&lt;/a&gt;&lt;/p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;September 18-20 Texas&lt;/li&gt;
+      &lt;li&gt;$575&lt;/li&gt;
+      &lt;li&gt;Danielle: Circles isn’t focused nearly enough on the user.&lt;/li&gt;
+    &lt;/ul&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;Refining Visual Designs: 6 iterations&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;https://2019.midwestuxconference.com/schedule/&quot;&gt;MidWest UX Conference&lt;/a&gt;&lt;/p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;October 10–12 Grand Rapids&lt;/li&gt;
+      &lt;li&gt;$375 – $450&lt;/li&gt;
+      &lt;li&gt;Danielle: Where is the agenda for Midwest UX?&lt;/li&gt;
+      &lt;li&gt;Nicholas: I think the agenda is somewhat slim. Is there one you think it’s important? If not, let’s forget this one.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;lista&quot;&gt;Lista&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;arroz
+    &lt;ul&gt;
+      &lt;li&gt;refogar: gordura de coco, sal e alho, mistura e guarda&lt;/li&gt;
+      &lt;li&gt;Cozinhar: 1 arroz, 2 agua&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;feijao
+    &lt;ul&gt;
+      &lt;li&gt;poe de molho a noite&lt;/li&gt;
+      &lt;li&gt;joga agua fora, lava&lt;/li&gt;
+      &lt;li&gt;bastante agua (agua, feijao) e poe pra cozinhar&lt;/li&gt;
+      &lt;li&gt;2h&lt;/li&gt;
+      &lt;li&gt;Alho na panela, gordura, dourar, joga&lt;/li&gt;
+      &lt;li&gt;sal&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;resubmit&quot;&gt;Resubmit&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;show whats incomplete (green)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;Humans are good at comparative judging&lt;/p&gt;
+    &lt;p&gt;just happy path (some loose ends)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;cultural considerations: if they dont share a culture, human-in-the-middle doesnt help.&lt;/p&gt;
+    &lt;p&gt;discuss format later, at least we have a map&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;3-20 inependent design dimensions&lt;/p&gt;
+    &lt;p&gt;accept/reject/unsbumit/revise&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;10-1000 of human observations&lt;/p&gt;
+    &lt;p&gt;arrrows show action, titles show what user sees after action&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;diamond chart (definition/execution)&lt;/p&gt;
+    &lt;p&gt;which factors influence people decison to go with the recommendations&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;a/b test dont tell a lot about optimal design dimension&lt;/p&gt;
+    &lt;p&gt;two letter if wiley recommendations&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=17851964&quot;&gt;google vizier&lt;/a&gt;&lt;img src=&quot;/assets/images/posts/Screen Shot 2020-01-15 at 7.36.55 PM.png&quot; alt=&quot;Screen Shot 2020-01-15 at 7.36.55 PM&quot; /&gt;&lt;/p&gt;
+    &lt;p&gt;link to journal overview&lt;/p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;editor recommendation (personal or not)&lt;/li&gt;
+      &lt;li&gt;impact factor&lt;/li&gt;
+      &lt;li&gt;fast and easy resubmit (70/80% of it)&lt;/li&gt;
+      &lt;li&gt;WOAA eligibility&lt;/li&gt;
+      &lt;li&gt;new journal launch (how to booster)
+        &lt;ul&gt;
+          &lt;li&gt;aims and scope&lt;/li&gt;
+          &lt;li&gt;society affiliation&lt;/li&gt;
+          &lt;li&gt;editorial board&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;editor just rejected a paper (after or before letter? or is IT the letter?)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;https://sigopt.com/&lt;/p&gt;
+    &lt;p&gt;options available (define journal default)&lt;/p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;Hand select a journal “Youll be a good fit for”
+        &lt;ul&gt;
+          &lt;li&gt;also show JF suggestions&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Use journal network (cascade network)&lt;/li&gt;
+      &lt;li&gt;Pick for author (preview? Edit?)&lt;/li&gt;
+      &lt;li&gt;Do not show recommendations&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Shoe shelf&lt;/p&gt;
+
+&lt;p&gt;30x13&lt;/p&gt;</content><author><name></name></author><summary type="html">TODO organize dental project (fresar) finish zine Boards Try paper programs escolher foto do gunther praxis cases technoqueers janeraka</summary></entry><entry><title type="html">User Interviews</title><link href="www.nonlinear.nyc/2020/03/22/User-Interviews.html" rel="alternate" type="text/html" title="User Interviews" /><published>2020-03-22T00:00:00-04:00</published><updated>2020-03-22T00:00:00-04:00</updated><id>www.nonlinear.nyc/2020/03/22/User-Interviews</id><content type="html" xml:base="www.nonlinear.nyc/2020/03/22/User-Interviews.html">&lt;h1 id=&quot;user-interviews&quot;&gt;User Interviews&lt;/h1&gt;
+
+&lt;h3 id=&quot;josh-nelson&quot;&gt;Josh Nelson&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;“so generic”, wiley family&lt;/li&gt;
+  &lt;li&gt;captca, easy to read&lt;/li&gt;
+  &lt;li&gt;password conditions, highlights?&lt;/li&gt;
+  &lt;li&gt;link instead verification code&lt;/li&gt;
+  &lt;li&gt;“nothing to see” is misleading, eeh? it depends on user intentions, eh?&lt;/li&gt;
+  &lt;li&gt;he understands the journal flow (it is broken on testing, but correct on our flow)&lt;/li&gt;
+  &lt;li&gt;“i am liking this drag and drop”&lt;/li&gt;
+  &lt;li&gt;autoparse&lt;/li&gt;
+  &lt;li&gt;got email and noticed&lt;/li&gt;
+  &lt;li&gt;comparing resume sites (autoparse is bad)&lt;/li&gt;
+  &lt;li&gt;dismisses popup overall (overconfident)&lt;/li&gt;
+  &lt;li&gt;curious about error,&lt;/li&gt;
+  &lt;li&gt;failsafe is “well done”&lt;/li&gt;
+  &lt;li&gt;failsafe converts symbols!!!&lt;/li&gt;
+  &lt;li&gt;authors should scroll to selection&lt;/li&gt;
+  &lt;li&gt;“i should read this box” that dismissed&lt;/li&gt;
+  &lt;li&gt;author “and”, how to fix&lt;/li&gt;
+  &lt;li&gt;cant autofill only affiliation, “no affiliation” is a choice.&lt;/li&gt;
+  &lt;li&gt;Prevent google chrome autofill (or dismiss it)&lt;/li&gt;
+  &lt;li&gt;fix email right away? is it even an option?&lt;/li&gt;
+  &lt;li&gt;verify: define why order is this way? (can’t be alpha)&lt;/li&gt;
+  &lt;li&gt;likes progress board: CTA, intuitive&lt;/li&gt;
+  &lt;li&gt;he inferred revision, ha&lt;/li&gt;
+  &lt;li&gt;journal menu pages, broken&lt;/li&gt;
+  &lt;li&gt;“why are you suggesting” reviewer&lt;/li&gt;
+  &lt;li&gt;Abstract is wonky on final review&lt;/li&gt;
+  &lt;li&gt;whole file name? pdf preview&lt;/li&gt;
+  &lt;li&gt;converted to reviewers? or original file?&lt;/li&gt;
+  &lt;li&gt;why is “complete my submission” SO LONG?&lt;/li&gt;
+  &lt;li&gt;do we SAY authors are contacted? we should. maybe SAME email to them as CC?&lt;/li&gt;
+  &lt;li&gt;best setup i’ve seen to date.&lt;/li&gt;
+  &lt;li&gt;what reviewers get?&lt;/li&gt;
+  &lt;li&gt;append line numbers&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;jordi-de-batlle&quot;&gt;Jordi de Batlle&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;adapting format to journal is quite time consuming (2 hours)&lt;/li&gt;
+  &lt;li&gt;some lite-submission. let’s see if our journey is faster.&lt;/li&gt;
+  &lt;li&gt;qualification link is too subtle&lt;/li&gt;
+  &lt;li&gt;doesnt like the progress board. “convenient” if direct.&lt;/li&gt;
+  &lt;li&gt;“main document” on top. redeisgn article type menu&lt;/li&gt;
+  &lt;li&gt;2 visions: with or without figures&lt;/li&gt;
+  &lt;li&gt;ooh, not clear if you can new documents&lt;/li&gt;
+  &lt;li&gt;move backwards (didnt see loading)&lt;/li&gt;
+  &lt;li&gt;understands its a new step&lt;/li&gt;
+  &lt;li&gt;users like country autocomplete&lt;/li&gt;
+  &lt;li&gt;compact information (scroll less)&lt;/li&gt;
+  &lt;li&gt;disable google chrome country extension or learn to live with it.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;\&lt;/p&gt;
+
+&lt;h2 id=&quot;design-proposals&quot;&gt;design proposals&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;match affiliations, match 1, 2, no match (suggest as sub option)&lt;/li&gt;
+  &lt;li&gt;edit as third column&lt;/li&gt;
+  &lt;li&gt;Confetti page, survey more defined&lt;/li&gt;
+  &lt;li&gt;Keywords, focus on NUMBER of keywords (or optional)&lt;/li&gt;
+  &lt;li&gt;item with border on hover only, with side bar&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">User Interviews</summary></entry><entry><title type="html">Frontend</title><link href="www.nonlinear.nyc/2020/03/22/frontend.html" rel="alternate" type="text/html" title="Frontend" /><published>2020-03-22T00:00:00-04:00</published><updated>2020-03-22T00:00:00-04:00</updated><id>www.nonlinear.nyc/2020/03/22/frontend</id><content type="html" xml:base="www.nonlinear.nyc/2020/03/22/frontend.html">&lt;h2 id=&quot;front-end-and-design-system&quot;&gt;Front End and Design System&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;issues-raised-by-as&quot;&gt;Issues Raised by AS&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;AS is mobile (mobile-first?): it works on mobile, but it’s not mobile-friendly&lt;/li&gt;
+  &lt;li&gt;funder dashboard application, dashboard, AS application, AS resources (marketing site)&lt;/li&gt;
+  &lt;li&gt;confluence for front end group&lt;/li&gt;
+  &lt;li&gt;REX and AS discrepancies, inventory needed
+    &lt;ul&gt;
+      &lt;li&gt;em, rem, pixel? (REX and AS)&lt;/li&gt;
+      &lt;li&gt;bootstrap inventory needed&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Products&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 id=&quot;style-guide-rex-breakdown&quot;&gt;Style Guide REX breakdown&lt;/h1&gt;
+
+&lt;h2 id=&quot;dependencies---56&quot;&gt;dependencies - 56&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;colors - 13&lt;/li&gt;
+  &lt;li&gt;fonts - 5&lt;/li&gt;
+  &lt;li&gt;icons - 5&lt;/li&gt;
+  &lt;li&gt;form items - 13&lt;/li&gt;
+  &lt;li&gt;spacing - 30&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;difficult&quot;&gt;difficult&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;form labels - 8&lt;/li&gt;
+  &lt;li&gt;item title/description as columns (move item header to left column, content goes to 2/3 on the right) - 30&lt;/li&gt;
+  &lt;li&gt;select and autocomplete - 13&lt;/li&gt;
+  &lt;li&gt;autocomplete loading - 13&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;cosmetic-only&quot;&gt;cosmetic only&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;buttons - 8&lt;/li&gt;
+  &lt;li&gt;character count - 5&lt;/li&gt;
+  &lt;li&gt;dropzone - 5&lt;/li&gt;
+  &lt;li&gt;upload list - 5&lt;/li&gt;
+  &lt;li&gt;popover and header menu - 8&lt;/li&gt;
+  &lt;li&gt;global header - 5&lt;/li&gt;
+  &lt;li&gt;footer and cookie message - 5&lt;/li&gt;
+  &lt;li&gt;loading - 5&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;total-166&quot;&gt;Total: 166&lt;/h2&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;aleksandr-integrated-message&quot;&gt;Aleksandr integrated message&lt;/h2&gt;
+
+&lt;p&gt;ello, after reviewing 2.8 affiliation editor wireframes, I’d like to put my two cents &lt;img src=&quot;https://statics.teams.microsoft.com/evergreen-assets/funstuff/skype-emoticons-f/smile/default_20.png?v=4&quot; alt=&quot;😄&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;(And sorry for such a long post)&lt;/p&gt;
+
+&lt;p&gt;Currently, Author Services is not the best-looking website out there. As far as I know, a redesign is planned, but is not happening soon. Additionally, these new wireframes for Affiliation Editor look somewhat inconsistent with old AS styles - there’s a difference between new features (they are more “colorful”) and old AS look. And some of the colors that are used in new wireframes are questionable in terms of accessibility and color contrast. If we implement this as it is, then we’ll have design inconsistency for some foreseeable future.&lt;/p&gt;
+
+&lt;p&gt;But I assume we all would like to have a better-looking product sooner. Over the last half a year we’ve been doing some standalone design related changes to AS, for example with My Profile Widget, or, more broadly, while making the site responsive. And we did quite a few changes to WPPAP as well.&lt;/p&gt;
+
+&lt;p&gt;Those our actions fit perfectly the idea of incremental redesign. In contrast to the full redesign, incremental redesign is a process that involves continuous improvements ideally based on data-driven decisions. Changes are smaller and new ideas are presented gradually.
+ It doesn’t involve a total overhaul of a website, rather just a single page or page section or even a small component.
+ Just for information - some useful articles on the idea:
+   http://inchoo.net/ecommerce/incremental-design-changes-and-revenue/
+   https://www.nngroup.com/articles/radical-incremental-redesign/
+   https://www.forbes.com/sites/rogerdooley/2014/07/24/never-redesign/#742a452e2e94&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Do you think it would possible to try to adopt such design workflow for the whole AS site - both old parts and new features?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I suppose that this way we’ll be able to quicker align the visuals of old functionality with new features while simultaneously moving towards a whole new (and better) look.&lt;/p&gt;
+
+&lt;p&gt;Instead of redesigning whole pages we can start from redesigning small UI pieces like buttons, checkboxes, inputs, pop-ups, smaller widgets, breadcrumbs and so on and move these small changes to production.
+ ( That’s similar to what some people call Atomic Design - http://bradfrost.com/blog/post/atomic-web-design/ )&lt;/p&gt;
+
+&lt;p&gt;Such changes can be implemented separately. They are small and unlikely to break anything. And every single one of them makes a project slightly better. Accumulative effect of several small but well thought-out changes can give a significant improvement to the overall user experience…&lt;/p&gt;</content><author><name></name></author><summary type="html">Front End and Design System</summary></entry><entry><title type="html">Janeraka</title><link href="www.nonlinear.nyc/2020/03/22/janeraka.html" rel="alternate" type="text/html" title="Janeraka" /><published>2020-03-22T00:00:00-04:00</published><updated>2020-03-22T00:00:00-04:00</updated><id>www.nonlinear.nyc/2020/03/22/janeraka</id><content type="html" xml:base="www.nonlinear.nyc/2020/03/22/janeraka.html">&lt;h1 id=&quot;janeraka&quot;&gt;Janeraka&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;pra comecar
+    &lt;ul&gt;
+      &lt;li&gt;fechando a fase 1 (portugues, doação)&lt;/li&gt;
+      &lt;li&gt;eu quero fechar esse projeto, nao tenho tempo&lt;/li&gt;
+      &lt;li&gt;Esquece todas as outras comunicacoes. vamos tentar ser mais concisos na reta final.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;pra discutir
+    &lt;ul&gt;
+      &lt;li&gt;Pdf, simplifiquei&lt;/li&gt;
+      &lt;li&gt;imagens, tem melhores?&lt;/li&gt;
+      &lt;li&gt;Doacoes (link)&lt;/li&gt;
+      &lt;li&gt;Contato&lt;/li&gt;
+      &lt;li&gt;fase 2 é traducao. precisamos fechar o conteudo inicial&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">Janeraka</summary></entry><entry><title type="html">Jekyll Site</title><link href="www.nonlinear.nyc/2020/03/22/jekyll-site.html" rel="alternate" type="text/html" title="Jekyll Site" /><published>2020-03-22T00:00:00-04:00</published><updated>2020-03-22T00:00:00-04:00</updated><id>www.nonlinear.nyc/2020/03/22/jekyll-site</id><content type="html" xml:base="www.nonlinear.nyc/2020/03/22/jekyll-site.html">&lt;h1 id=&quot;jekyll-site&quot;&gt;jekyll site&lt;/h1&gt;
+
+&lt;h3 id=&quot;creating-the-site&quot;&gt;Creating the site&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;jekyll new site`&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;cd site&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;make new repository, named &lt;code class=&quot;highlighter-rouge&quot;&gt;[username].github.io&lt;/code&gt; (this weird name is to allow changes)&lt;/li&gt;
+  &lt;li&gt;link repo with &lt;code class=&quot;highlighter-rouge&quot;&gt;site/&lt;/code&gt; folder&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;bundle exec jekyll serve&lt;/code&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;adding-bootstrap&quot;&gt;Adding bootstrap&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;install dependencies &lt;code class=&quot;highlighter-rouge&quot;&gt;npm install popper.js bootstrap jquery wowjs animatewithsass --save&lt;/code&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;adding-animatewithsass&quot;&gt;Adding animatewithsass&lt;/h3&gt;
+
+&lt;p&gt;Add wowjs&lt;/p&gt;
+
+&lt;p&gt;Themes&lt;/p&gt;</content><author><name></name></author><summary type="html">jekyll site</summary></entry><entry><title type="html">Open Data</title><link href="www.nonlinear.nyc/2020/03/22/open-data.html" rel="alternate" type="text/html" title="Open Data" /><published>2020-03-22T00:00:00-04:00</published><updated>2020-03-22T00:00:00-04:00</updated><id>www.nonlinear.nyc/2020/03/22/open-data</id><content type="html" xml:base="www.nonlinear.nyc/2020/03/22/open-data.html">&lt;h1 id=&quot;open-data&quot;&gt;Open Data&lt;/h1&gt;
+
+&lt;h2 id=&quot;environmental-advocacy-meets-emerging-technology-a-bottom-up-approach-to-smart-city-projects&quot;&gt;Environmental advocacy meets emerging technology: A bottom-up approach to smart city projects&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://nycsodata20.sched.com/event/aOVg/environmental-advocacy-meets-emerging-technology-a-bottom-up-approach-to-smart-city-projects&quot;&gt;event link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Vaughn Shinall &amp;amp; Briana Garcia&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://temboo.com/&quot;&gt;temboo&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;no-code environment data platform&lt;/li&gt;
+  &lt;li&gt;GCC Stormwater Project&lt;/li&gt;
+  &lt;li&gt;SENSORS!&lt;/li&gt;
+  &lt;li&gt;NYSDEC urban &amp;amp; community forestry&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.dec.ny.gov/lands/5285.html&quot;&gt;Urban and Community Forestry Grants - NYS Dept. of Environmental Conservation&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Soli sensor, &lt;a href=&quot;https://kosmos.temboo.com/assets/docs/pdfs/ESP32_Setup_Guide.pdf&quot;&gt;kosmos gateway&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://tree-map.nycgovparks.org/&quot;&gt;NYC Street Tree Map&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;what stewardship means?&lt;/li&gt;
+  &lt;li&gt;light upkeep (1, 2 weeks of initial preparation sometimes)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;history-of-civic-tech-an-interactive-session&quot;&gt;History of Civic Tech, an interactive session&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://nycsodata20.sched.com/event/aOXl/history-of-civic-tech-an-interactive-session&quot;&gt;event link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/mlsif&quot;&gt;Micah Sifry&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://civichall.org/&quot;&gt;Civic Hall&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;founded 5 years ago&lt;/li&gt;
+      &lt;li&gt;membership space&lt;/li&gt;
+    &lt;/ul&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;https://prowler.io&lt;/p&gt;
+    &lt;ol&gt;
+      &lt;li&gt;Definition&lt;/li&gt;
+      &lt;li&gt;Overview&lt;/li&gt;
+      &lt;li&gt;Three phases and where it’s heading&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;empower citizens or help make government more accessible&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.omidyar.com/&quot;&gt;Omidyar Network&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;2013, Tom Steinberg, mySociety&lt;/li&gt;
+  &lt;li&gt;civic hackers&lt;/li&gt;
+  &lt;li&gt;The civic power sector
+    &lt;ul&gt;
+      &lt;li&gt;govtech&lt;/li&gt;
+      &lt;li&gt;smart cities&lt;/li&gt;
+      &lt;li&gt;public interest tech&lt;/li&gt;
+      &lt;li&gt;movement tech&lt;/li&gt;
+      &lt;li&gt;Community tech&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://knightfoundation.org/articles/emergence-civic-tech/&quot;&gt;the emergence of civic tech investments in a growing field&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://secure.avaaz.org/page/en/&quot;&gt;Avaaz - The World in Action&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://xenowatch.ushahidi.io/views/map&quot;&gt;Ushahidi - Xenowatch&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.codeforamerica.org/&quot;&gt; Code for America&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Petitioning&lt;/li&gt;
+      &lt;li&gt;Monitoring&lt;/li&gt;
+      &lt;li&gt;Reporting&lt;/li&gt;
+      &lt;li&gt;Organizing&lt;/li&gt;
+      &lt;li&gt;Service Delivery&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://civictech.guide/&quot;&gt;Civic Tech Field Guide&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;harnessing-collaboration-and-open-data-to-tackle-earths-challenges&quot;&gt;Harnessing Collaboration and Open Data to Tackle Earth’s Challenges&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://nycsodata20.sched.com/event/aOXT/harnessing-collaboration-and-open-data-to-tackle-earths-challenges&quot;&gt;event link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://opportunity.census.gov/&quot;&gt;The Opportunity Project&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.data.gov/&quot;&gt;Data.gov&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;
+    &lt;table&gt;
+      &lt;tbody&gt;
+        &lt;tr&gt;
+          &lt;td&gt;[The Opportunity Project&lt;/td&gt;
+          &lt;td&gt;Toolkit](https://opportunity.census.gov/toolkit/)&lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/tbody&gt;
+    &lt;/table&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;data-through-design---a-conversation-with-organizers-and-selected-artists&quot;&gt;Data through Design - a conversation with organizers and selected artists&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://nycsodata20.sched.com/event/aOX8/data-through-design-a-conversation-with-organizers-and-selected-artists&quot;&gt;event link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://2020.datathroughdesign.com/&quot;&gt;Data Through Design 2020&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Cameron Yick (&lt;a href=&quot;https://twitter.com/hydrosquall?lang=en&quot;&gt;twitter&lt;/a&gt;, &lt;a href=&quot;https://www.cameronyick.us/&quot;&gt;site&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">Open Data</summary></entry><entry><title type="html">Talks</title><link href="www.nonlinear.nyc/2020/03/22/talks.html" rel="alternate" type="text/html" title="Talks" /><published>2020-03-22T00:00:00-04:00</published><updated>2020-03-22T00:00:00-04:00</updated><id>www.nonlinear.nyc/2020/03/22/talks</id><content type="html" xml:base="www.nonlinear.nyc/2020/03/22/talks.html">&lt;h1 id=&quot;talks&quot;&gt;Talks&lt;/h1&gt;
+
+&lt;h2 id=&quot;coming-up-in-ux-in-2020&quot;&gt;&lt;a href=&quot;https://www.meetup.com/uxcomeup/events/267875388/&quot;&gt;Coming Up in UX in 2020&lt;/a&gt;&lt;/h2&gt;
+
+&lt;h3 id=&quot;what-you-need-to-know&quot;&gt;What You Need to Know&lt;/h3&gt;
+
+&lt;p&gt;2020-02-18&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/miguelmakes&quot;&gt;Miguel Molina&lt;/a&gt; (NYCGO)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://generalassemb.ly/design/user-experience-design/affinity-mapping&quot;&gt;Affinity Mapping&lt;/a&gt;, after user interviews&lt;/li&gt;
+  &lt;li&gt;Processing, storytelling&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;/Users/nonlinear/Critical/notes/talks/5808b55608af6.jpg&quot; alt=&quot;5808b55608af6&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;Northstar&lt;/li&gt;
+  &lt;li&gt;UX is no longer limited to tech companies&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;its-nice-that-data-narrative-and-design&quot;&gt;&lt;a href=&quot;https://www.wix.com/playground/events/itsnicethat-feb2020&quot;&gt;It’s Nice That: Data, Narrative and Design&lt;/a&gt;&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.itsnicethat.com/publication&quot;&gt;printed pages&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;tal-midyan&quot;&gt;Tal Midyan&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/talmidyan?lang=en&quot;&gt;twitter&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;portfolio on timeline&lt;/li&gt;
+  &lt;li&gt;iphone google keyboard&lt;/li&gt;
+  &lt;li&gt;functional - aspirational&lt;/li&gt;
+  &lt;li&gt;bon iver&lt;/li&gt;
+  &lt;li&gt;viisualizer&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;mona-chalabi&quot;&gt;Mona Chalabi&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://twitter.com/MonaChalabi&quot;&gt;twitter&lt;/a&gt;&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;https://sheffieldml.github.io/GPyOpt/&lt;/p&gt;
+    &lt;p&gt;take data, translate into articles and images&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://www.joelsimon.net/evo_floorplans.html&quot;&gt;Joel Simon&lt;/a&gt;&lt;/p&gt;
+    &lt;p&gt;Clarity - beauty (ugly and confusing)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.pnas.org/content/116/13/6001&quot;&gt;Inequity in consumption of goods and services adds to racial–ethnic disparities in air pollution exposure&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;memorability matters&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;when you have a lot of data, sequencing: tell a story&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;bad landlords&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;laura-kurgan&quot;&gt;Laura Kurgan&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://twitter.com/laurakurgan?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor&quot;&gt;twitter&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://dsrny.com/project/in-plain-sight&quot;&gt;in plain sight&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;light and no people - people and no light&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;refugees are not counted&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;NK, Haiti, PR&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Slums&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;dark and yet populated places are dispersed around the globe&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;industrial farms, military bases, stripmines, tourist site.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;tourists are not counted in census&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Peru, national gas field, pisco and lima&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;How do indigenous populations benefit from electricity?&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;barron-webster&quot;&gt;Barron Webster&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://barronwebster.com/&quot;&gt;site&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/warronbebster?lang=en&quot;&gt;twitter&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://buymyprivacy.com/&quot;&gt;buymyprivacy.com&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://teachablemachine.withgoogle.com/&quot;&gt;Teachable Machine&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;models try to get a lot of people vs building models for themselves&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;decentralized algorithms&lt;/p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;reclaim it&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;make from scratch&lt;/p&gt;
+    &lt;ul&gt;
+      &lt;li&gt;flexible material&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;cv--deep-learning-on-redhat-openshift&quot;&gt;CV &amp;amp; Deep learning on redHat OpenShift&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/Grant-Steinfeld/yogait&quot;&gt;Grant-Steinfeld/yogait&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.meetup.com/ibmcodenyc/events/268172307/&quot;&gt;Meetup&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ibm.biz/BdqDVL&quot;&gt;sign in to IBM&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://os4yogait.mybluemix.net/&quot;&gt;IBM Cloud - Lab&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;key: oslab&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://cloud.ibm.com/kubernetes/clusters/bpekljsw0kebqpk7g1r0/overview?region=us-east&amp;amp;resourceGroup=5eb57fd577b64b51beb832c2e9d5287a&quot;&gt;os4yogait02 Cluster - IBM Cloud&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.openshift.com/&quot;&gt;OpenShift Container Platform by Red Hat, Built on Kubernetes&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/gsteinfeld&quot;&gt;@gsteinfeld&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://developer.ibm.com/code/open/centers/codait/&quot;&gt;CODAIT&lt;/a&gt;: Center for Open-Source Data &amp;amp; AI Technologies
+Improving the Enterprise AI Lifecycle in Open Source&lt;/li&gt;
+  &lt;li&gt;pre-trained models
+    &lt;ul&gt;
+      &lt;li&gt;object detection&lt;/li&gt;
+      &lt;li&gt;pose detection&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Deep&lt;/strong&gt;: hidden layers, in convoluted network&lt;/li&gt;
+  &lt;li&gt;tensorflow for image recognition&lt;/li&gt;
+  &lt;li&gt;label a dataset&lt;/li&gt;
+  &lt;li&gt;http://max-object-detector-maximagec.os4yogait02-0e3e0ef4c9c6d831e8aa6fe01f33bfc4-0001.us-east.containers.appdomain.cloud/&lt;/li&gt;
+  &lt;li&gt;neural network is a fun&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://codait.github.io/max-photo-booth/&quot;&gt;MAX Holiday Photo Booth&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;docker run -e CORS_ENABLE=true -e WERKZEUG_RUN_MAIN=true -t -p 5000:5000 codait/max-human-pose-estimator
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Train, inference&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;python -v
+python inference.py
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;polar vector&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://keras.io/&quot;&gt;Home - Keras Documentation&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;find with the powers that be at IBM&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;https://www.meetup.com/ibmcodenyc/events/268482285/&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;https://cloud.annotations.ai/login (to train gestures)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;table&gt;
       &lt;tbody&gt;
         &lt;tr&gt;
-          &lt;td&gt;[Oculus Connect 6: Introducing Hand Tracking on Oculus Quest, Facebook Horizon, and More&lt;/td&gt;
-          &lt;td&gt;Oculus](https://www.oculus.com/blog/oculus-connect-6-introducing-hand-tracking-on-oculus-quest-facebook-horizon-and-more/)&lt;/td&gt;
+          &lt;td&gt;[RunwayML&lt;/td&gt;
+          &lt;td&gt;Machine learning for creators.](https://runwayml.com/)&lt;/td&gt;
         &lt;/tr&gt;
       &lt;/tbody&gt;
     &lt;/table&gt;
-
-    &lt;ul&gt;
-      &lt;li&gt;gesture recognition&lt;/li&gt;
-    &lt;/ul&gt;
   &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Recommendations&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;visual metaphors:&lt;/strong&gt; images that convey a message symbolically
-    &lt;ul&gt;
-      &lt;li&gt;are both object identifiable?&lt;/li&gt;
-      &lt;li&gt;are they integrated?&lt;/li&gt;
-      &lt;li&gt;
-        &lt;table&gt;
-          &lt;tbody&gt;
-            &lt;tr&gt;
-              &lt;td&gt;[VisiBlends, a New Approach to Disrupt Visual Messaging&lt;/td&gt;
-              &lt;td&gt;Columbia Engineering](https://engineering.columbia.edu/press-releases/lydia-chilton-visiblends)&lt;img src=&quot;/assets/images/posts/chilton-system_diagram_half_iterate_v2-1600.jpg&quot; alt=&quot;chilton-system_diagram_half_iterate_v2-1600&quot; /&gt;&lt;/td&gt;
-            &lt;/tr&gt;
-          &lt;/tbody&gt;
-        &lt;/table&gt;
-      &lt;/li&gt;
-      &lt;li&gt;geometric shape matching&lt;/li&gt;
-      &lt;li&gt;SymbolFinder: &lt;a href=&quot;https://www.slideshare.net/hmslydia/ai-tools-for-creative-work&quot;&gt;AI Tools for Creative Work&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;img src=&quot;/assets/images/posts/Screen Shot 2020-01-15 at 7.48.32 PM.png&quot; alt=&quot;Screen Shot 2020-01-15 at 7.48.32 PM&quot; /&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://www.cs.columbia.edu/~chilton/web/my_publications/VisiFit_CHI_2020_submission.pdf&quot;&gt;VisiFit: AI Tools to Iteratively Improve Visual Blends&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;Noun to noun combinations. noun to verb combinations&lt;/li&gt;
-      &lt;li&gt;Lydia Chilton!!!&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;data science for business&lt;/li&gt;
-  &lt;li&gt;computational interaction&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://pair.withgoogle.com/&quot;&gt;People + AI Guidebook&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;School on Computational Interation&lt;/li&gt;
-  &lt;li&gt;Machine Learning &amp;amp; User Experience (MLUX) - meetup, SF&lt;/li&gt;
-  &lt;li&gt;Sentiment, etc: Multi-objective, trade-off&lt;/li&gt;
-  &lt;li&gt;how do you pick the right variables?&lt;/li&gt;
-  &lt;li&gt;design skills
-    &lt;ul&gt;
-      &lt;li&gt;contingency design: what to do when it fails?&lt;/li&gt;
-      &lt;li&gt;defining the variables that matter&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;personalized interfaces, after a couple of uses, struggle, adaptation&lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><summary type="html">Robb Beal</summary></entry><entry><title type="html">figma config</title><link href="www.nonlinear.nyc/study/figma-config/" rel="alternate" type="text/html" title="figma config" /><published>2020-01-29T18:03:16-05:00</published><updated>2020-01-29T18:03:16-05:00</updated><id>www.nonlinear.nyc/study/figma-config</id><content type="html" xml:base="www.nonlinear.nyc/study/figma-config/">&lt;ul&gt;
-  &lt;li&gt;“Community”&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;morning-talks&quot;&gt;Morning Talks&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Dylan Field&lt;/li&gt;
-  &lt;li&gt;Discover, duplicate, remix&lt;/li&gt;
-  &lt;li&gt;Craig Mod&lt;/li&gt;
-  &lt;li&gt;Devon Zuegel
-    &lt;ul&gt;
-      &lt;li&gt;land capture&lt;/li&gt;
-      &lt;li&gt;virtuous cycle&lt;/li&gt;
-      &lt;li&gt;Congestion pricing (sponsor to change priority)&lt;/li&gt;
-      &lt;li&gt;stronger signal&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;design-systems&quot;&gt;Design Systems&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Elements, interconnections and purpose&lt;/li&gt;
-  &lt;li&gt;towards a northstar&lt;/li&gt;
-  &lt;li&gt;Elements suffer biggest change&lt;/li&gt;
-  &lt;li&gt;communicate that change is here to stay&lt;/li&gt;
-  &lt;li&gt;communicate the purpose&lt;/li&gt;
-  &lt;li&gt;office hours: peer in users&lt;/li&gt;
-  &lt;li&gt;Material design dos and donts&lt;/li&gt;
-  &lt;li&gt;desirable futures with less side effects&lt;/li&gt;
-  &lt;li&gt;documentation: synonyms, why, others, States, variations&lt;/li&gt;
-  &lt;li&gt;prepare for the future&lt;/li&gt;
-  &lt;li&gt;subsystem frameworks&lt;/li&gt;
-  &lt;li&gt;“speed over certainty” example of principles&lt;/li&gt;
-  &lt;li&gt;principles create rationale
-    &lt;ul&gt;
-      &lt;li&gt;transparency trumps complexity&lt;/li&gt;
-      &lt;li&gt;opinionated yet flexible&lt;/li&gt;
-      &lt;li&gt;purpose out of behavior&lt;/li&gt;
-      &lt;li&gt;bend but never break&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;illustration-systems&quot;&gt;Illustration systems&lt;/h3&gt;
-
-&lt;p&gt;Bonnie&lt;/p&gt;
-
-&lt;p&gt;set up to successfuly replicate&lt;/p&gt;
-
-&lt;p&gt;diversity is more form than race&lt;/p&gt;
-
-&lt;p&gt;diversity should evoke belonging&lt;/p&gt;
-
-&lt;ul&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">Talks</summary></entry><entry><title type="html">Open CV</title><link href="www.nonlinear.nyc/study/open-cv/" rel="alternate" type="text/html" title="Open CV" /><published>2020-01-29T18:03:16-05:00</published><updated>2020-01-29T18:03:16-05:00</updated><id>www.nonlinear.nyc/study/open-cv</id><content type="html" xml:base="www.nonlinear.nyc/study/open-cv/">&lt;ul&gt;
   &lt;li&gt;
-    &lt;p&gt;build your illustration library&lt;/p&gt;
+    &lt;p&gt;The Viola-Jones Algorithm (grayscale, find a nose, box travels thru the image)&lt;/p&gt;
 
-    &lt;ol&gt;
-      &lt;li&gt;audit
-&lt;img src=&quot;/assets/images/posts/IMG_8189.jpeg&quot; alt=&quot;IMG_8189&quot; /&gt;
-        &lt;ul&gt;
-          &lt;li&gt;illustrations&lt;/li&gt;
-          &lt;li&gt;key messages&lt;/li&gt;
-          &lt;li&gt;Audiences (marketing, product, b2b, b2c, international)&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;design
-&lt;img src=&quot;/assets/images/posts/IMG_8190.jpeg&quot; alt=&quot;IMG_8190&quot; /&gt;
-&lt;img src=&quot;/assets/images/posts/IMG_8191.jpeg&quot; alt=&quot;IMG_8191&quot; /&gt;&lt;/li&gt;
-      &lt;li&gt;organize
-&lt;img src=&quot;/assets/images/posts/IMG_8192.jpeg&quot; alt=&quot;IMG_8192&quot; /&gt;
-&lt;img src=&quot;/assets/images/posts/IMG_8193.jpeg&quot; alt=&quot;IMG_8193&quot; /&gt;&lt;/li&gt;
-      &lt;li&gt;produce
-&lt;img src=&quot;/assets/images/posts/IMG_8194.jpeg&quot; alt=&quot;IMG_8194&quot; /&gt;&lt;/li&gt;
-      &lt;li&gt;socialize
-&lt;img src=&quot;/assets/images/posts/IMG_8195.jpeg&quot; alt=&quot;IMG_8195&quot; /&gt;&lt;/li&gt;
-    &lt;/ol&gt;
-
-    &lt;p&gt;icons represent concepts not UI (because UI changes)&lt;/p&gt;
-
-    &lt;p&gt;tagging elements in figma&lt;/p&gt;
+    &lt;ul&gt;
+      &lt;li&gt;“Rapid Object Detection using a Boosted Cascade of Simple Features”&lt;/li&gt;
+    &lt;/ul&gt;
   &lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><summary type="html">“Community”</summary></entry></feed>
+  &lt;li&gt;
+    &lt;p&gt;Haar-like Features&lt;/p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;edge, line, four rectangle&lt;/li&gt;
+      &lt;li&gt;greater than 0.3&lt;/li&gt;
+      &lt;li&gt;&lt;img src=&quot;/assets/images/posts/Screen Shot 2019-12-10 at 10.38.31 AM.png&quot; alt=&quot;Screen Shot 2019-12-10 at 10.38.31 AM&quot; style=&quot;zoom:50%; padding: 50px 0&quot; /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;h2 id=&quot;integral-image&quot;&gt;Integral Image&lt;/h2&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;precalculates sums, so each area can be found with just 4 operations&lt;/li&gt;
+      &lt;li&gt;makes raster vector (scale-free)&lt;/li&gt;
+      &lt;li&gt;as long as it’s rectangles&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/posts/Screen Shot 2019-12-10 at 1.16.02 PM.png&quot; alt=&quot;Screen Shot 2019-12-10 at 1.16.02 PM&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/posts/Screen Shot 2019-12-10 at 1.16.16 PM.png&quot; alt=&quot;Screen Shot 2019-12-10 at 1.16.16 PM&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/posts/Screen Shot 2019-12-10 at 1.18.23 PM.png&quot; alt=&quot;Screen Shot 2019-12-10 at 1.18.23 PM&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/posts/Screen Shot 2019-12-10 at 1.18.47 PM.png&quot; alt=&quot;Screen Shot 2019-12-10 at 1.18.47 PM&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/posts/Screen Shot 2019-12-10 at 1.18.59 PM.png&quot; alt=&quot;Screen Shot 2019-12-10 at 1.18.59 PM&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;training-classifiers&quot;&gt;Training Classifiers&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;when training, scale the image DOWN&lt;/li&gt;
+  &lt;li&gt;mirror images&lt;/li&gt;
+  &lt;li&gt;non- images (same size, WITHOUT training to spot), for false positives, labeled&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.researchgate.net/publication/3766402_General_framework_for_object_detection&quot;&gt;General framework for object detection&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;adaboost&quot;&gt;Adaboost&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Adaptative Boosting&lt;/li&gt;
+  &lt;li&gt;weak classifier (over 50%)&lt;/li&gt;
+  &lt;li&gt;strong classifier&lt;/li&gt;
+  &lt;li&gt;ensemble method (a lot of weak classifiers make a strong classifier)&lt;/li&gt;
+  &lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">The Viola-Jones Algorithm (grayscale, find a nose, box travels thru the image)</summary></entry></feed>

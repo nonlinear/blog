@@ -1,6 +1,6 @@
 ---
 layout: default
-title: figma config
+title: Figma Config
 slug: figma-config
 categories: study
 status: public

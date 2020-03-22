@@ -1,6 +1,6 @@
 ---
 layout: default
-title: computational guidance systems
+title: Guidance Systems
 slug: computational-guidance-systems
 categories: study
 status: public
