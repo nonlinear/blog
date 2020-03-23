@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="www.nonlinear.nyc/feed.xml" rel="self" type="application/atom+xml" /><link href="www.nonlinear.nyc/" rel="alternate" type="text/html" /><updated>2020-03-22T18:03:49-04:00</updated><id>www.nonlinear.nyc/feed.xml</id><title type="html">nonlinear</title><subtitle>The anagram of my name is anarchist fool</subtitle><entry><title type="html">P5*js</title><link href="www.nonlinear.nyc/2020/03/22/p5-js.html" rel="alternate" type="text/html" title="P5*js" /><published>2020-03-22T00:00:00-04:00</published><updated>2020-03-22T00:00:00-04:00</updated><id>www.nonlinear.nyc/2020/03/22/p5*js</id><content type="html" xml:base="www.nonlinear.nyc/2020/03/22/p5-js.html">&lt;h1 id=&quot;videos&quot;&gt;Videos&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="www.nonlinear.nyc/feed.xml" rel="self" type="application/atom+xml" /><link href="www.nonlinear.nyc/" rel="alternate" type="text/html" /><updated>2020-03-22T20:43:45-04:00</updated><id>www.nonlinear.nyc/feed.xml</id><title type="html">nonlinear</title><subtitle>The anagram of my name is anarchist fool</subtitle><entry><title type="html">P5*js</title><link href="www.nonlinear.nyc/2020/03/22/p5-js.html" rel="alternate" type="text/html" title="P5*js" /><published>2020-03-22T00:00:00-04:00</published><updated>2020-03-22T00:00:00-04:00</updated><id>www.nonlinear.nyc/2020/03/22/p5*js</id><content type="html" xml:base="www.nonlinear.nyc/2020/03/22/p5-js.html">&lt;h1 id=&quot;videos&quot;&gt;Videos&lt;/h1&gt;
 
 &lt;hr /&gt;
 &lt;h2 id=&quot;how-i-learn&quot;&gt;How I Learn&lt;/h2&gt;
@@ -673,96 +673,7 @@
 
 &lt;p&gt;Add wowjs&lt;/p&gt;
 
-&lt;p&gt;Themes&lt;/p&gt;</content><author><name></name></author><summary type="html">jekyll site</summary></entry><entry><title type="html">Open Data</title><link href="www.nonlinear.nyc/2020/03/22/open-data.html" rel="alternate" type="text/html" title="Open Data" /><published>2020-03-22T00:00:00-04:00</published><updated>2020-03-22T00:00:00-04:00</updated><id>www.nonlinear.nyc/2020/03/22/open-data</id><content type="html" xml:base="www.nonlinear.nyc/2020/03/22/open-data.html">&lt;h1 id=&quot;open-data&quot;&gt;Open Data&lt;/h1&gt;
-
-&lt;h2 id=&quot;environmental-advocacy-meets-emerging-technology-a-bottom-up-approach-to-smart-city-projects&quot;&gt;Environmental advocacy meets emerging technology: A bottom-up approach to smart city projects&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://nycsodata20.sched.com/event/aOVg/environmental-advocacy-meets-emerging-technology-a-bottom-up-approach-to-smart-city-projects&quot;&gt;event link&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Vaughn Shinall &amp;amp; Briana Garcia&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://temboo.com/&quot;&gt;temboo&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;no-code environment data platform&lt;/li&gt;
-  &lt;li&gt;GCC Stormwater Project&lt;/li&gt;
-  &lt;li&gt;SENSORS!&lt;/li&gt;
-  &lt;li&gt;NYSDEC urban &amp;amp; community forestry&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.dec.ny.gov/lands/5285.html&quot;&gt;Urban and Community Forestry Grants - NYS Dept. of Environmental Conservation&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Soli sensor, &lt;a href=&quot;https://kosmos.temboo.com/assets/docs/pdfs/ESP32_Setup_Guide.pdf&quot;&gt;kosmos gateway&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://tree-map.nycgovparks.org/&quot;&gt;NYC Street Tree Map&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;what stewardship means?&lt;/li&gt;
-  &lt;li&gt;light upkeep (1, 2 weeks of initial preparation sometimes)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;history-of-civic-tech-an-interactive-session&quot;&gt;History of Civic Tech, an interactive session&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://nycsodata20.sched.com/event/aOXl/history-of-civic-tech-an-interactive-session&quot;&gt;event link&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://twitter.com/mlsif&quot;&gt;Micah Sifry&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://civichall.org/&quot;&gt;Civic Hall&lt;/a&gt;
-    &lt;ul&gt;
-      &lt;li&gt;founded 5 years ago&lt;/li&gt;
-      &lt;li&gt;membership space&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;ol&gt;
-      &lt;li&gt;Definition&lt;/li&gt;
-      &lt;li&gt;Overview&lt;/li&gt;
-      &lt;li&gt;Three phases and where it’s heading&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;empower citizens or help make government more accessible&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.omidyar.com/&quot;&gt;Omidyar Network&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;2013, Tom Steinberg, mySociety&lt;/li&gt;
-  &lt;li&gt;civic hackers&lt;/li&gt;
-  &lt;li&gt;The civic power sector
-    &lt;ul&gt;
-      &lt;li&gt;govtech&lt;/li&gt;
-      &lt;li&gt;smart cities&lt;/li&gt;
-      &lt;li&gt;public interest tech&lt;/li&gt;
-      &lt;li&gt;movement tech&lt;/li&gt;
-      &lt;li&gt;Community tech&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://knightfoundation.org/articles/emergence-civic-tech/&quot;&gt;the emergence of civic tech investments in a growing field&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://secure.avaaz.org/page/en/&quot;&gt;Avaaz - The World in Action&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://xenowatch.ushahidi.io/views/map&quot;&gt;Ushahidi - Xenowatch&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.codeforamerica.org/&quot;&gt; Code for America&lt;/a&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Petitioning&lt;/li&gt;
-      &lt;li&gt;Monitoring&lt;/li&gt;
-      &lt;li&gt;Reporting&lt;/li&gt;
-      &lt;li&gt;Organizing&lt;/li&gt;
-      &lt;li&gt;Service Delivery&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://civictech.guide/&quot;&gt;Civic Tech Field Guide&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;harnessing-collaboration-and-open-data-to-tackle-earths-challenges&quot;&gt;Harnessing Collaboration and Open Data to Tackle Earth’s Challenges&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://nycsodata20.sched.com/event/aOXT/harnessing-collaboration-and-open-data-to-tackle-earths-challenges&quot;&gt;event link&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://opportunity.census.gov/&quot;&gt;The Opportunity Project&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.data.gov/&quot;&gt;Data.gov&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;
-    &lt;table&gt;
-      &lt;tbody&gt;
-        &lt;tr&gt;
-          &lt;td&gt;[The Opportunity Project&lt;/td&gt;
-          &lt;td&gt;Toolkit](https://opportunity.census.gov/toolkit/)&lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/tbody&gt;
-    &lt;/table&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;data-through-design---a-conversation-with-organizers-and-selected-artists&quot;&gt;Data through Design - a conversation with organizers and selected artists&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://nycsodata20.sched.com/event/aOX8/data-through-design-a-conversation-with-organizers-and-selected-artists&quot;&gt;event link&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://2020.datathroughdesign.com/&quot;&gt;Data Through Design 2020&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Cameron Yick (&lt;a href=&quot;https://twitter.com/hydrosquall?lang=en&quot;&gt;twitter&lt;/a&gt;, &lt;a href=&quot;https://www.cameronyick.us/&quot;&gt;site&lt;/a&gt;)&lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><summary type="html">Open Data</summary></entry><entry><title type="html">Talks</title><link href="www.nonlinear.nyc/2020/03/22/talks.html" rel="alternate" type="text/html" title="Talks" /><published>2020-03-22T00:00:00-04:00</published><updated>2020-03-22T00:00:00-04:00</updated><id>www.nonlinear.nyc/2020/03/22/talks</id><content type="html" xml:base="www.nonlinear.nyc/2020/03/22/talks.html">&lt;h1 id=&quot;talks&quot;&gt;Talks&lt;/h1&gt;
+&lt;p&gt;Themes&lt;/p&gt;</content><author><name></name></author><summary type="html">jekyll site</summary></entry><entry><title type="html">Talks</title><link href="www.nonlinear.nyc/2020/03/22/talks.html" rel="alternate" type="text/html" title="Talks" /><published>2020-03-22T00:00:00-04:00</published><updated>2020-03-22T00:00:00-04:00</updated><id>www.nonlinear.nyc/2020/03/22/talks</id><content type="html" xml:base="www.nonlinear.nyc/2020/03/22/talks.html">&lt;h1 id=&quot;talks&quot;&gt;Talks&lt;/h1&gt;
 
 &lt;h2 id=&quot;coming-up-in-ux-in-2020&quot;&gt;&lt;a href=&quot;https://www.meetup.com/uxcomeup/events/267875388/&quot;&gt;Coming Up in UX in 2020&lt;/a&gt;&lt;/h2&gt;
 
@@ -957,7 +868,91 @@ python inference.py
       &lt;/tbody&gt;
     &lt;/table&gt;
   &lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><summary type="html">Talks</summary></entry><entry><title type="html">Open CV</title><link href="www.nonlinear.nyc/study/open-cv/" rel="alternate" type="text/html" title="Open CV" /><published>2020-01-29T18:03:16-05:00</published><updated>2020-01-29T18:03:16-05:00</updated><id>www.nonlinear.nyc/study/open-cv</id><content type="html" xml:base="www.nonlinear.nyc/study/open-cv/">&lt;ul&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">Talks</summary></entry><entry><title type="html">Figma Config</title><link href="www.nonlinear.nyc/study/figma-config/" rel="alternate" type="text/html" title="Figma Config" /><published>2020-01-29T18:03:16-05:00</published><updated>2020-01-29T18:03:16-05:00</updated><id>www.nonlinear.nyc/study/figma-config</id><content type="html" xml:base="www.nonlinear.nyc/study/figma-config/">&lt;ul&gt;
+  &lt;li&gt;“Community”&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;morning-talks&quot;&gt;Morning Talks&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Dylan Field&lt;/li&gt;
+  &lt;li&gt;Discover, duplicate, remix&lt;/li&gt;
+  &lt;li&gt;Craig Mod&lt;/li&gt;
+  &lt;li&gt;Devon Zuegel
+    &lt;ul&gt;
+      &lt;li&gt;land capture&lt;/li&gt;
+      &lt;li&gt;virtuous cycle&lt;/li&gt;
+      &lt;li&gt;Congestion pricing (sponsor to change priority)&lt;/li&gt;
+      &lt;li&gt;stronger signal&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;design-systems&quot;&gt;Design Systems&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Elements, interconnections and purpose&lt;/li&gt;
+  &lt;li&gt;towards a northstar&lt;/li&gt;
+  &lt;li&gt;Elements suffer biggest change&lt;/li&gt;
+  &lt;li&gt;communicate that change is here to stay&lt;/li&gt;
+  &lt;li&gt;communicate the purpose&lt;/li&gt;
+  &lt;li&gt;office hours: peer in users&lt;/li&gt;
+  &lt;li&gt;Material design dos and donts&lt;/li&gt;
+  &lt;li&gt;desirable futures with less side effects&lt;/li&gt;
+  &lt;li&gt;documentation: synonyms, why, others, States, variations&lt;/li&gt;
+  &lt;li&gt;prepare for the future&lt;/li&gt;
+  &lt;li&gt;subsystem frameworks&lt;/li&gt;
+  &lt;li&gt;“speed over certainty” example of principles&lt;/li&gt;
+  &lt;li&gt;principles create rationale
+    &lt;ul&gt;
+      &lt;li&gt;transparency trumps complexity&lt;/li&gt;
+      &lt;li&gt;opinionated yet flexible&lt;/li&gt;
+      &lt;li&gt;purpose out of behavior&lt;/li&gt;
+      &lt;li&gt;bend but never break&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;illustration-systems&quot;&gt;Illustration systems&lt;/h3&gt;
+
+&lt;p&gt;Bonnie&lt;/p&gt;
+
+&lt;p&gt;set up to successfuly replicate&lt;/p&gt;
+
+&lt;p&gt;diversity is more form than race&lt;/p&gt;
+
+&lt;p&gt;diversity should evoke belonging&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;build your illustration library&lt;/p&gt;
+
+    &lt;ol&gt;
+      &lt;li&gt;audit
+&lt;img src=&quot;/assets/images/posts/IMG_8189.jpeg&quot; alt=&quot;IMG_8189&quot; /&gt;
+        &lt;ul&gt;
+          &lt;li&gt;illustrations&lt;/li&gt;
+          &lt;li&gt;key messages&lt;/li&gt;
+          &lt;li&gt;Audiences (marketing, product, b2b, b2c, international)&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;design
+&lt;img src=&quot;/assets/images/posts/IMG_8190.jpeg&quot; alt=&quot;IMG_8190&quot; /&gt;
+&lt;img src=&quot;/assets/images/posts/IMG_8191.jpeg&quot; alt=&quot;IMG_8191&quot; /&gt;&lt;/li&gt;
+      &lt;li&gt;organize
+&lt;img src=&quot;/assets/images/posts/IMG_8192.jpeg&quot; alt=&quot;IMG_8192&quot; /&gt;
+&lt;img src=&quot;/assets/images/posts/IMG_8193.jpeg&quot; alt=&quot;IMG_8193&quot; /&gt;&lt;/li&gt;
+      &lt;li&gt;produce
+&lt;img src=&quot;/assets/images/posts/IMG_8194.jpeg&quot; alt=&quot;IMG_8194&quot; /&gt;&lt;/li&gt;
+      &lt;li&gt;socialize
+&lt;img src=&quot;/assets/images/posts/IMG_8195.jpeg&quot; alt=&quot;IMG_8195&quot; /&gt;&lt;/li&gt;
+    &lt;/ol&gt;
+
+    &lt;p&gt;icons represent concepts not UI (because UI changes)&lt;/p&gt;
+
+    &lt;p&gt;tagging elements in figma&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">“Community”</summary></entry><entry><title type="html">Open CV</title><link href="www.nonlinear.nyc/study/open-cv/" rel="alternate" type="text/html" title="Open CV" /><published>2020-01-29T18:03:16-05:00</published><updated>2020-01-29T18:03:16-05:00</updated><id>www.nonlinear.nyc/study/open-cv</id><content type="html" xml:base="www.nonlinear.nyc/study/open-cv/">&lt;ul&gt;
   &lt;li&gt;
     &lt;p&gt;The Viola-Jones Algorithm (grayscale, find a nose, box travels thru the image)&lt;/p&gt;
 
