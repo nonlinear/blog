@@ -52,8 +52,8 @@ permalink: /:categories/:slug/
   - Lenore M. Edman **(**Evil Mad Scientist Laboratories)
   - Carl Richell (System76) 
   - Christina Cyr (dtoor)
-- 
 
+<!-- 
 ### Impact  of NDA-Free & Open Source on LSI Design & Fabrication
 - Junichi  Akita 
 
@@ -82,18 +82,7 @@ permalink: /:categories/:slug/
 
 - Libi Rose Striegl      
 
-  
+
 ### Closing  Remarks    
 
-- Alicia  Gibb  
-
-  
----
-
-
-Notes by Nicholas Frota
-
-https://praxis.nyc
-https://mastodon.social/@nonlinear
-https://twitter.com/nonlinear
-https://instagram.com/nonlinear
+- Alicia  Gibb -->

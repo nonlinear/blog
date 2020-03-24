@@ -26,9 +26,9 @@ permalink: /:categories/:slug/
 - Conde Nast
   - Business Intelligence
   - Data Products for Clients
-- [1 Year of Trump's Tweets, Analyzed | Teen Vogue](https://www.teenvogue.com/story/trump-tweet-analysis)
+- [1 Year of Trump's Tweets, Analyzed](https://www.teenvogue.com/story/trump-tweet-analysis)
 -  60% of epicurious user base uses mobile
-- [Find Your 2019 Thanksgiving Recipes With This Clickable Tool | Epicurious](https://www.epicurious.com/holidays-events/thanksgiving-recipe-finder-by-ingredient-make-your-menu-article)
+- [Find Your 2019 Thanksgiving Recipes With This Clickable Tool](https://www.epicurious.com/holidays-events/thanksgiving-recipe-finder-by-ingredient-make-your-menu-article)
 
 ---
 

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="www.nonlinear.nyc/feed.xml" rel="self" type="application/atom+xml" /><link href="www.nonlinear.nyc/" rel="alternate" type="text/html" /><updated>2020-03-24T11:00:25-04:00</updated><id>www.nonlinear.nyc/feed.xml</id><title type="html">nonlinear</title><subtitle>The anagram of my name is anarchist fool</subtitle><entry><title type="html">P5*js</title><link href="www.nonlinear.nyc/2020/03/22/p5-js.html" rel="alternate" type="text/html" title="P5*js" /><published>2020-03-22T00:00:00-04:00</published><updated>2020-03-22T00:00:00-04:00</updated><id>www.nonlinear.nyc/2020/03/22/p5*js</id><content type="html" xml:base="www.nonlinear.nyc/2020/03/22/p5-js.html">&lt;h1 id=&quot;videos&quot;&gt;Videos&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="www.nonlinear.nyc/feed.xml" rel="self" type="application/atom+xml" /><link href="www.nonlinear.nyc/" rel="alternate" type="text/html" /><updated>2020-03-24T12:30:07-04:00</updated><id>www.nonlinear.nyc/feed.xml</id><title type="html">nonlinear</title><subtitle>The anagram of my name is anarchist fool</subtitle><entry><title type="html">P5*js</title><link href="www.nonlinear.nyc/2020/03/22/p5-js.html" rel="alternate" type="text/html" title="P5*js" /><published>2020-03-22T00:00:00-04:00</published><updated>2020-03-22T00:00:00-04:00</updated><id>www.nonlinear.nyc/2020/03/22/p5*js</id><content type="html" xml:base="www.nonlinear.nyc/2020/03/22/p5-js.html">&lt;h1 id=&quot;videos&quot;&gt;Videos&lt;/h1&gt;
 
 &lt;hr /&gt;
 &lt;h2 id=&quot;how-i-learn&quot;&gt;How I Learn&lt;/h2&gt;
@@ -868,13 +868,13 @@ python inference.py
       &lt;/tbody&gt;
     &lt;/table&gt;
   &lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><summary type="html">Talks</summary></entry><entry><title type="html">Boards</title><link href="www.nonlinear.nyc/project/boards/" rel="alternate" type="text/html" title="Boards" /><published>2020-01-29T18:03:16-05:00</published><updated>2020-01-29T18:03:16-05:00</updated><id>www.nonlinear.nyc/project/boards</id><content type="html" xml:base="www.nonlinear.nyc/project/boards/">&lt;h2 id=&quot;todo&quot;&gt;TODO&lt;/h2&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">Talks</summary></entry><entry><title type="html">boards</title><link href="www.nonlinear.nyc/project/boards/" rel="alternate" type="text/html" title="boards" /><published>2020-01-29T18:03:16-05:00</published><updated>2020-01-29T18:03:16-05:00</updated><id>www.nonlinear.nyc/project/boards</id><content type="html" xml:base="www.nonlinear.nyc/project/boards/">&lt;h2 id=&quot;todo&quot;&gt;TODO&lt;/h2&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;review cheap projector&lt;/li&gt;
+  &lt;li&gt;&lt;del&gt;review cheap projector&lt;/del&gt;&lt;/li&gt;
   &lt;li&gt;review &lt;a href=&quot;https://www.youtube.com/watch?time_continue=121&amp;amp;v=pkwSoJrVWAY&amp;amp;feature=emb_title&quot;&gt;paper programs tutorial&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;review cheap printer&lt;/li&gt;
-  &lt;li&gt;review cheap camera&lt;/li&gt;
+  &lt;li&gt;&lt;del&gt;review cheap camera&lt;/del&gt;&lt;/li&gt;
   &lt;li&gt;review cables and connectors&lt;/li&gt;
 &lt;/ul&gt;
 
@@ -916,6 +916,12 @@ python inference.py
 &lt;/table&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://top10bestbudget.com/home/best-projectors-100-200-300-400/&quot;&gt;17 Best Projectors under 100 in 2019&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;cheap-adapters&quot;&gt;Cheap adapters&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.amazon.com/Adapter-Converter-Adaptor-Macbook-Chromebook/dp/B074HZMCQ3/ref=sr_1_3?keywords=usbc+projector+adapter&amp;amp;qid=1585067350&amp;amp;sr=8-3&quot;&gt;USB C to HDMI 4K VGA Adapter&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;h3 id=&quot;cheap-webcams-to-buy&quot;&gt;Cheap Webcams to buy&lt;/h3&gt;
 
