@@ -1,33 +1,3 @@
-## TODO // REX
-
-- my dashboard
-- header as in confirm objects
-  - my dashboard 2/3, 1/3, filter back as select on top, 1/3 with promotions (new submission included)
-- multi select
-- single, no type when pill is on
-- double fields (checkbox and other… (new copy))
-
-
-## TODO // Wiley
-
-- learn [active listening](https://learnatcentral.org/2016/10/20/active-listening-fosters-effective-collaboration/)
-
-## TODO // DS
-
-- list decisions
-- new name, server issues (Oleg)
-- storybook (icons!)
-
----
-
----
-
----
-
----
-
----
-
 ## Journal Branding
 
 - JNR (square logo, brand color)
@@ -65,3 +35,4 @@
 # Review
 
 - `https://www.anthropocene-curriculum.org/pages/root/related-projects/related-project-1/
+

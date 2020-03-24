@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Nonlinear, notes
+title: Nonlinear
 slug: nonlinear
 categories: project
 status: public

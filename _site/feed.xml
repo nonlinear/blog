@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="www.nonlinear.nyc/feed.xml" rel="self" type="application/atom+xml" /><link href="www.nonlinear.nyc/" rel="alternate" type="text/html" /><updated>2020-03-22T20:43:45-04:00</updated><id>www.nonlinear.nyc/feed.xml</id><title type="html">nonlinear</title><subtitle>The anagram of my name is anarchist fool</subtitle><entry><title type="html">P5*js</title><link href="www.nonlinear.nyc/2020/03/22/p5-js.html" rel="alternate" type="text/html" title="P5*js" /><published>2020-03-22T00:00:00-04:00</published><updated>2020-03-22T00:00:00-04:00</updated><id>www.nonlinear.nyc/2020/03/22/p5*js</id><content type="html" xml:base="www.nonlinear.nyc/2020/03/22/p5-js.html">&lt;h1 id=&quot;videos&quot;&gt;Videos&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="www.nonlinear.nyc/feed.xml" rel="self" type="application/atom+xml" /><link href="www.nonlinear.nyc/" rel="alternate" type="text/html" /><updated>2020-03-24T08:09:49-04:00</updated><id>www.nonlinear.nyc/feed.xml</id><title type="html">nonlinear</title><subtitle>The anagram of my name is anarchist fool</subtitle><entry><title type="html">P5*js</title><link href="www.nonlinear.nyc/2020/03/22/p5-js.html" rel="alternate" type="text/html" title="P5*js" /><published>2020-03-22T00:00:00-04:00</published><updated>2020-03-22T00:00:00-04:00</updated><id>www.nonlinear.nyc/2020/03/22/p5*js</id><content type="html" xml:base="www.nonlinear.nyc/2020/03/22/p5-js.html">&lt;h1 id=&quot;videos&quot;&gt;Videos&lt;/h1&gt;
 
 &lt;hr /&gt;
 &lt;h2 id=&quot;how-i-learn&quot;&gt;How I Learn&lt;/h2&gt;
@@ -868,7 +868,160 @@ python inference.py
       &lt;/tbody&gt;
     &lt;/table&gt;
   &lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><summary type="html">Talks</summary></entry><entry><title type="html">Figma Config</title><link href="www.nonlinear.nyc/study/figma-config/" rel="alternate" type="text/html" title="Figma Config" /><published>2020-01-29T18:03:16-05:00</published><updated>2020-01-29T18:03:16-05:00</updated><id>www.nonlinear.nyc/study/figma-config</id><content type="html" xml:base="www.nonlinear.nyc/study/figma-config/">&lt;ul&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">Talks</summary></entry><entry><title type="html">Guidance Systems</title><link href="www.nonlinear.nyc/study/computational-guidance-systems/" rel="alternate" type="text/html" title="Guidance Systems" /><published>2020-01-29T18:03:16-05:00</published><updated>2020-01-29T18:03:16-05:00</updated><id>www.nonlinear.nyc/study/computational-guidance-systems</id><content type="html" xml:base="www.nonlinear.nyc/study/computational-guidance-systems/">&lt;ul&gt;
+  &lt;li&gt;Robb Beal&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Machine Learning&lt;/th&gt;
+      &lt;th&gt;Optimization&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;prediction, inference, learn from data&lt;/td&gt;
+      &lt;td&gt;find max/min, human-in-the-loop, evaluation&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Machine Learning as molecular gastronomy&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;BayesOpt&lt;/th&gt;
+      &lt;th&gt;Combinatorial Optimization&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;max/min&lt;/td&gt;
+      &lt;td&gt;Interactive: the optimization happens in using the product&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h4 id=&quot;bayesopt&quot;&gt;BayesOpt&lt;/h4&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;variables, what min and max&lt;/li&gt;
+  &lt;li&gt;ask optmizer, given bounds above&lt;/li&gt;
+  &lt;li&gt;have users evaluate the UI thru representative task (observation)&lt;/li&gt;
+  &lt;li&gt;feed value metric of observation, back to 3&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;distance, delay, decay, etc (metrics)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Metrics&lt;/p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;distance, delay, decay&lt;/li&gt;
+      &lt;li&gt;brightness, contrast, saturation, color balance (3)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;optimal state&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Refining Visual Designs: 6 iterations&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Humans are good at comparative judging&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;cultural considerations: if they dont share a culture, human-in-the-middle doesnt help.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;3-20 inependent design dimensions&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;10-1000 of human observations&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;diamond chart (definition/execution)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;a/b test dont tell a lot about optimal design dimension&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=17851964&quot;&gt;google vizier&lt;/a&gt;&lt;img src=&quot;/assets/images/posts/Screen Shot 2020-01-15 at 7.36.55 PM.png&quot; alt=&quot;Screen Shot 2020-01-15 at 7.36.55 PM&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;https://sigopt.com/&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;https://prowler.io&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;https://sheffieldml.github.io/GPyOpt/&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.joelsimon.net/evo_floorplans.html&quot;&gt;Joel Simon&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;table&gt;
+      &lt;tbody&gt;
+        &lt;tr&gt;
+          &lt;td&gt;[Oculus Connect 6: Introducing Hand Tracking on Oculus Quest, Facebook Horizon, and More&lt;/td&gt;
+          &lt;td&gt;Oculus](https://www.oculus.com/blog/oculus-connect-6-introducing-hand-tracking-on-oculus-quest-facebook-horizon-and-more/)&lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/tbody&gt;
+    &lt;/table&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;gesture recognition&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Recommendations&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;visual metaphors:&lt;/strong&gt; images that convey a message symbolically
+    &lt;ul&gt;
+      &lt;li&gt;are both object identifiable?&lt;/li&gt;
+      &lt;li&gt;are they integrated?&lt;/li&gt;
+      &lt;li&gt;
+        &lt;table&gt;
+          &lt;tbody&gt;
+            &lt;tr&gt;
+              &lt;td&gt;[VisiBlends, a New Approach to Disrupt Visual Messaging&lt;/td&gt;
+              &lt;td&gt;Columbia Engineering](https://engineering.columbia.edu/press-releases/lydia-chilton-visiblends)&lt;img src=&quot;/assets/images/posts/chilton-system_diagram_half_iterate_v2-1600.jpg&quot; alt=&quot;chilton-system_diagram_half_iterate_v2-1600&quot; /&gt;&lt;/td&gt;
+            &lt;/tr&gt;
+          &lt;/tbody&gt;
+        &lt;/table&gt;
+      &lt;/li&gt;
+      &lt;li&gt;geometric shape matching&lt;/li&gt;
+      &lt;li&gt;SymbolFinder: &lt;a href=&quot;https://www.slideshare.net/hmslydia/ai-tools-for-creative-work&quot;&gt;AI Tools for Creative Work&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;img src=&quot;/assets/images/posts/Screen Shot 2020-01-15 at 7.48.32 PM.png&quot; alt=&quot;Screen Shot 2020-01-15 at 7.48.32 PM&quot; /&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.cs.columbia.edu/~chilton/web/my_publications/VisiFit_CHI_2020_submission.pdf&quot;&gt;VisiFit: AI Tools to Iteratively Improve Visual Blends&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;Noun to noun combinations. noun to verb combinations&lt;/li&gt;
+      &lt;li&gt;Lydia Chilton!!!&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;data science for business&lt;/li&gt;
+  &lt;li&gt;computational interaction&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://pair.withgoogle.com/&quot;&gt;People + AI Guidebook&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;School on Computational Interation&lt;/li&gt;
+  &lt;li&gt;Machine Learning &amp;amp; User Experience (MLUX) - meetup, SF&lt;/li&gt;
+  &lt;li&gt;Sentiment, etc: Multi-objective, trade-off&lt;/li&gt;
+  &lt;li&gt;how do you pick the right variables?&lt;/li&gt;
+  &lt;li&gt;design skills
+    &lt;ul&gt;
+      &lt;li&gt;contingency design: what to do when it fails?&lt;/li&gt;
+      &lt;li&gt;defining the variables that matter&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;personalized interfaces, after a couple of uses, struggle, adaptation&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">Robb Beal</summary></entry><entry><title type="html">Figma Config</title><link href="www.nonlinear.nyc/study/figma-config/" rel="alternate" type="text/html" title="Figma Config" /><published>2020-01-29T18:03:16-05:00</published><updated>2020-01-29T18:03:16-05:00</updated><id>www.nonlinear.nyc/study/figma-config</id><content type="html" xml:base="www.nonlinear.nyc/study/figma-config/">&lt;ul&gt;
   &lt;li&gt;“Community”&lt;/li&gt;
 &lt;/ul&gt;
 
@@ -952,58 +1105,4 @@ python inference.py
 
     &lt;p&gt;tagging elements in figma&lt;/p&gt;
   &lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><summary type="html">“Community”</summary></entry><entry><title type="html">Open CV</title><link href="www.nonlinear.nyc/study/open-cv/" rel="alternate" type="text/html" title="Open CV" /><published>2020-01-29T18:03:16-05:00</published><updated>2020-01-29T18:03:16-05:00</updated><id>www.nonlinear.nyc/study/open-cv</id><content type="html" xml:base="www.nonlinear.nyc/study/open-cv/">&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;The Viola-Jones Algorithm (grayscale, find a nose, box travels thru the image)&lt;/p&gt;
-
-    &lt;ul&gt;
-      &lt;li&gt;“Rapid Object Detection using a Boosted Cascade of Simple Features”&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Haar-like Features&lt;/p&gt;
-
-    &lt;ul&gt;
-      &lt;li&gt;edge, line, four rectangle&lt;/li&gt;
-      &lt;li&gt;greater than 0.3&lt;/li&gt;
-      &lt;li&gt;&lt;img src=&quot;/assets/images/posts/Screen Shot 2019-12-10 at 10.38.31 AM.png&quot; alt=&quot;Screen Shot 2019-12-10 at 10.38.31 AM&quot; style=&quot;zoom:50%; padding: 50px 0&quot; /&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-
-    &lt;h2 id=&quot;integral-image&quot;&gt;Integral Image&lt;/h2&gt;
-
-    &lt;ul&gt;
-      &lt;li&gt;precalculates sums, so each area can be found with just 4 operations&lt;/li&gt;
-      &lt;li&gt;makes raster vector (scale-free)&lt;/li&gt;
-      &lt;li&gt;as long as it’s rectangles&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/posts/Screen Shot 2019-12-10 at 1.16.02 PM.png&quot; alt=&quot;Screen Shot 2019-12-10 at 1.16.02 PM&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/posts/Screen Shot 2019-12-10 at 1.16.16 PM.png&quot; alt=&quot;Screen Shot 2019-12-10 at 1.16.16 PM&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/posts/Screen Shot 2019-12-10 at 1.18.23 PM.png&quot; alt=&quot;Screen Shot 2019-12-10 at 1.18.23 PM&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/posts/Screen Shot 2019-12-10 at 1.18.47 PM.png&quot; alt=&quot;Screen Shot 2019-12-10 at 1.18.47 PM&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/posts/Screen Shot 2019-12-10 at 1.18.59 PM.png&quot; alt=&quot;Screen Shot 2019-12-10 at 1.18.59 PM&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;training-classifiers&quot;&gt;Training Classifiers&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;when training, scale the image DOWN&lt;/li&gt;
-  &lt;li&gt;mirror images&lt;/li&gt;
-  &lt;li&gt;non- images (same size, WITHOUT training to spot), for false positives, labeled&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.researchgate.net/publication/3766402_General_framework_for_object_detection&quot;&gt;General framework for object detection&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;adaboost&quot;&gt;Adaboost&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Adaptative Boosting&lt;/li&gt;
-  &lt;li&gt;weak classifier (over 50%)&lt;/li&gt;
-  &lt;li&gt;strong classifier&lt;/li&gt;
-  &lt;li&gt;ensemble method (a lot of weak classifiers make a strong classifier)&lt;/li&gt;
-  &lt;li&gt;&lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><summary type="html">The Viola-Jones Algorithm (grayscale, find a nose, box travels thru the image)</summary></entry></feed>
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">“Community”</summary></entry></feed>
