@@ -50,3 +50,23 @@ text-decoration: none;
 hr {
 	margin: 40px 0;
 }
+
+
+table {
+	
+	width: 100%;
+	margin: 40px 0;
+	img {
+		width: 200px;
+	}
+	tr {
+		border-bottom: solid 1px #ccc;
+		&:first-of-type {
+			border-top: solid 1px #ccc;
+		}
+	}
+	td, th {
+	
+		padding: 10px 5px;
+	}
+}
