@@ -6,22 +6,39 @@
 	@include reset(list);
 }
 .post {
-	height: 25px;
+	display: block;
 	overflow: hidden;
-	@include transition;
+	a {
+		text-decoration: none;
+	}
+	p {
+		margin: 0;
+		&.description {
+			font-size: 80%;
+			color: #666;
+			height: 1px;
+			overflow: hidden;
+			@include transition;
+		}
+	}
 	&:hover {
-		height: 50px;
-	
+			text-decoration: none;
+		p {
+			&.title {
+				text-decoration: underline;
+			}
+			&.description {
+			height: 30px;
+			overflow: none;
+		}
+		}
 	}
-.description {
-		font-size: 80%;
-color: #666;
-	}
+
 }
 
 body {
 	padding: 100px;
-font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
 del {
@@ -39,21 +56,22 @@ del {
 	}
 }
 
+
+
 a {
 	color: #666;
 
-text-decoration: none;
-&:hover {
-	color: black;
-}
+	&:hover {
+		color: black;
+	}
 }
 hr {
 	margin: 40px 0;
 }
 
-	img {
-		width: 100%;
-	}
+img {
+	width: 100%;
+}
 
 table {
 	
@@ -69,7 +87,7 @@ table {
 		}
 	}
 	td, th {
-	
+
 		padding: 10px 5px;
 	}
 }

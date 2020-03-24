@@ -18,65 +18,73 @@ categories: home
 		{% for post in site.posts %}
 		{% if post.categories contains 'study' and post.status contains 'public' %}
 
-		<li class="post">
-			<a href="{{ post.url }}">{{ post.title }}
+	
+			<a href="{{ post.url }}"  class="post">{{ post.title }}
 			</a>
 			<p class="description">{{ post.description  | truncate: 30 }}</p>
-		</li>
+
 		{% endif %}
 		{% endfor %}
 	</ul>
 {% endfor %} -->
-<ul class="col-sm links">
-		<li><h3>Studies</h3></li>
+<div class="col-sm links">
+	<h3>Studies</h3>
 		{% for post in site.posts %}
 		{% if post.categories contains 'study' and post.status contains 'public' %}
 
-		<li class="post">
-			<a href="{{ post.url }}">{{ post.title }}
+	
+			<a href="{{ post.url }}"  class="post">
+				<p class="title">{{ post.title }}</p>
+				<p class="description">{{ post.description  | truncate: 30 }}</p>
 			</a>
-			<p class="description">{{ post.description  | truncate: 30 }}</p>
-		</li>
+			
+
 		{% endif %}
 		{% endfor %}
-	</ul>
+	</div>
 
-		<ul class="col-sm links">
+		<div class="col-sm links">
 		<li><h3>Projects</h3></li>
 		{% for post in site.posts %}
 		{% if post.categories contains 'project' and post.status contains 'public' %}
-		<li class="post">
-			<a href="{{ post.url }}">{{ post.title }}
+	
+			<a href="{{ post.url }}"  class="post">
+				<p class="title">{{ post.title }}</p>
+				<p class="description">{{ post.description  | truncate: 30 }}</p>
 			</a>
-			<p class="description">{{ post.description  | truncate: 30 }}</p>
-		</li>
+			
+
 		{% endif %}
 		{% endfor %}
-	</ul>
-	<ul class="col-sm links">
+	</div>
+	<div class="col-sm links">
 		<li><h3>Notes</h3></li>
 		{% for post in site.posts %}
 		{% if post.categories contains 'note' and post.status contains 'public' %}
-		<li class="post">
-			<a href="{{ post.url }}">{{ post.title }}
+	
+			<a href="{{ post.url }}"  class="post">
+				<p class="title">{{ post.title }}</p>
+				<p class="description">{{ post.description  | truncate: 30 }}</p>
 			</a>
-			<p class="description">{{ post.description  | truncate: 30 }}</p>
-		</li>
+			
+
 		{% endif %}
 		{% endfor %}
-	</ul>
+	</div>
 
-			<ul class="col-sm links">
+			<div class="col-sm links">
 		<li><h3>Processing</h3></li>
 		{% for post in site.posts %}
 		{% if post.categories contains 'processing' and post.status contains 'public' %}
-		<li class="post">
-			<a href="{{ post.url }}">{{ post.title }}
+	
+			<a href="{{ post.url }}"  class="post">
+				<p class="title">{{ post.title }}</p>
+				<p class="description">{{ post.description  | truncate: 30 }}</p>
 			</a>
-			<p class="description">{{ post.description  | truncate: 30 }}</p>
-		</li>
+			
+
 		{% endif %}
 		{% endfor %}
-	</ul> 
+	</div> 
 
 </div>

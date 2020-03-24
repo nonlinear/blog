@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Ethical Code
+title: ethical code
 slug: ethical
 categories: project
 status: public
