@@ -10,7 +10,24 @@ categories: home
 <p>You're more than welcome to browse, but realize this is more a site by and for me.</p>
 <hr>
 <div class="row">
-	<ul class="col-sm links">
+<!-- {% for category in site.visible %}
+
+ <ul class="col-sm links">
+		<li><h3> {{ category.name }}</h3>
+			<p class="description"> {{ category.description }}</p></li>
+		{% for post in site.posts %}
+		{% if post.categories contains 'study' and post.status contains 'public' %}
+
+		<li class="post">
+			<a href="{{ post.url }}">{{ post.title }}
+			</a>
+			<p class="description">{{ post.description  | truncate: 30 }}</p>
+		</li>
+		{% endif %}
+		{% endfor %}
+	</ul>
+{% endfor %} -->
+<ul class="col-sm links">
 		<li><h3>Studies</h3></li>
 		{% for post in site.posts %}
 		{% if post.categories contains 'study' and post.status contains 'public' %}
@@ -24,18 +41,6 @@ categories: home
 		{% endfor %}
 	</ul>
 
-<!-- 	<ul class="col-sm links">
-		<li><h3>Recipes</h3></li>
-		{% for post in site.posts %}
-		{% if post.categories contains 'recipe' and post.status contains 'public' %}
-		<li class="post">
-			<a href="{{ post.url }}">{{ post.title }}
-			</a>
-			<p class="description">{{ post.description  | truncate: 30 }}</p>
-		</li>
-		{% endif %}
-		{% endfor %}
-	</ul> -->
 		<ul class="col-sm links">
 		<li><h3>Projects</h3></li>
 		{% for post in site.posts %}
@@ -72,6 +77,6 @@ categories: home
 		</li>
 		{% endif %}
 		{% endfor %}
-	</ul>
+	</ul> 
 
 </div>

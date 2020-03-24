@@ -16,9 +16,10 @@ permalink: /:categories/:slug/
    - find a default cover per category
    - ensure cover appear on open links (failsafe for animated gif)
 - check unsorted
-- get processing npm things
-- move processing stuff
+- ~~get processing npm things~~
+- ~~move processing stuff~~
 - categories as a loop
+- project, status
 - find a variable font
 - ~~status: public, draft, private~~
 - RSS shouldn't show private or draft
@@ -26,3 +27,5 @@ permalink: /:categories/:slug/
 - ~~atext for frontmatter~~
 - design this mofo
 - p5js inside div, not floating around
+- data using jekyll
+- js assets, how?

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="www.nonlinear.nyc/feed.xml" rel="self" type="application/atom+xml" /><link href="www.nonlinear.nyc/" rel="alternate" type="text/html" /><updated>2020-03-24T08:17:33-04:00</updated><id>www.nonlinear.nyc/feed.xml</id><title type="html">nonlinear</title><subtitle>The anagram of my name is anarchist fool</subtitle><entry><title type="html">P5*js</title><link href="www.nonlinear.nyc/2020/03/22/p5-js.html" rel="alternate" type="text/html" title="P5*js" /><published>2020-03-22T00:00:00-04:00</published><updated>2020-03-22T00:00:00-04:00</updated><id>www.nonlinear.nyc/2020/03/22/p5*js</id><content type="html" xml:base="www.nonlinear.nyc/2020/03/22/p5-js.html">&lt;h1 id=&quot;videos&quot;&gt;Videos&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="www.nonlinear.nyc/feed.xml" rel="self" type="application/atom+xml" /><link href="www.nonlinear.nyc/" rel="alternate" type="text/html" /><updated>2020-03-24T11:00:25-04:00</updated><id>www.nonlinear.nyc/feed.xml</id><title type="html">nonlinear</title><subtitle>The anagram of my name is anarchist fool</subtitle><entry><title type="html">P5*js</title><link href="www.nonlinear.nyc/2020/03/22/p5-js.html" rel="alternate" type="text/html" title="P5*js" /><published>2020-03-22T00:00:00-04:00</published><updated>2020-03-22T00:00:00-04:00</updated><id>www.nonlinear.nyc/2020/03/22/p5*js</id><content type="html" xml:base="www.nonlinear.nyc/2020/03/22/p5-js.html">&lt;h1 id=&quot;videos&quot;&gt;Videos&lt;/h1&gt;
 
 &lt;hr /&gt;
 &lt;h2 id=&quot;how-i-learn&quot;&gt;How I Learn&lt;/h2&gt;
@@ -868,241 +868,258 @@ python inference.py
       &lt;/tbody&gt;
     &lt;/table&gt;
   &lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><summary type="html">Talks</summary></entry><entry><title type="html">Guidance Systems</title><link href="www.nonlinear.nyc/study/computational-guidance-systems/" rel="alternate" type="text/html" title="Guidance Systems" /><published>2020-01-29T18:03:16-05:00</published><updated>2020-01-29T18:03:16-05:00</updated><id>www.nonlinear.nyc/study/computational-guidance-systems</id><content type="html" xml:base="www.nonlinear.nyc/study/computational-guidance-systems/">&lt;ul&gt;
-  &lt;li&gt;Robb Beal&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;Machine Learning&lt;/th&gt;
-      &lt;th&gt;Optimization&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;prediction, inference, learn from data&lt;/td&gt;
-      &lt;td&gt;find max/min, human-in-the-loop, evaluation&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">Talks</summary></entry><entry><title type="html">Boards</title><link href="www.nonlinear.nyc/project/boards/" rel="alternate" type="text/html" title="Boards" /><published>2020-01-29T18:03:16-05:00</published><updated>2020-01-29T18:03:16-05:00</updated><id>www.nonlinear.nyc/project/boards</id><content type="html" xml:base="www.nonlinear.nyc/project/boards/">&lt;h2 id=&quot;todo&quot;&gt;TODO&lt;/h2&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Machine Learning as molecular gastronomy&lt;/li&gt;
+  &lt;li&gt;review cheap projector&lt;/li&gt;
+  &lt;li&gt;review &lt;a href=&quot;https://www.youtube.com/watch?time_continue=121&amp;amp;v=pkwSoJrVWAY&amp;amp;feature=emb_title&quot;&gt;paper programs tutorial&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;review cheap printer&lt;/li&gt;
+  &lt;li&gt;review cheap camera&lt;/li&gt;
+  &lt;li&gt;review cables and connectors&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;h3 id=&quot;cheap-projectors-to-buy&quot;&gt;Cheap Projectors to buy&lt;/h3&gt;
 
 &lt;table&gt;
   &lt;thead&gt;
     &lt;tr&gt;
-      &lt;th&gt;BayesOpt&lt;/th&gt;
-      &lt;th&gt;Combinatorial Optimization&lt;/th&gt;
+      &lt;th&gt; &lt;/th&gt;
+      &lt;th&gt;Name&lt;/th&gt;
+      &lt;th&gt;Price&lt;/th&gt;
+      &lt;th&gt;Lumens&lt;/th&gt;
+      &lt;th&gt;Image&lt;/th&gt;
     &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td&gt;max/min&lt;/td&gt;
-      &lt;td&gt;Interactive: the optimization happens in using the product&lt;/td&gt;
+      &lt;td&gt;&lt;strong&gt;1&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://www.amazon.com/DBPOWER-L21-Projector-Compatible-Smartphone/dp/B07VGCGRV2/ref=sr_1_4?keywords=DBPOWER+T20&amp;amp;qid=1584922652&amp;amp;s=electronics&amp;amp;sr=1-4&quot;&gt;DBPOWER L21 LCD Video Projector&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;$80&lt;/td&gt;
+      &lt;td&gt;5000&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;https://images-na.ssl-images-amazon.com/images/I/61SDXxKtFtL._AC_SL1000_.jpg&quot; alt=&quot;aaa&quot; /&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;2&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://www.amazon.com/Projector-Portable-Supported-Multimedia-Entertainment/dp/B0863HRY9G/ref=sr_1_1_sspa?keywords=GooBang+Doo+Projector%2C+2018&amp;amp;qid=1584922906&amp;amp;s=electronics&amp;amp;sr=1-1-spons&amp;amp;psc=1&amp;amp;spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFQWElMVFhON1IzWjYmZW5jcnlwdGVkSWQ9QTA3ODU5NDUzOU9WWVlVTUlPWjJVJmVuY3J5cHRlZEFkSWQ9QTAwODIwNDgyN1FBMDJaOEU2WVNOJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==&quot;&gt;Bomaker A2 720P Portable Projector&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;$120&lt;/td&gt;
+      &lt;td&gt;4500&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;https://images-na.ssl-images-amazon.com/images/I/71VGqKsNI8L._AC_SL1455_.jpg&quot; alt=&quot;aaa&quot; /&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;3&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://www.amazon.com/Projector-Supported-2600Lux-Lifetime-Compatible/dp/B07MGQRWHH/ref=sr_1_4?keywords=DR.+J+HI-04&amp;amp;qid=1584921927&amp;amp;sr=8-4&quot;&gt; Jinhoo Mini Overhead Projector&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;$77&lt;/td&gt;
+      &lt;td&gt;4200&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;https://images-na.ssl-images-amazon.com/images/I/51hVIWAfclL._AC_SL1000_.jpg&quot; alt=&quot;aaa&quot; /&gt;&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;h4 id=&quot;bayesopt&quot;&gt;BayesOpt&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&quot;https://top10bestbudget.com/home/best-projectors-100-200-300-400/&quot;&gt;17 Best Projectors under 100 in 2019&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;cheap-webcams-to-buy&quot;&gt;Cheap Webcams to buy&lt;/h3&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt; &lt;/th&gt;
+      &lt;th&gt;Name&lt;/th&gt;
+      &lt;th&gt;Price&lt;/th&gt;
+      &lt;th&gt;Image&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;1&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://www.amazon.com/Streaming-Microphone-Widescreen-Conferencing-Recording/dp/B082X91MPP/ref=sr_1_3?keywords=webcam&amp;amp;qid=1584923615&amp;amp;sr=8-3&quot;&gt;HD Webcam 1080P with Privacy Shutter and Tripod Stand&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;$40&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;https://images-na.ssl-images-amazon.com/images/I/71eaH2ZSa%2BL._AC_SL1500_.jpg&quot; alt=&quot;aaa&quot; /&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;2&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://www.amazon.com/FOONEE-Reduction-Microphone-Conferencing-Recording/dp/B07Y243BXP/ref=sr_1_12?keywords=webcam&amp;amp;qid=1584923615&amp;amp;sr=8-12&quot;&gt;FOONEE 1080P Full HD Webcam&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;$33&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;https://images-na.ssl-images-amazon.com/images/I/51GOrQ8w68L._AC_SL1000_.jpg&quot; alt=&quot;aaa&quot; /&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h1 id=&quot;os-business-model&quot;&gt;OS business model&lt;/h1&gt;
+
+&lt;h2 id=&quot;pyramid&quot;&gt;pyramid&lt;/h2&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Name&lt;/th&gt;
+      &lt;th&gt;Stakeholder&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Topology application&lt;/td&gt;
+      &lt;td&gt;Janeraka, nycmesh&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Post-it application&lt;/td&gt;
+      &lt;td&gt;Pushpin port? how?&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Art application&lt;/td&gt;
+      &lt;td&gt;define&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Boards Platform&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;mailto:bernardoxhc@gmail.com&quot;&gt;Bernardo Fontes&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Business Model&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;mailto:georgia@simplysecure.org&quot;&gt;Georgia Bullen&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&quot;notes-by-oliver&quot;&gt;Notes by Oliver&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://protocol.ai/projects/&quot;&gt;Projects - Protocol Labs&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://nadiaeghbal.com/&quot;&gt;Nadia Eghbal&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;grants-to-look-out-for&quot;&gt;Grants to look out for&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/nayafia/microgrants#a-list-of-microgrant-programs-for-your-good-ideas&quot;&gt;A list of microgrant programs for your good ideas&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://wisconsinfastforward.com/wff_standard.htm&quot;&gt;Wisconsin Fast Forward Grants&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;The prototype fund German&lt;/li&gt;
+  &lt;li&gt;Tafka Mexican open source&lt;/li&gt;
+  &lt;li&gt;Canndid foundation center&lt;/li&gt;
+  &lt;li&gt;Open tech funds, prototypes (internet freedom)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;possible-fiscal-sponsors&quot;&gt;Possible Fiscal Sponsors&lt;/h2&gt;
+
+&lt;h2 id=&quot;partnerships-to-study&quot;&gt;Partnerships to study&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://publiclab.org/&quot;&gt;🎈 Public Lab: a DIY environmental science community&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://twitter.com/lizbarry&quot;&gt;Liz Barry&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://treekit.org/&quot;&gt;treeKIT - Maintenance mode&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;inkandswitch
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://github.com/inkandswitch/pushpin&quot;&gt;pushpin: A collaborative corkboard app&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://github.com/inkandswitch/interactive-shape-recognition&quot;&gt;interactive-shape-recognition: Implementation of “A Simple Approach to Recognise Geometric Shapes Interactively”&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://schoolofdata.nyc/&quot;&gt;NYC School of Data – a community conference through #civicdesign, #civictech, &amp;amp; #opendata.&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.digital-democracy.org/mapeo/&quot;&gt;Digital Democracy - Mapeo&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Lai yi Olsen&lt;/li&gt;
+  &lt;li&gt;Caroline sanders&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;todo-1&quot;&gt;Todo&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;thank Oliver, show ethical OS licncing&lt;/li&gt;
+  &lt;li&gt;thank Georgia, ask for pushpin invite, and art recommendations (Laiyi Olsen and Caroline sanders)&lt;/li&gt;
+  &lt;li&gt;storyboard “topology”: nycmesh and Janeraka&lt;/li&gt;
+  &lt;li&gt;Storyboard “pushpin” port&lt;/li&gt;
+  &lt;li&gt;Storyboard “art”&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Ryzome
+Fractured artists
+Open source collective
+Walking paper project&lt;/p&gt;
+
+&lt;h2 id=&quot;models-to-study&quot;&gt;Models to study&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;ethical open source&lt;/li&gt;
+  &lt;li&gt;Open access (for scientific papers)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;model-to-validate-its-a-very-crude-model&quot;&gt;model to validate (it’s a very crude model)&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;get paid in advance
+    &lt;ul&gt;
+      &lt;li&gt;focused scope: epic, estimated&lt;/li&gt;
+      &lt;li&gt;Grants, funds, crowdsourcing&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;deliver as commons
+    &lt;ul&gt;
+      &lt;li&gt;main code&lt;/li&gt;
+      &lt;li&gt;Integrations with existing libraries&lt;/li&gt;
+      &lt;li&gt;New libraries (stand alone projects)&lt;/li&gt;
+      &lt;li&gt;Documentation, methods (Creative Commons?)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;reputation for more grants&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">TODO</summary></entry><entry><title type="html">Ethical Code</title><link href="www.nonlinear.nyc/project/ethical/" rel="alternate" type="text/html" title="Ethical Code" /><published>2020-01-29T18:03:16-05:00</published><updated>2020-01-29T18:03:16-05:00</updated><id>www.nonlinear.nyc/project/ethical</id><content type="html" xml:base="www.nonlinear.nyc/project/ethical/">&lt;p&gt;Here are my notes, then zee notes, for zee to consolidate and announce.&lt;/p&gt;
+
+&lt;h4 id=&quot;audience&quot;&gt;Audience&lt;/h4&gt;
 
 &lt;ol&gt;
-  &lt;li&gt;variables, what min and max&lt;/li&gt;
-  &lt;li&gt;ask optmizer, given bounds above&lt;/li&gt;
-  &lt;li&gt;have users evaluate the UI thru representative task (observation)&lt;/li&gt;
-  &lt;li&gt;feed value metric of observation, back to 3&lt;/li&gt;
+  &lt;li&gt;Palantir as company and developers&lt;/li&gt;
+  &lt;li&gt;non-developers (use laymen terms)&lt;/li&gt;
+  &lt;li&gt;maintainers
+    &lt;ol&gt;
+      &lt;li&gt;software is in use by palantir&lt;/li&gt;
+      &lt;li&gt;not on palantir and want to protect themselves&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;distance, delay, decay, etc (metrics)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Metrics&lt;/p&gt;
+&lt;h4 id=&quot;funnels&quot;&gt;Funnels&lt;/h4&gt;
 
-    &lt;ul&gt;
-      &lt;li&gt;distance, delay, decay&lt;/li&gt;
-      &lt;li&gt;brightness, contrast, saturation, color balance (3)&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;optimal state&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Refining Visual Designs: 6 iterations&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Humans are good at comparative judging&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;cultural considerations: if they dont share a culture, human-in-the-middle doesnt help.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;3-20 inependent design dimensions&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;10-1000 of human observations&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;diamond chart (definition/execution)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;a/b test dont tell a lot about optimal design dimension&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=17851964&quot;&gt;google vizier&lt;/a&gt;&lt;img src=&quot;/assets/images/posts/Screen Shot 2020-01-15 at 7.36.55 PM.png&quot; alt=&quot;Screen Shot 2020-01-15 at 7.36.55 PM&quot; /&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;https://sigopt.com/&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;https://prowler.io&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;https://sheffieldml.github.io/GPyOpt/&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://www.joelsimon.net/evo_floorplans.html&quot;&gt;Joel Simon&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;table&gt;
-      &lt;tbody&gt;
-        &lt;tr&gt;
-          &lt;td&gt;[Oculus Connect 6: Introducing Hand Tracking on Oculus Quest, Facebook Horizon, and More&lt;/td&gt;
-          &lt;td&gt;Oculus](https://www.oculus.com/blog/oculus-connect-6-introducing-hand-tracking-on-oculus-quest-facebook-horizon-and-more/)&lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/tbody&gt;
-    &lt;/table&gt;
-
-    &lt;ul&gt;
-      &lt;li&gt;gesture recognition&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Recommendations&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;visual metaphors:&lt;/strong&gt; images that convey a message symbolically
-    &lt;ul&gt;
-      &lt;li&gt;are both object identifiable?&lt;/li&gt;
-      &lt;li&gt;are they integrated?&lt;/li&gt;
-      &lt;li&gt;
-        &lt;table&gt;
-          &lt;tbody&gt;
-            &lt;tr&gt;
-              &lt;td&gt;[VisiBlends, a New Approach to Disrupt Visual Messaging&lt;/td&gt;
-              &lt;td&gt;Columbia Engineering](https://engineering.columbia.edu/press-releases/lydia-chilton-visiblends)&lt;img src=&quot;/assets/images/posts/chilton-system_diagram_half_iterate_v2-1600.jpg&quot; alt=&quot;chilton-system_diagram_half_iterate_v2-1600&quot; /&gt;&lt;/td&gt;
-            &lt;/tr&gt;
-          &lt;/tbody&gt;
-        &lt;/table&gt;
-      &lt;/li&gt;
-      &lt;li&gt;geometric shape matching&lt;/li&gt;
-      &lt;li&gt;SymbolFinder: &lt;a href=&quot;https://www.slideshare.net/hmslydia/ai-tools-for-creative-work&quot;&gt;AI Tools for Creative Work&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;img src=&quot;/assets/images/posts/Screen Shot 2020-01-15 at 7.48.32 PM.png&quot; alt=&quot;Screen Shot 2020-01-15 at 7.48.32 PM&quot; /&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://www.cs.columbia.edu/~chilton/web/my_publications/VisiFit_CHI_2020_submission.pdf&quot;&gt;VisiFit: AI Tools to Iteratively Improve Visual Blends&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;Noun to noun combinations. noun to verb combinations&lt;/li&gt;
-      &lt;li&gt;Lydia Chilton!!!&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;data science for business&lt;/li&gt;
-  &lt;li&gt;computational interaction&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://pair.withgoogle.com/&quot;&gt;People + AI Guidebook&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;School on Computational Interation&lt;/li&gt;
-  &lt;li&gt;Machine Learning &amp;amp; User Experience (MLUX) - meetup, SF&lt;/li&gt;
-  &lt;li&gt;Sentiment, etc: Multi-objective, trade-off&lt;/li&gt;
-  &lt;li&gt;how do you pick the right variables?&lt;/li&gt;
-  &lt;li&gt;design skills
-    &lt;ul&gt;
-      &lt;li&gt;contingency design: what to do when it fails?&lt;/li&gt;
-      &lt;li&gt;defining the variables that matter&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;personalized interfaces, after a couple of uses, struggle, adaptation&lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><summary type="html">Robb Beal</summary></entry><entry><title type="html">Figma Config</title><link href="www.nonlinear.nyc/study/figma-config/" rel="alternate" type="text/html" title="Figma Config" /><published>2020-01-29T18:03:16-05:00</published><updated>2020-01-29T18:03:16-05:00</updated><id>www.nonlinear.nyc/study/figma-config</id><content type="html" xml:base="www.nonlinear.nyc/study/figma-config/">&lt;ul&gt;
-  &lt;li&gt;“Community”&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;morning-talks&quot;&gt;Morning Talks&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Dylan Field&lt;/li&gt;
-  &lt;li&gt;Discover, duplicate, remix&lt;/li&gt;
-  &lt;li&gt;Craig Mod&lt;/li&gt;
-  &lt;li&gt;Devon Zuegel
-    &lt;ul&gt;
-      &lt;li&gt;land capture&lt;/li&gt;
-      &lt;li&gt;virtuous cycle&lt;/li&gt;
-      &lt;li&gt;Congestion pricing (sponsor to change priority)&lt;/li&gt;
-      &lt;li&gt;stronger signal&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;design-systems&quot;&gt;Design Systems&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Elements, interconnections and purpose&lt;/li&gt;
-  &lt;li&gt;towards a northstar&lt;/li&gt;
-  &lt;li&gt;Elements suffer biggest change&lt;/li&gt;
-  &lt;li&gt;communicate that change is here to stay&lt;/li&gt;
-  &lt;li&gt;communicate the purpose&lt;/li&gt;
-  &lt;li&gt;office hours: peer in users&lt;/li&gt;
-  &lt;li&gt;Material design dos and donts&lt;/li&gt;
-  &lt;li&gt;desirable futures with less side effects&lt;/li&gt;
-  &lt;li&gt;documentation: synonyms, why, others, States, variations&lt;/li&gt;
-  &lt;li&gt;prepare for the future&lt;/li&gt;
-  &lt;li&gt;subsystem frameworks&lt;/li&gt;
-  &lt;li&gt;“speed over certainty” example of principles&lt;/li&gt;
-  &lt;li&gt;principles create rationale
-    &lt;ul&gt;
-      &lt;li&gt;transparency trumps complexity&lt;/li&gt;
-      &lt;li&gt;opinionated yet flexible&lt;/li&gt;
-      &lt;li&gt;purpose out of behavior&lt;/li&gt;
-      &lt;li&gt;bend but never break&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;illustration-systems&quot;&gt;Illustration systems&lt;/h3&gt;
-
-&lt;p&gt;Bonnie&lt;/p&gt;
-
-&lt;p&gt;set up to successfuly replicate&lt;/p&gt;
-
-&lt;p&gt;diversity is more form than race&lt;/p&gt;
-
-&lt;p&gt;diversity should evoke belonging&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;build your illustration library&lt;/p&gt;
-
+&lt;ol&gt;
+  &lt;li&gt;maintainers with software in use
     &lt;ol&gt;
-      &lt;li&gt;audit
-&lt;img src=&quot;/assets/images/posts/IMG_8189.jpeg&quot; alt=&quot;IMG_8189&quot; /&gt;
-        &lt;ul&gt;
-          &lt;li&gt;illustrations&lt;/li&gt;
-          &lt;li&gt;key messages&lt;/li&gt;
-          &lt;li&gt;Audiences (marketing, product, b2b, b2c, international)&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;design
-&lt;img src=&quot;/assets/images/posts/IMG_8190.jpeg&quot; alt=&quot;IMG_8190&quot; /&gt;
-&lt;img src=&quot;/assets/images/posts/IMG_8191.jpeg&quot; alt=&quot;IMG_8191&quot; /&gt;&lt;/li&gt;
-      &lt;li&gt;organize
-&lt;img src=&quot;/assets/images/posts/IMG_8192.jpeg&quot; alt=&quot;IMG_8192&quot; /&gt;
-&lt;img src=&quot;/assets/images/posts/IMG_8193.jpeg&quot; alt=&quot;IMG_8193&quot; /&gt;&lt;/li&gt;
-      &lt;li&gt;produce
-&lt;img src=&quot;/assets/images/posts/IMG_8194.jpeg&quot; alt=&quot;IMG_8194&quot; /&gt;&lt;/li&gt;
-      &lt;li&gt;socialize
-&lt;img src=&quot;/assets/images/posts/IMG_8195.jpeg&quot; alt=&quot;IMG_8195&quot; /&gt;&lt;/li&gt;
+      &lt;li&gt;change the licensing: point to the research&lt;/li&gt;
+      &lt;li&gt;pledge on README (badge)&lt;/li&gt;
+      &lt;li&gt;donate money to a group that opposes ICE (README that they did)&lt;/li&gt;
     &lt;/ol&gt;
-
-    &lt;p&gt;icons represent concepts not UI (because UI changes)&lt;/p&gt;
-
-    &lt;p&gt;tagging elements in figma&lt;/p&gt;
   &lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><summary type="html">“Community”</summary></entry></feed>
+  &lt;li&gt;maintainers unsure if they are used by palantir
+    &lt;ol&gt;
+      &lt;li&gt;github oauth to detect if (alerts? phase 2? discuss)
+        &lt;ol&gt;
+          &lt;li&gt;if yes, check “maintainers with software in use”&lt;/li&gt;
+          &lt;li&gt;if no, how to protect yourself from it&lt;/li&gt;
+        &lt;/ol&gt;
+      &lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;dev non-mantainers
+    &lt;ol&gt;
+      &lt;li&gt;raise an issue on ethical license (padding with warnings, how to behave)&lt;/li&gt;
+      &lt;li&gt;donate money to a group that opposes ICE (if you can afford)&lt;/li&gt;
+      &lt;li&gt;donate to repo (better contrast for repos on pledge)&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;non-dev
+    &lt;ol&gt;
+      &lt;li&gt;dashboard, graphs, progress, bird-eye view: explain what they are seeing (phase 2?)&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h4 id=&quot;arguments-to-expose&quot;&gt;Arguments to expose&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;open source traditionless&lt;/li&gt;
+  &lt;li&gt;overworked, underpaid maintainers (donation, thank you for your service, etc)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;tech-to-discuss&quot;&gt;Tech to discuss&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;flags on CTAs so we can measure progress (of donation, of issues raised, etc)&lt;/li&gt;
+  &lt;li&gt;proxy mesure for repo popularity: reveal power curve, some repos are better than others (likes, follow, activity. it PROBABLY exists somewhere)&lt;/li&gt;
+  &lt;li&gt;dashboard&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">Here are my notes, then zee notes, for zee to consolidate and announce.</summary></entry></feed>
