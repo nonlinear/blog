@@ -36,3 +36,19 @@
 
 - `https://www.anthropocene-curriculum.org/pages/root/related-projects/related-project-1/
 
+
+
+
+
+- version menu to view initial submission
+
+- author response 
+
+  - type in
+  - upload a file
+
+  
+
+- unsubmit with no letter !!!!
+
+- clickable prototype
