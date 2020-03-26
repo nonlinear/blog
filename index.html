@@ -3,30 +3,15 @@ layout: default
 title: praxis
 categories: home
 ---
-<h1>{{site.title}}</h1>
+<header class="header wow">
+	<h1>{{site.title}}</h1>
 <h3>{{site.description}}</h3>
 
 <p>I'm using quarantine time to redo my personal website, consolidating notes and experiments.</p>
 <p>You're more than welcome to browse, but realize this is more a site by and for me.</p>
-<div class="row">
-<!-- {% for category in site.visible %}
-
- <ul class="col-sm links">
-		<li><h3> {{ category.name }}</h3>
-			<p class="description"> {{ category.description }}</p></li>
-		{% for post in site.posts %}
-		{% if post.categories contains 'study' and post.status contains 'public' %}
-
-	
-			<a href="{{ post.url }}"  class="post">{{ post.title }}
-			</a>
-			<p class="description">{{ post.description  | truncate: 30 }}</p>
-
-		{% endif %}
-		{% endfor %}
-	</ul>
-{% endfor %} -->
-<div class="col-sm links">
+</header>
+<div class="row grid">
+<div class="col-sm links wow" data-wow-delay="300ms">
 	<h3>Studies</h3>
 		{% for post in site.posts %}
 		{% if post.categories contains 'study' and post.status contains 'public' %}
@@ -34,7 +19,7 @@ categories: home
 	
 			<a href="{{ post.url }}"  class="post">
 				<p class="title">{{ post.title }}</p>
-				<p class="description">{{ post.description  | truncate: 30 }}</p>
+				<p class="description">{{ post.description  | truncate: 27 }}</p>
 			</a>
 			
 
@@ -42,28 +27,28 @@ categories: home
 		{% endfor %}
 	</div>
 
-		<div class="col-sm links">
+		<div class="col-sm links wow" data-wow-delay="600ms">
 		<li><h3>Projects</h3></li>
 		{% for post in site.posts %}
 		{% if post.categories contains 'project' and post.status contains 'public' %}
 	
 			<a href="{{ post.url }}"  class="post">
 				<p class="title">{{ post.title }}</p>
-				<p class="description">{{ post.description  | truncate: 30 }}</p>
+				<p class="description">{{ post.description  | truncate: 27 }}</p>
 			</a>
 			
 
 		{% endif %}
 		{% endfor %}
 	</div>
-	<div class="col-sm links">
+	<div class="col-sm links wow" data-wow-delay="900ms">
 		<li><h3>Notes</h3></li>
 		{% for post in site.posts %}
 		{% if post.categories contains 'note' and post.status contains 'public' %}
 	
 			<a href="{{ post.url }}"  class="post">
 				<p class="title">{{ post.title }}</p>
-				<p class="description">{{ post.description  | truncate: 30 }}</p>
+				<p class="description">{{ post.description  | truncate: 27 }}</p>
 			</a>
 			
 
@@ -71,14 +56,14 @@ categories: home
 		{% endfor %}
 	</div>
 
-			<div class="col-sm links">
+			<div class="col-sm links wow" data-wow-delay="1200ms">
 		<li><h3>Processing</h3></li>
 		{% for post in site.posts %}
 		{% if post.categories contains 'processing' and post.status contains 'public' %}
 	
 			<a href="{{ post.url }}"  class="post">
 				<p class="title">{{ post.title }}</p>
-				<p class="description">{{ post.description  | truncate: 30 }}</p>
+				<p class="description">{{ post.description  | truncate: 27 }}</p>
 			</a>
 			
 

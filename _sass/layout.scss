@@ -17,14 +17,33 @@
 	);
 
 body {
-	padding: $gap10;
+	padding: $gap6;
 	font-family: Space Grotesk;
 }
 
-h1, h2, h3 {
+.row.grid {
+	padding: $gap2 0;
+	grid-gap: 0;
+	.links {
+		padding: 0;
+		& > * {
+			padding-left: $gap;
+			padding-right: $gap;
+		}
+		a {
+	background-color: #eee;
+
+	&:nth-of-type(2n) {
+	background-color: #fff;
+	}
+	}
+	}
+}
+
+h1, h2, h3, h4, h5 {
 	font-weight: bold;
 }
-h1, h2, h3, h4, p {
+h1, h2, h3, h4, h5, p {
 	margin-bottom: $gap;
 }
 
