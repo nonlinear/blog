@@ -26,8 +26,11 @@ permalink: /:categories/:slug/
 
 
 - **scope:** inconvenience to destruction
+
 - **complexity:** point/systems risk
+
 - **source:** humans (individual, group, organization or state), other species, physical systems
+
 
 >  **Climate change** and **financial collapse** share deep complexity and global scope
 
