@@ -19,13 +19,14 @@ permalink: /:categories/:slug/
 - ~~get processing npm things~~
 - ~~move processing stuff~~
 - categories as a loop
-- project, status
-- find a variable font
+- ~~project, status~~
+- ~~find a variable font~~
 - ~~status: public, draft, private~~
 - RSS shouldn't show private or draft
 - ~~atext for new file~~
 - ~~atext for frontmatter~~
-- design this mofo
+- ~~design this mofo~~
+- [Transitioning Gradients](https://keithjgrant.com/posts/2017/07/transitioning-gradients/)
 - p5js inside div, not floating around
-- data using jekyll
+- ~~data using jekyll~~
 - js assets, how?

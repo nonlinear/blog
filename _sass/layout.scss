@@ -23,6 +23,10 @@ body {
 
 	background-repeat: no-repeat;
 	background-attachment: fixed;
+	@include transition;
+	// &.test {
+	// 		@include linear-gradient(140deg, #ffffff, #ccc);
+	// }
 }
 
 
@@ -85,14 +89,13 @@ h1, h2, h3, h4, h5, p {
 
 del {
 	color: #999;
-	font-size: 80%;
 	text-decoration: none !important;
 	&:before {
 		content: "done";
-		background-color: #999;
+		background-color: #ccc;
 		color: white;
 		padding: 3px 7px;
-		font-size: 10px;
+		font-weight: bold;
 		margin-right: 5px;
 		@include radius(2px);
 	}
