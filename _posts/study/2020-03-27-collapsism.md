@@ -4,20 +4,16 @@ title: collapsism
 slug: collapsism
 categories: study
 status: public
-description: notes on vinay gupta talk
+description: Vinay Gupta on systemic risks to civilization and responses
 date: 2020-01-29 18:03:16 -0500
 permalink: /:categories/:slug/
 ---
 
-Through the Looking Glass - Vinay Gupta on systemic risks to civilization and responses
-
-- [youtube](https://www.youtube.com/watch?v=jm5o-ughyD8&t=1278s)
-- [slides](http://files.howtolivewiki.com/through_the_looking_glass_2010/Ireland%205.pdf)
+- **Through the Looking Glass**
+	- [youtube](https://www.youtube.com/watch?v=jm5o-ughyD8&t=1278s)
+	- [slides](http://files.howtolivewiki.com/through_the_looking_glass_2010/Ireland%205.pdf)
 
 #### Threat Models
-
-
-
 
 |                        | scope              | severity              | complexity   | source        | odds               |
 | ---------------------- | ------------------ | --------------------- | ------------ | ------------- | ------------------ |
