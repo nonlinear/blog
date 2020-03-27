@@ -528,30 +528,32 @@
 	<script src="/assets/vendor/p5.min.js"></script>
 	<script src="/assets/vendor/p5.dom.min.js"></script>
 	<script src="/assets/vendor/p5.sound.min.js"></script>
+	<script src="/assets/vendor/modernizr.js"></script>
+	<script src="/assets/vendor/detectizr.js"></script>
 	<script>
 		$(function () {
 			$('[data-toggle="tooltip"]').tooltip()
 		});
-			new WOW({
+		new WOW({
                       boxClass:     'wow',      // default
                       animateClass: 'animated', // default
                       offset:       0,          // default
                       mobile:       true,       // default
                       live:         true        // default
-                    }
-			).init();
+                  }
+                  ).init();
 
-	</script>
-	<script>
-		$(".col-sm.links").hover(
-  function () {
-    $("body").addClass("test");
-  },
-  function () {
-    $("body").removeClass("test");
-  }
-);
-	</script>
+              </script>
+              <script>
+              	$(".col-sm.links").hover(
+              		function () {
+              			$("body").addClass("test");
+              		},
+              		function () {
+              			$("body").removeClass("test");
+              		}
+              		);
+              	</script>
 </body>
 
 </html>
