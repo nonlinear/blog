@@ -16,9 +16,9 @@ Through the Looking Glass - Vinay Gupta on systemic risks to civilization and re
 
 #### Threat Models (make table of criteria/ threa)
 
-![IMG_9247](/Users/nonlinear/Critical/nonlinear/assets/images/collapsism/IMG_9247.png)
+![IMG_9247](/assets/images/collapsism/IMG_9247.png)
 
-![IMG_9248](/Users/nonlinear/Critical/nonlinear/assets/images/collapsism/IMG_9248.png)
+![IMG_9248](/assets/images/collapsism/IMG_9248.png)
 
 
 
@@ -52,9 +52,9 @@ odds:
 
 - TODO: get green wizard
 
-![IMG_9237](/Users/nonlinear/Critical/nonlinear/assets/images/collapsism/IMG_9237.png)
+![IMG_9237](/assets/images/collapsism/IMG_9237.png)
 
-![IMG_9238](/Users/nonlinear/Critical/nonlinear/assets/images/collapsism/IMG_9238.png)
+![IMG_9238](/assets/images/collapsism/IMG_9238.png)
 
 
 
@@ -62,14 +62,14 @@ odds:
 
 
 
-![IMG_9243](/Users/nonlinear/Critical/nonlinear/assets/images/collapsism/IMG_9243.png)
+![IMG_9243](/assets/images/collapsism/IMG_9243.png)
 
-![IMG_9244](/Users/nonlinear/Critical/nonlinear/assets/images/collapsism/IMG_9244.png)
+![IMG_9244](/assets/images/collapsism/IMG_9244.png)
 
 
 
 ### Warnings
 
-![IMG_9245](/Users/nonlinear/Critical/nonlinear/assets/images/collapsism/IMG_9245.png)
+![IMG_9245](/assets/images/collapsism/IMG_9245.png)
 
 
