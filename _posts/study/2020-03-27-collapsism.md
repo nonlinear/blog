@@ -14,23 +14,10 @@ Through the Looking Glass - Vinay Gupta on systemic risks to civilization and re
 - [youtube](https://www.youtube.com/watch?v=jm5o-ughyD8&t=1278s)
 - [slides](http://files.howtolivewiki.com/through_the_looking_glass_2010/Ireland%205.pdf)
 
-#### Threat Models (make table of criteria/ threa)
-
-![IMG_9247](/assets/images/collapsism/IMG_9247.png)
-
-![IMG_9248](/assets/images/collapsism/IMG_9248.png)
+#### Threat Models
 
 
 
-Scope: from individual to the whole world
-
-severity: inconvenience to destruction
-
-complexity: point/system risks
-
-source: humans (individual, group, organization or state), other species, physical systems
-
-odds: 
 
 |                        | scope              | severity              | complexity   | source        | odds               |
 | ---------------------- | ------------------ | --------------------- | ------------ | ------------- | ------------------ |
@@ -42,9 +29,17 @@ odds:
 | **Financial Collapse** | global economy     | serious disruption    | systems risk | humans        | common in the past |
 
 
+** Scope:** from individual to the whole world
+** severity:** inconvenience to destruction
+** complexity:** point/system risks
+** source:** humans (individual, group, organization or state), other species, physical systems
+** odds:** pending
 
 >  **Climate change** and **financial collapse** share deep complexity and global scope
 
+![IMG_9247](/assets/images/collapsism/IMG_9247.png)
+
+![IMG_9248](/assets/images/collapsism/IMG_9248.png)
 
 
 
