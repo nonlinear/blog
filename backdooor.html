@@ -3,19 +3,18 @@ layout: default
 title: praxis
 categories: home
 ---
-<h3>secret shit</h3>
+<h2>secret shit</h2>
 
 
-<ul>
+<div class="links">
 		{% for post in site.posts %}
 		{% if post.status contains 'private' or post.status contains 'draft' %}
+<a href="{{ post.url }}"  class="post">
+				<p class="title">{{ post.title }}</p>
+				<p class="description">{{ post.categories }},  {{ post.status }}</p>
+			</a>
 
-		<li>
-			<a href="{{ post.url }}">{{ post.title }}
-			</a><br>
-			category: {{ post.categories }}</br>
-		status: {{ post.status }}
-		</li>
 		{% endif %}
 		{% endfor %}
+	</div>
 </ul>

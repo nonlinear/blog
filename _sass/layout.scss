@@ -9,7 +9,7 @@
 
 @include font-face(Space Grotesk, 
 	$path: "/assets/fonts/", 
-	$file: SpaceGrotesk-SemiBold, 
+	$file: SpaceGrotesk-Regular, 
 	$weight: bold, 
 	$style: normal, 
 	$stretch: normal, 
@@ -24,19 +24,23 @@ body {
 .row.grid {
 	padding: $gap2 0;
 	grid-gap: 0;
-	.links {
-		padding: 0;
-		& > * {
-			padding-left: $gap;
-			padding-right: $gap;
-		}
-		a {
-	background-color: #eee;
 
-	&:nth-of-type(2n) {
-	background-color: #fff;
+}
+header.header {
+	h1, h2, h3, h4, h5 {
+		padding: 0;
+		margin: 0;
+
 	}
-	}
+
+	padding-bottom: $gap3;
+
+}
+.links {
+	padding: 0;
+	& > * {
+		padding-left: $gap;
+		padding-right: $gap;
 	}
 }
 
@@ -53,82 +57,102 @@ h1, h2, h3, h4, h5, p {
 .links {
 	@include reset(margin);
 	@include reset(list);
+
 }
-.post {
-	display: block;
-	overflow: hidden;
-	a {
-		text-decoration: none;
-	}
-	p {
-		margin: 0;
-		&.description {
-			height: 1px;
-			overflow: hidden;
-			@include transition;
-		}
-	}
-	&:hover {
-		text-decoration: none;
+
+	// header:not(.header), div:not(.links) {
+	// 	a {
+	// 	text-decoration: underline !important;
+	// }
+	// }
+
+	.post {
+		display: block;
+		overflow: hidden;
 		p {
-			&.title {
-				text-decoration: underline;
-			}
+			margin: 0;
 			&.description {
-				height: 30px;
-				overflow: none;
+				height: 1px;
+				overflow: hidden;
+				@include transition;
 			}
 		}
+		&:hover {
+			p {
+				&.description {
+					height: 30px;
+					overflow: none;
+				}
+			}
+		}
+
 	}
 
-}
 
 
-
-del {
-	color: #999;
-	font-size: 80%;
-	text-decoration: none !important;
-	&:before {
-		content: "done";
-		background-color: #999;
-		color: white;
-		padding: 3px 7px;
-		font-size: 10px;
-		margin-right: 5px;
-		@include radius(2px);
-	}
-}
-
-
-
-a {
-	color: #666;
-
-	&:hover {
-		color: black;
-	}
-}
-
-
-img {
-	width: 100%;
-}
-
-table {
-	
-	width: 100%;
-	margin: $gap3 0;
-	img {
-		width: 200px;
-	}
-	tr {
-		border-bottom: solid 1px #ccc;
-		&:first-of-type {
-			border-top: solid 1px #ccc;
+	del {
+		color: #999;
+		font-size: 80%;
+		text-decoration: none !important;
+		&:before {
+			content: "done";
+			background-color: #999;
+			color: white;
+			padding: 3px 7px;
+			font-size: 10px;
+			margin-right: 5px;
+			@include radius(2px);
 		}
 	}
-	td, th {
-		padding: $gap2 $gap;
+
+
+
+	a {
+		color: black;
+		background-color: rgba(yellow, .3);
+		@include transition;
+
+		&:hover {
+			color: black;
+			text-decoration: none;
+			background-color: rgba(orange, .4);
+		}
+		.links & {
+			background: none !important;
+		.title {
+			@include transition;
+			background-color: rgba(yellow, .3);
+			display: inline;
+		}
+		&:hover {
+			background: none !important;
+			.title {
+				background-color: rgba(orange, .4);
+				
+			}
+		}
+		}
 	}
-}
+
+
+	img {
+		width: 100%;
+	}
+
+	table {
+
+		width: 100%;
+		margin: $gap3 0;
+		img {
+			width: 200px;
+		}
+		tr {
+			border-bottom: solid 1px #ccc;
+			&:first-of-type {
+				border-top: solid 1px #ccc;
+			}
+		}
+		td, th {
+			padding: $gap2 $gap;
+		}
+	}

@@ -1,18 +1,16 @@
 ---
 layout: default
-title: Stories thru data
+title: Stories Through Data
 slug: data-viz
 categories: study
 status: public
-description: notes on vrainstation meetup
+description: notes on brainstation meetup
 date: 2020-01-29 18:03:16 -0500
 permalink: /:categories/:slug/
 ---
-# Stories Through Data
 
 [Making an Impact with Data Visualization](https://brainstation.io/event/nyc-data-visualization-feb2020?utm_source=bstnmeetup&utm_medium=eventpr&utm_campaign=febnyc2020panel)
 
----
 
 ### Lily Boyce
 
