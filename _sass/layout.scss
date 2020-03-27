@@ -20,7 +20,6 @@ body {
 	padding: $gap6;
 	font-family: Space Grotesk;
 	@include linear-gradient(130deg, #ffffff, #ECE9E6);
-
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 	@include transition;
@@ -156,4 +155,12 @@ table {
 	td, th {
 		padding: $gap2 $gap;
 	}
+}
+
+blockquote {
+	border-left: solid 5px #ccc;
+	padding-left: $gap2;
+	font-size: 150%;
+	width: 50%;
+	margin: $gap2 0;
 }

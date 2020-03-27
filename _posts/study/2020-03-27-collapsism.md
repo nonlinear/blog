@@ -15,7 +15,7 @@ permalink: /:categories/:slug/
 
 #### Threat Models
 
-|                        | scope              | severity              | complexity   | source        | odds               |
+|                        | scope          | severity              | complexity   | source    | odds               |
 | ---------------------- | ------------------ | --------------------- | ------------ | ------------- | ------------------ |
 | **Spilled Milk**       | kitchen table      | no use crying over it | point risk   | humans        | uncommon           |
 | **Crime**              | individuals        | theft to murder       | point risk   | humans        | uncommon           |
@@ -25,11 +25,9 @@ permalink: /:categories/:slug/
 | **Financial Collapse** | global economy     | serious disruption    | systems risk | humans        | common in the past |
 
 
-** Scope:** from individual to the whole world
-** severity:** inconvenience to destruction
-** complexity:** point/system risks
-** source:** humans (individual, group, organization or state), other species, physical systems
-** odds:** pending
+- **scope:** inconvenience to destruction
+- **complexity:** point/systems risk
+- **source:** humans (individual, group, organization or state), other species, physical systems
 
 >  **Climate change** and **financial collapse** share deep complexity and global scope
 
