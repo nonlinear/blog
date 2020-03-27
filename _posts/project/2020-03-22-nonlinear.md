@@ -1,5 +1,5 @@
 ---
-layout: default
+s layout: default
 title: nonlinear
 slug: nonlinear
 categories: project
