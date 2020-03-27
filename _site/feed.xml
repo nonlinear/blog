@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="www.nonlinear.nyc/feed.xml" rel="self" type="application/atom+xml" /><link href="www.nonlinear.nyc/" rel="alternate" type="text/html" /><updated>2020-03-26T21:56:31-04:00</updated><id>www.nonlinear.nyc/feed.xml</id><title type="html">nonlinear</title><subtitle>The anagram of my name is anarchist fool</subtitle><entry><title type="html">P5*js</title><link href="www.nonlinear.nyc/2020/03/22/p5-js.html" rel="alternate" type="text/html" title="P5*js" /><published>2020-03-22T00:00:00-04:00</published><updated>2020-03-22T00:00:00-04:00</updated><id>www.nonlinear.nyc/2020/03/22/p5*js</id><content type="html" xml:base="www.nonlinear.nyc/2020/03/22/p5-js.html">&lt;h1 id=&quot;videos&quot;&gt;Videos&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="https://www.nonlinear.nyc/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.nonlinear.nyc/" rel="alternate" type="text/html" /><updated>2020-03-26T22:22:25-04:00</updated><id>https://www.nonlinear.nyc/feed.xml</id><title type="html">nonlinear</title><subtitle>The anagram of my name is anarchist fool</subtitle><entry><title type="html">P5*js</title><link href="https://www.nonlinear.nyc/2020/03/22/p5-js.html" rel="alternate" type="text/html" title="P5*js" /><published>2020-03-22T00:00:00-04:00</published><updated>2020-03-22T00:00:00-04:00</updated><id>https://www.nonlinear.nyc/2020/03/22/p5*js</id><content type="html" xml:base="https://www.nonlinear.nyc/2020/03/22/p5-js.html">&lt;h1 id=&quot;videos&quot;&gt;Videos&lt;/h1&gt;
 
 &lt;hr /&gt;
 &lt;h2 id=&quot;how-i-learn&quot;&gt;How I Learn&lt;/h2&gt;
@@ -85,7 +85,7 @@
   &lt;li&gt;learn if/else&lt;/li&gt;
   &lt;li&gt;learn how to bring an external file INSIDE p5js&lt;/li&gt;
   &lt;li&gt;&lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><summary type="html">Videos</summary></entry><entry><title type="html">Other Publisher Workflows</title><link href="www.nonlinear.nyc/2020/03/22/Other-Publisher-Workflows.html" rel="alternate" type="text/html" title="Other Publisher Workflows" /><published>2020-03-22T00:00:00-04:00</published><updated>2020-03-22T00:00:00-04:00</updated><id>www.nonlinear.nyc/2020/03/22/Other-Publisher-Workflows</id><content type="html" xml:base="www.nonlinear.nyc/2020/03/22/Other-Publisher-Workflows.html">&lt;h1 id=&quot;other-publisher-workflows&quot;&gt;Other Publisher Workflows&lt;/h1&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">Videos</summary></entry><entry><title type="html">Other Publisher Workflows</title><link href="https://www.nonlinear.nyc/2020/03/22/Other-Publisher-Workflows.html" rel="alternate" type="text/html" title="Other Publisher Workflows" /><published>2020-03-22T00:00:00-04:00</published><updated>2020-03-22T00:00:00-04:00</updated><id>https://www.nonlinear.nyc/2020/03/22/Other-Publisher-Workflows</id><content type="html" xml:base="https://www.nonlinear.nyc/2020/03/22/Other-Publisher-Workflows.html">&lt;h1 id=&quot;other-publisher-workflows&quot;&gt;Other Publisher Workflows&lt;/h1&gt;
 
 &lt;p&gt;Hi everyone,&lt;/p&gt;
 
@@ -263,7 +263,7 @@
 
 &lt;p&gt;What  I’m reading from a lot of these is that institutions are independently  verifying eligibility of articles before the article gets published. I  can only guess that in that model with something like OUP, they are getting a lot of authors who claim affiliation but  don’t qualify, and the institution needs to review before it gets  covered and published. This seems like it could really slow the  publishing process down (waiting on institutions) and require a lot of back-tracking for authors who mistakenly (or intentionally)  claim eligibility when they are not eligible. On the other hand, I bet  they don’t get a lot of authors who are mistakenly paying for their own  APCs. Pros and Cons.&lt;/p&gt;
 
-&lt;p&gt;Danielle&lt;/p&gt;</content><author><name></name></author><summary type="html">Other Publisher Workflows</summary></entry><entry><title type="html">Todo</title><link href="www.nonlinear.nyc/2020/03/22/TODO.html" rel="alternate" type="text/html" title="Todo" /><published>2020-03-22T00:00:00-04:00</published><updated>2020-03-22T00:00:00-04:00</updated><id>www.nonlinear.nyc/2020/03/22/TODO</id><content type="html" xml:base="www.nonlinear.nyc/2020/03/22/TODO.html">&lt;h1 id=&quot;todo&quot;&gt;TODO&lt;/h1&gt;
+&lt;p&gt;Danielle&lt;/p&gt;</content><author><name></name></author><summary type="html">Other Publisher Workflows</summary></entry><entry><title type="html">Todo</title><link href="https://www.nonlinear.nyc/2020/03/22/TODO.html" rel="alternate" type="text/html" title="Todo" /><published>2020-03-22T00:00:00-04:00</published><updated>2020-03-22T00:00:00-04:00</updated><id>https://www.nonlinear.nyc/2020/03/22/TODO</id><content type="html" xml:base="https://www.nonlinear.nyc/2020/03/22/TODO.html">&lt;h1 id=&quot;todo&quot;&gt;TODO&lt;/h1&gt;
 &lt;ul&gt;
   &lt;li&gt;organize dental project (fresar)&lt;/li&gt;
   &lt;li&gt;finish zine&lt;/li&gt;
@@ -478,7 +478,7 @@
 
 &lt;p&gt;Shoe shelf&lt;/p&gt;
 
-&lt;p&gt;30x13&lt;/p&gt;</content><author><name></name></author><summary type="html">TODO organize dental project (fresar) finish zine Boards Try paper programs escolher foto do gunther praxis cases technoqueers janeraka</summary></entry><entry><title type="html">User Interviews</title><link href="www.nonlinear.nyc/2020/03/22/User-Interviews.html" rel="alternate" type="text/html" title="User Interviews" /><published>2020-03-22T00:00:00-04:00</published><updated>2020-03-22T00:00:00-04:00</updated><id>www.nonlinear.nyc/2020/03/22/User-Interviews</id><content type="html" xml:base="www.nonlinear.nyc/2020/03/22/User-Interviews.html">&lt;h1 id=&quot;user-interviews&quot;&gt;User Interviews&lt;/h1&gt;
+&lt;p&gt;30x13&lt;/p&gt;</content><author><name></name></author><summary type="html">TODO organize dental project (fresar) finish zine Boards Try paper programs escolher foto do gunther praxis cases technoqueers janeraka</summary></entry><entry><title type="html">User Interviews</title><link href="https://www.nonlinear.nyc/2020/03/22/User-Interviews.html" rel="alternate" type="text/html" title="User Interviews" /><published>2020-03-22T00:00:00-04:00</published><updated>2020-03-22T00:00:00-04:00</updated><id>https://www.nonlinear.nyc/2020/03/22/User-Interviews</id><content type="html" xml:base="https://www.nonlinear.nyc/2020/03/22/User-Interviews.html">&lt;h1 id=&quot;user-interviews&quot;&gt;User Interviews&lt;/h1&gt;
 
 &lt;h3 id=&quot;josh-nelson&quot;&gt;Josh Nelson&lt;/h3&gt;
 
@@ -545,7 +545,7 @@
   &lt;li&gt;Confetti page, survey more defined&lt;/li&gt;
   &lt;li&gt;Keywords, focus on NUMBER of keywords (or optional)&lt;/li&gt;
   &lt;li&gt;item with border on hover only, with side bar&lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><summary type="html">User Interviews</summary></entry><entry><title type="html">Frontend</title><link href="www.nonlinear.nyc/2020/03/22/frontend.html" rel="alternate" type="text/html" title="Frontend" /><published>2020-03-22T00:00:00-04:00</published><updated>2020-03-22T00:00:00-04:00</updated><id>www.nonlinear.nyc/2020/03/22/frontend</id><content type="html" xml:base="www.nonlinear.nyc/2020/03/22/frontend.html">&lt;h2 id=&quot;front-end-and-design-system&quot;&gt;Front End and Design System&lt;/h2&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">User Interviews</summary></entry><entry><title type="html">Frontend</title><link href="https://www.nonlinear.nyc/2020/03/22/frontend.html" rel="alternate" type="text/html" title="Frontend" /><published>2020-03-22T00:00:00-04:00</published><updated>2020-03-22T00:00:00-04:00</updated><id>https://www.nonlinear.nyc/2020/03/22/frontend</id><content type="html" xml:base="https://www.nonlinear.nyc/2020/03/22/frontend.html">&lt;h2 id=&quot;front-end-and-design-system&quot;&gt;Front End and Design System&lt;/h2&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;/li&gt;
@@ -632,7 +632,7 @@
 &lt;p&gt;Instead of redesigning whole pages we can start from redesigning small UI pieces like buttons, checkboxes, inputs, pop-ups, smaller widgets, breadcrumbs and so on and move these small changes to production.
  ( That’s similar to what some people call Atomic Design - http://bradfrost.com/blog/post/atomic-web-design/ )&lt;/p&gt;
 
-&lt;p&gt;Such changes can be implemented separately. They are small and unlikely to break anything. And every single one of them makes a project slightly better. Accumulative effect of several small but well thought-out changes can give a significant improvement to the overall user experience…&lt;/p&gt;</content><author><name></name></author><summary type="html">Front End and Design System</summary></entry><entry><title type="html">Janeraka</title><link href="www.nonlinear.nyc/2020/03/22/janeraka.html" rel="alternate" type="text/html" title="Janeraka" /><published>2020-03-22T00:00:00-04:00</published><updated>2020-03-22T00:00:00-04:00</updated><id>www.nonlinear.nyc/2020/03/22/janeraka</id><content type="html" xml:base="www.nonlinear.nyc/2020/03/22/janeraka.html">&lt;h1 id=&quot;janeraka&quot;&gt;Janeraka&lt;/h1&gt;
+&lt;p&gt;Such changes can be implemented separately. They are small and unlikely to break anything. And every single one of them makes a project slightly better. Accumulative effect of several small but well thought-out changes can give a significant improvement to the overall user experience…&lt;/p&gt;</content><author><name></name></author><summary type="html">Front End and Design System</summary></entry><entry><title type="html">Janeraka</title><link href="https://www.nonlinear.nyc/2020/03/22/janeraka.html" rel="alternate" type="text/html" title="Janeraka" /><published>2020-03-22T00:00:00-04:00</published><updated>2020-03-22T00:00:00-04:00</updated><id>https://www.nonlinear.nyc/2020/03/22/janeraka</id><content type="html" xml:base="https://www.nonlinear.nyc/2020/03/22/janeraka.html">&lt;h1 id=&quot;janeraka&quot;&gt;Janeraka&lt;/h1&gt;
 
 &lt;ul&gt;
   &lt;li&gt;pra comecar
@@ -651,7 +651,7 @@
       &lt;li&gt;fase 2 é traducao. precisamos fechar o conteudo inicial&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><summary type="html">Janeraka</summary></entry><entry><title type="html">Jekyll Site</title><link href="www.nonlinear.nyc/2020/03/22/jekyll-site.html" rel="alternate" type="text/html" title="Jekyll Site" /><published>2020-03-22T00:00:00-04:00</published><updated>2020-03-22T00:00:00-04:00</updated><id>www.nonlinear.nyc/2020/03/22/jekyll-site</id><content type="html" xml:base="www.nonlinear.nyc/2020/03/22/jekyll-site.html">&lt;h1 id=&quot;jekyll-site&quot;&gt;jekyll site&lt;/h1&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">Janeraka</summary></entry><entry><title type="html">Jekyll Site</title><link href="https://www.nonlinear.nyc/2020/03/22/jekyll-site.html" rel="alternate" type="text/html" title="Jekyll Site" /><published>2020-03-22T00:00:00-04:00</published><updated>2020-03-22T00:00:00-04:00</updated><id>https://www.nonlinear.nyc/2020/03/22/jekyll-site</id><content type="html" xml:base="https://www.nonlinear.nyc/2020/03/22/jekyll-site.html">&lt;h1 id=&quot;jekyll-site&quot;&gt;jekyll site&lt;/h1&gt;
 
 &lt;h3 id=&quot;creating-the-site&quot;&gt;Creating the site&lt;/h3&gt;
 
@@ -673,7 +673,7 @@
 
 &lt;p&gt;Add wowjs&lt;/p&gt;
 
-&lt;p&gt;Themes&lt;/p&gt;</content><author><name></name></author><summary type="html">jekyll site</summary></entry><entry><title type="html">Talks</title><link href="www.nonlinear.nyc/2020/03/22/talks.html" rel="alternate" type="text/html" title="Talks" /><published>2020-03-22T00:00:00-04:00</published><updated>2020-03-22T00:00:00-04:00</updated><id>www.nonlinear.nyc/2020/03/22/talks</id><content type="html" xml:base="www.nonlinear.nyc/2020/03/22/talks.html">&lt;h1 id=&quot;talks&quot;&gt;Talks&lt;/h1&gt;
+&lt;p&gt;Themes&lt;/p&gt;</content><author><name></name></author><summary type="html">jekyll site</summary></entry><entry><title type="html">Talks</title><link href="https://www.nonlinear.nyc/2020/03/22/talks.html" rel="alternate" type="text/html" title="Talks" /><published>2020-03-22T00:00:00-04:00</published><updated>2020-03-22T00:00:00-04:00</updated><id>https://www.nonlinear.nyc/2020/03/22/talks</id><content type="html" xml:base="https://www.nonlinear.nyc/2020/03/22/talks.html">&lt;h1 id=&quot;talks&quot;&gt;Talks&lt;/h1&gt;
 
 &lt;h2 id=&quot;coming-up-in-ux-in-2020&quot;&gt;&lt;a href=&quot;https://www.meetup.com/uxcomeup/events/267875388/&quot;&gt;Coming Up in UX in 2020&lt;/a&gt;&lt;/h2&gt;
 
@@ -868,7 +868,7 @@ python inference.py
       &lt;/tbody&gt;
     &lt;/table&gt;
   &lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><summary type="html">Talks</summary></entry><entry><title type="html">boards</title><link href="www.nonlinear.nyc/project/boards/" rel="alternate" type="text/html" title="boards" /><published>2020-01-29T18:03:16-05:00</published><updated>2020-01-29T18:03:16-05:00</updated><id>www.nonlinear.nyc/project/boards</id><content type="html" xml:base="www.nonlinear.nyc/project/boards/">&lt;h2 id=&quot;todo&quot;&gt;TODO&lt;/h2&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">Talks</summary></entry><entry><title type="html">boards</title><link href="https://www.nonlinear.nyc/project/boards/" rel="alternate" type="text/html" title="boards" /><published>2020-01-29T18:03:16-05:00</published><updated>2020-01-29T18:03:16-05:00</updated><id>https://www.nonlinear.nyc/project/boards</id><content type="html" xml:base="https://www.nonlinear.nyc/project/boards/">&lt;h2 id=&quot;todo&quot;&gt;TODO&lt;/h2&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;del&gt;review cheap projector&lt;/del&gt;&lt;/li&gt;
@@ -1081,7 +1081,7 @@ Walking paper project&lt;/p&gt;
       &lt;/tbody&gt;
     &lt;/table&gt;
   &lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><summary type="html">TODO</summary></entry><entry><title type="html">ethical code</title><link href="www.nonlinear.nyc/project/ethical/" rel="alternate" type="text/html" title="ethical code" /><published>2020-01-29T18:03:16-05:00</published><updated>2020-01-29T18:03:16-05:00</updated><id>www.nonlinear.nyc/project/ethical</id><content type="html" xml:base="www.nonlinear.nyc/project/ethical/">&lt;p&gt;Here are my notes, then zee notes, for zee to consolidate and announce.&lt;/p&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">TODO</summary></entry><entry><title type="html">ethical code</title><link href="https://www.nonlinear.nyc/project/ethical/" rel="alternate" type="text/html" title="ethical code" /><published>2020-01-29T18:03:16-05:00</published><updated>2020-01-29T18:03:16-05:00</updated><id>https://www.nonlinear.nyc/project/ethical</id><content type="html" xml:base="https://www.nonlinear.nyc/project/ethical/">&lt;p&gt;Here are my notes, then zee notes, for zee to consolidate and announce.&lt;/p&gt;
 
 &lt;h4 id=&quot;audience&quot;&gt;Audience&lt;/h4&gt;
 

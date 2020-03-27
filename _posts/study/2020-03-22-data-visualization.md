@@ -18,7 +18,7 @@ permalink: /:categories/:slug/
 - [Lily Boyce (@lilyelle) / Twitter](https://twitter.com/lilyelle?lang=en)
 - [Food & Water Watch](https://www.foodandwaterwatch.org/)
 
-<img src="/Users/nonlinear/Critical/notes/data-visualization/dakota-access-pipeline-bakken-banking-finance-.jpg" alt="dakota-access-pipeline-bakken-banking-finance-"  />
+<img src="https://www.foodandwaterwatch.org/sites/default/files/web_1612_daplbakkensankey161205.jpg" alt="dakota-access-pipeline-bakken-banking-finance-"  />
 
 - D3 + React
 - Conde Nast
