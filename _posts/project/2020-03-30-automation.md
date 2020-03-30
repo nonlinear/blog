@@ -3,7 +3,7 @@ layout: default
 title: automations
 slug: automations
 categories: project
-status: public
+status: draft
 description: my tools to automate
 date: 2020-01-29 18:03:16 -0500
 permalink: /:categories/:slug/
