@@ -42,13 +42,17 @@
 
 - version menu to view initial submission
 
-- author response 
 
-  - type in
-  - upload a file
+
+
+
+
+
+- country error
+- mailchimp limit
+
+
+
+- tuesday 730pm 
 
   
-
-- unsubmit with no letter !!!!
-
-- clickable prototype

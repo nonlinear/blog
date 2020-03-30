@@ -1,5 +1,5 @@
 ---
-s layout: default
+layout: default
 title: nonlinear
 slug: nonlinear
 categories: project
@@ -9,12 +9,13 @@ date: 2020-01-29 18:03:16 -0500
 permalink: /:categories/:slug/
 ---
 
-# TODO
+## About
+
+Anything related to this site. Todo, instructions, ideas, etc.
+
+## TODO
 
 - why is config.yml info not on head?
-- cover on frontmatter
-   - find a default cover per category
-   - ensure cover appear on open links (failsafe for animated gif)
 - check unsorted
 - ~~get processing npm things~~
 - ~~move processing stuff~~

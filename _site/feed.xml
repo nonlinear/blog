@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="https://www.nonlinear.nyc/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.nonlinear.nyc/" rel="alternate" type="text/html" /><updated>2020-03-27T15:11:40-04:00</updated><id>https://www.nonlinear.nyc/feed.xml</id><title type="html">nonlinear</title><subtitle>The anagram of my name is anarchist fool</subtitle><entry><title type="html">P5*js</title><link href="https://www.nonlinear.nyc/2020/03/22/p5-js.html" rel="alternate" type="text/html" title="P5*js" /><published>2020-03-22T00:00:00-04:00</published><updated>2020-03-22T00:00:00-04:00</updated><id>https://www.nonlinear.nyc/2020/03/22/p5*js</id><content type="html" xml:base="https://www.nonlinear.nyc/2020/03/22/p5-js.html">&lt;h1 id=&quot;videos&quot;&gt;Videos&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="https://www.nonlinear.nyc/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.nonlinear.nyc/" rel="alternate" type="text/html" /><updated>2020-03-30T12:37:43-04:00</updated><id>https://www.nonlinear.nyc/feed.xml</id><title type="html">nonlinear</title><subtitle>The anagram of my name is anarchist fool</subtitle><entry><title type="html">P5*js</title><link href="https://www.nonlinear.nyc/2020/03/22/p5-js.html" rel="alternate" type="text/html" title="P5*js" /><published>2020-03-22T00:00:00-04:00</published><updated>2020-03-22T00:00:00-04:00</updated><id>https://www.nonlinear.nyc/2020/03/22/p5*js</id><content type="html" xml:base="https://www.nonlinear.nyc/2020/03/22/p5-js.html">&lt;h1 id=&quot;videos&quot;&gt;Videos&lt;/h1&gt;
 
 &lt;hr /&gt;
 &lt;h2 id=&quot;how-i-learn&quot;&gt;How I Learn&lt;/h2&gt;
@@ -868,220 +868,7 @@ python inference.py
       &lt;/tbody&gt;
     &lt;/table&gt;
   &lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><summary type="html">Talks</summary></entry><entry><title type="html">boards</title><link href="https://www.nonlinear.nyc/project/boards/" rel="alternate" type="text/html" title="boards" /><published>2020-01-29T18:03:16-05:00</published><updated>2020-01-29T18:03:16-05:00</updated><id>https://www.nonlinear.nyc/project/boards</id><content type="html" xml:base="https://www.nonlinear.nyc/project/boards/">&lt;h2 id=&quot;todo&quot;&gt;TODO&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;del&gt;review cheap projector&lt;/del&gt;&lt;/li&gt;
-  &lt;li&gt;review &lt;a href=&quot;https://www.youtube.com/watch?time_continue=121&amp;amp;v=pkwSoJrVWAY&amp;amp;feature=emb_title&quot;&gt;paper programs tutorial&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;review cheap printer&lt;/li&gt;
-  &lt;li&gt;&lt;del&gt;review cheap camera&lt;/del&gt;&lt;/li&gt;
-  &lt;li&gt;review cables and connectors&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;cheap-projectors-to-buy&quot;&gt;Cheap Projectors to buy&lt;/h3&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt; &lt;/th&gt;
-      &lt;th&gt;Name&lt;/th&gt;
-      &lt;th&gt;Price&lt;/th&gt;
-      &lt;th&gt;Lumens&lt;/th&gt;
-      &lt;th&gt;Image&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;strong&gt;1&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;&lt;a href=&quot;https://www.amazon.com/DBPOWER-L21-Projector-Compatible-Smartphone/dp/B07VGCGRV2/ref=sr_1_4?keywords=DBPOWER+T20&amp;amp;qid=1584922652&amp;amp;s=electronics&amp;amp;sr=1-4&quot;&gt;DBPOWER L21 LCD Video Projector&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt;$80&lt;/td&gt;
-      &lt;td&gt;5000&lt;/td&gt;
-      &lt;td&gt;&lt;img src=&quot;https://images-na.ssl-images-amazon.com/images/I/61SDXxKtFtL._AC_SL1000_.jpg&quot; alt=&quot;aaa&quot; /&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;strong&gt;2&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;&lt;a href=&quot;https://www.amazon.com/Projector-Portable-Supported-Multimedia-Entertainment/dp/B0863HRY9G/ref=sr_1_1_sspa?keywords=GooBang+Doo+Projector%2C+2018&amp;amp;qid=1584922906&amp;amp;s=electronics&amp;amp;sr=1-1-spons&amp;amp;psc=1&amp;amp;spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFQWElMVFhON1IzWjYmZW5jcnlwdGVkSWQ9QTA3ODU5NDUzOU9WWVlVTUlPWjJVJmVuY3J5cHRlZEFkSWQ9QTAwODIwNDgyN1FBMDJaOEU2WVNOJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==&quot;&gt;Bomaker A2 720P Portable Projector&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt;$120&lt;/td&gt;
-      &lt;td&gt;4500&lt;/td&gt;
-      &lt;td&gt;&lt;img src=&quot;https://images-na.ssl-images-amazon.com/images/I/71VGqKsNI8L._AC_SL1455_.jpg&quot; alt=&quot;aaa&quot; /&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;strong&gt;3&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;&lt;a href=&quot;https://www.amazon.com/Projector-Supported-2600Lux-Lifetime-Compatible/dp/B07MGQRWHH/ref=sr_1_4?keywords=DR.+J+HI-04&amp;amp;qid=1584921927&amp;amp;sr=8-4&quot;&gt; Jinhoo Mini Overhead Projector&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt;$77&lt;/td&gt;
-      &lt;td&gt;4200&lt;/td&gt;
-      &lt;td&gt;&lt;img src=&quot;https://images-na.ssl-images-amazon.com/images/I/51hVIWAfclL._AC_SL1000_.jpg&quot; alt=&quot;aaa&quot; /&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://top10bestbudget.com/home/best-projectors-100-200-300-400/&quot;&gt;17 Best Projectors under 100 in 2019&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;cheap-adapters&quot;&gt;Cheap adapters&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.amazon.com/Adapter-Converter-Adaptor-Macbook-Chromebook/dp/B074HZMCQ3/ref=sr_1_3?keywords=usbc+projector+adapter&amp;amp;qid=1585067350&amp;amp;sr=8-3&quot;&gt;USB C to HDMI 4K VGA Adapter&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;cheap-webcams-to-buy&quot;&gt;Cheap Webcams to buy&lt;/h3&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt; &lt;/th&gt;
-      &lt;th&gt;Name&lt;/th&gt;
-      &lt;th&gt;Price&lt;/th&gt;
-      &lt;th&gt;Image&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;strong&gt;1&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;&lt;a href=&quot;https://www.amazon.com/Streaming-Microphone-Widescreen-Conferencing-Recording/dp/B082X91MPP/ref=sr_1_3?keywords=webcam&amp;amp;qid=1584923615&amp;amp;sr=8-3&quot;&gt;HD Webcam 1080P with Privacy Shutter and Tripod Stand&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt;$40&lt;/td&gt;
-      &lt;td&gt;&lt;img src=&quot;https://images-na.ssl-images-amazon.com/images/I/71eaH2ZSa%2BL._AC_SL1500_.jpg&quot; alt=&quot;aaa&quot; /&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;strong&gt;2&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;&lt;a href=&quot;https://www.amazon.com/FOONEE-Reduction-Microphone-Conferencing-Recording/dp/B07Y243BXP/ref=sr_1_12?keywords=webcam&amp;amp;qid=1584923615&amp;amp;sr=8-12&quot;&gt;FOONEE 1080P Full HD Webcam&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt;$33&lt;/td&gt;
-      &lt;td&gt;&lt;img src=&quot;https://images-na.ssl-images-amazon.com/images/I/51GOrQ8w68L._AC_SL1000_.jpg&quot; alt=&quot;aaa&quot; /&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;h1 id=&quot;os-business-model&quot;&gt;OS business model&lt;/h1&gt;
-
-&lt;h2 id=&quot;pyramid&quot;&gt;pyramid&lt;/h2&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;Name&lt;/th&gt;
-      &lt;th&gt;Stakeholder&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Topology application&lt;/td&gt;
-      &lt;td&gt;Janeraka, nycmesh&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Post-it application&lt;/td&gt;
-      &lt;td&gt;Pushpin port? how?&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Art application&lt;/td&gt;
-      &lt;td&gt;define&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Boards Platform&lt;/td&gt;
-      &lt;td&gt;&lt;a href=&quot;mailto:bernardoxhc@gmail.com&quot;&gt;Bernardo Fontes&lt;/a&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Business Model&lt;/td&gt;
-      &lt;td&gt;&lt;a href=&quot;mailto:georgia@simplysecure.org&quot;&gt;Georgia Bullen&lt;/a&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;h2 id=&quot;notes-by-oliver&quot;&gt;Notes by Oliver&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://protocol.ai/projects/&quot;&gt;Projects - Protocol Labs&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://nadiaeghbal.com/&quot;&gt;Nadia Eghbal&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;grants-to-look-out-for&quot;&gt;Grants to look out for&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/nayafia/microgrants#a-list-of-microgrant-programs-for-your-good-ideas&quot;&gt;A list of microgrant programs for your good ideas&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://wisconsinfastforward.com/wff_standard.htm&quot;&gt;Wisconsin Fast Forward Grants&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;The prototype fund German&lt;/li&gt;
-  &lt;li&gt;Tafka Mexican open source&lt;/li&gt;
-  &lt;li&gt;Canndid foundation center&lt;/li&gt;
-  &lt;li&gt;Open tech funds, prototypes (internet freedom)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;possible-fiscal-sponsors&quot;&gt;Possible Fiscal Sponsors&lt;/h2&gt;
-
-&lt;h2 id=&quot;partnerships-to-study&quot;&gt;Partnerships to study&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://publiclab.org/&quot;&gt;🎈 Public Lab: a DIY environmental science community&lt;/a&gt;
-    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;https://twitter.com/lizbarry&quot;&gt;Liz Barry&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://treekit.org/&quot;&gt;treeKIT - Maintenance mode&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;inkandswitch
-    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;https://github.com/inkandswitch/pushpin&quot;&gt;pushpin: A collaborative corkboard app&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://github.com/inkandswitch/interactive-shape-recognition&quot;&gt;interactive-shape-recognition: Implementation of “A Simple Approach to Recognise Geometric Shapes Interactively”&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://schoolofdata.nyc/&quot;&gt;NYC School of Data – a community conference through #civicdesign, #civictech, &amp;amp; #opendata.&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.digital-democracy.org/mapeo/&quot;&gt;Digital Democracy - Mapeo&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Lai yi Olsen&lt;/li&gt;
-  &lt;li&gt;Caroline sanders&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;todo-1&quot;&gt;Todo&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;thank Oliver, show ethical OS licncing&lt;/li&gt;
-  &lt;li&gt;thank Georgia, ask for pushpin invite, and art recommendations (Laiyi Olsen and Caroline sanders)&lt;/li&gt;
-  &lt;li&gt;storyboard “topology”: nycmesh and Janeraka&lt;/li&gt;
-  &lt;li&gt;Storyboard “pushpin” port&lt;/li&gt;
-  &lt;li&gt;Storyboard “art”&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Ryzome
-Fractured artists
-Open source collective
-Walking paper project&lt;/p&gt;
-
-&lt;h2 id=&quot;models-to-study&quot;&gt;Models to study&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;ethical open source&lt;/li&gt;
-  &lt;li&gt;Open access (for scientific papers)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;model-to-validate-its-a-very-crude-model&quot;&gt;model to validate (it’s a very crude model)&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;get paid in advance
-    &lt;ul&gt;
-      &lt;li&gt;focused scope: epic, estimated&lt;/li&gt;
-      &lt;li&gt;Grants, funds, crowdsourcing&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;deliver as commons
-    &lt;ul&gt;
-      &lt;li&gt;main code&lt;/li&gt;
-      &lt;li&gt;Integrations with existing libraries&lt;/li&gt;
-      &lt;li&gt;New libraries (stand alone projects)&lt;/li&gt;
-      &lt;li&gt;Documentation, methods (Creative Commons?)&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;reputation for more grants&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;some-for-profit-projects-trying-the-same-thing&quot;&gt;some for-profit projects trying the same thing&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;table&gt;
-      &lt;tbody&gt;
-        &lt;tr&gt;
-          &lt;td&gt;[This projector comes with a virtual on-screen whiteboard marker!&lt;/td&gt;
-          &lt;td&gt;Yanko Design](https://www.yankodesign.com/2020/03/26/this-projector-comes-with-a-virtual-on-screen-whiteboard-marker/)&lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/tbody&gt;
-    &lt;/table&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><summary type="html">TODO</summary></entry><entry><title type="html">ethical code</title><link href="https://www.nonlinear.nyc/project/ethical/" rel="alternate" type="text/html" title="ethical code" /><published>2020-01-29T18:03:16-05:00</published><updated>2020-01-29T18:03:16-05:00</updated><id>https://www.nonlinear.nyc/project/ethical</id><content type="html" xml:base="https://www.nonlinear.nyc/project/ethical/">&lt;p&gt;Here are my notes, then zee notes, for zee to consolidate and announce.&lt;/p&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">Talks</summary></entry><entry><title type="html">ethical code</title><link href="https://www.nonlinear.nyc/project/ethical/" rel="alternate" type="text/html" title="ethical code" /><published>2020-01-29T18:03:16-05:00</published><updated>2020-01-29T18:03:16-05:00</updated><id>https://www.nonlinear.nyc/project/ethical</id><content type="html" xml:base="https://www.nonlinear.nyc/project/ethical/">&lt;p&gt;Here are my notes, then zee notes, for zee to consolidate and announce.&lt;/p&gt;
 
 &lt;h4 id=&quot;audience&quot;&gt;Audience&lt;/h4&gt;
 
@@ -1143,4 +930,27 @@ Walking paper project&lt;/p&gt;
   &lt;li&gt;flags on CTAs so we can measure progress (of donation, of issues raised, etc)&lt;/li&gt;
   &lt;li&gt;proxy mesure for repo popularity: reveal power curve, some repos are better than others (likes, follow, activity. it PROBABLY exists somewhere)&lt;/li&gt;
   &lt;li&gt;dashboard&lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><summary type="html">Here are my notes, then zee notes, for zee to consolidate and announce.</summary></entry></feed>
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">Here are my notes, then zee notes, for zee to consolidate and announce.</summary></entry><entry><title type="html">janeraka</title><link href="https://www.nonlinear.nyc/project/janeraka/" rel="alternate" type="text/html" title="janeraka" /><published>2020-01-29T18:03:16-05:00</published><updated>2020-01-29T18:03:16-05:00</updated><id>https://www.nonlinear.nyc/project/janeraka</id><content type="html" xml:base="https://www.nonlinear.nyc/project/janeraka/">&lt;h2 id=&quot;todo&quot;&gt;Todo&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;favicons&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;about&quot;&gt;About&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://janeraka.org&quot;&gt;visit website&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;classificados&quot;&gt;Classificados&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;transformar google docs em yml&lt;/li&gt;
+  &lt;li&gt;separar outros yml files (mais logico)&lt;/li&gt;
+  &lt;li&gt;template de CTA (tudo email, prepopulated)
+    &lt;ul&gt;
+      &lt;li&gt;applicar&lt;/li&gt;
+      &lt;li&gt;passar para um amigo&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;yml versao ingles&lt;/li&gt;
+  &lt;li&gt;limite na pagina inicial? mais em outra pagina?&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">Todo</summary></entry></feed>
