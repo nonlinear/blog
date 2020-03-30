@@ -17,6 +17,8 @@ Anything related to this site. Todo, instructions, ideas, etc.
 
 - why is config.yml info not on head?
 - check unsorted
+- favicon
+- more secure repo (away from github?)
 - ~~get processing npm things~~
 - ~~move processing stuff~~
 - categories as a loop

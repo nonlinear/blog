@@ -28,7 +28,7 @@ There are other options, like alfred built-in snippets, but it's paid and it doe
 
 I enabled terminal integration on alfred, so typing `>` at the start of my query means "run it on terminal instead"
 
-I also change "Prefer tabs when opening documents" as "Always" on system preferences > dock.
+I also change "Prefer tabs when opening documents" as "Always" on system preferences > dock. ([sublime text-specific info here](https://medium.com/@panjeh/open-files-projects-folders-in-sublime-text-3-in-a-new-super-tab-in-the-same-window-on-mac-os-5d44254927eb))
 
 
 ## First trigger: `-work`
@@ -55,5 +55,4 @@ Same thing, but opens [mastodon](https://mastodon.social/), [twitter](https://tw
 
 [Set Up Sublime Text for Markdown and Jekyll | Lynn’s Blog](https://lynn9388.github.io/2019/07/27/set-up-sublime-text-for-markdown-and-jekyll.html)
 
-
-#productivity #automation #exocortex
+tags: #productivity #automation #exocortex

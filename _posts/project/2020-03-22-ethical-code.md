@@ -9,6 +9,11 @@ date: 2020-01-29 18:03:16 -0500
 permalink: /:categories/:slug/
 ---
 
+### TODO
+
+- start figma file
+- get who needs permissions
+
 Here are my notes, then zee notes, for zee to consolidate and announce.
 
 #### Audience
