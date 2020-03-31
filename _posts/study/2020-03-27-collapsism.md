@@ -45,12 +45,15 @@ permalink: /:categories/:slug/
 - **Green Wizards**
   - (john michael grear - arch druids)
   - individual experts socially sharing skills
+  - Rapid roll-out of individual and group systems from skill banks
 - **Transition Towns**
   - social cooperation for rising resource prices
   - communalizes the mnagement of supply chains for food and essential services
+  - group & org strategy for maintaining supply chains & infrastructure
 - **Dark Mountain**
   - change cultural reality,refresh our possibilities
   - finding the spaces to turn the ship
+  - managing expectation by imagination to make room for adaptation
 
 
 #### Managing Risks
@@ -62,4 +65,73 @@ permalink: /:categories/:slug/
 
 - **1 and 2:** threat-focused
 - **3 and 4:** reaction-focused
+
+
+### [State in a Box](http://guptaoption.com/8.state_in_a_box.php)
+
+> unity of effort without unity of command
+
+1. Municipal functions (water, power generation) are pushed **down** to the **household** level wherever possible.
+2. State functions (identity databases which generate passports, issuing currency and so on for example) move **up** to **international** level.
+3. This leaves a greatly simplified State
+
+## Steps
+
+1. Identify the systems that keep you alive
+1. Identify threats to those systems
+2. Avoid threats and mitigate risks 
+1. Repeat until your are of concern is safe enough
+
+## Problems
+
+1. Isolation
+	- you control very little of what you need to live
+2. Competition
+	- systems are centralized, efficient, cheap, brittle
+3. Permission
+	- status quo is mandated by same orgs failing to provide safe systems
+4. Priority
+	- guns or butter? cf solar panels or hospitals?
+
+> VUCA: Volatile, uncertin, complex, ambiguous problems
+
+# SCIM: Simple Critical Infrastructure Maps
+
+## Identify the actors
+
+- individuals
+	- too hot
+	- too cold
+	- hunger
+	- thirst
+	- illness
+	- injury
+- groups
+	 - communications
+	 - transportation
+	 - workspace
+	 - resource control
+- organizations
+	- share map
+	- shared plan
+	- shared succession
+- states/corporations
+	- effective organizations
+	- list of citizens
+	- map of territories
+	- jurisdiction
+	- international recognition
+
+> The vast majority of the complexity of the global system is used to produce barbie dolls
+
+# Interdependencies
+
+- AIAC: Agro-industrial Auto-catalysis
+
+> "collapse of civilization" actualy means "death of AIAC"
+
+![map](/assets/images/map.jpg)
+
+> not a very precise tool, but an *easy* tool
+
 
