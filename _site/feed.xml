@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="https://www.nonlinear.nyc/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.nonlinear.nyc/" rel="alternate" type="text/html" /><updated>2020-03-31T16:58:54-04:00</updated><id>https://www.nonlinear.nyc/feed.xml</id><title type="html">nonlinear</title><subtitle>The anagram of my name is anarchist fool</subtitle><entry><title type="html">P5*js</title><link href="https://www.nonlinear.nyc/2020/03/22/p5-js.html" rel="alternate" type="text/html" title="P5*js" /><published>2020-03-22T00:00:00-04:00</published><updated>2020-03-22T00:00:00-04:00</updated><id>https://www.nonlinear.nyc/2020/03/22/p5*js</id><content type="html" xml:base="https://www.nonlinear.nyc/2020/03/22/p5-js.html">&lt;h1 id=&quot;videos&quot;&gt;Videos&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="https://www.nonlinear.nyc/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.nonlinear.nyc/" rel="alternate" type="text/html" /><updated>2020-03-31T17:23:15-04:00</updated><id>https://www.nonlinear.nyc/feed.xml</id><title type="html">nonlinear</title><subtitle>The anagram of my name is anarchist fool</subtitle><entry><title type="html">P5*js</title><link href="https://www.nonlinear.nyc/2020/03/22/p5-js.html" rel="alternate" type="text/html" title="P5*js" /><published>2020-03-22T00:00:00-04:00</published><updated>2020-03-22T00:00:00-04:00</updated><id>https://www.nonlinear.nyc/2020/03/22/p5*js</id><content type="html" xml:base="https://www.nonlinear.nyc/2020/03/22/p5-js.html">&lt;h1 id=&quot;videos&quot;&gt;Videos&lt;/h1&gt;
 
 &lt;hr /&gt;
 &lt;h2 id=&quot;how-i-learn&quot;&gt;How I Learn&lt;/h2&gt;
@@ -722,10 +722,13 @@ python inference.py
   &lt;li&gt;flags on CTAs so we can measure progress (of donation, of issues raised, etc)&lt;/li&gt;
   &lt;li&gt;proxy mesure for repo popularity: reveal power curve, some repos are better than others (likes, follow, activity. it PROBABLY exists somewhere)&lt;/li&gt;
   &lt;li&gt;dashboard&lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><summary type="html">TODO</summary></entry><entry><title type="html">janeraka</title><link href="https://www.nonlinear.nyc/project/janeraka/" rel="alternate" type="text/html" title="janeraka" /><published>2020-01-29T18:03:16-05:00</published><updated>2020-01-29T18:03:16-05:00</updated><id>https://www.nonlinear.nyc/project/janeraka</id><content type="html" xml:base="https://www.nonlinear.nyc/project/janeraka/">&lt;h2 id=&quot;todo&quot;&gt;Todo&lt;/h2&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">TODO</summary></entry><entry><title type="html">janeraka</title><link href="https://www.nonlinear.nyc/project/janeraka/" rel="alternate" type="text/html" title="janeraka" /><published>2020-01-29T18:03:16-05:00</published><updated>2020-01-29T18:03:16-05:00</updated><id>https://www.nonlinear.nyc/project/janeraka</id><content type="html" xml:base="https://www.nonlinear.nyc/project/janeraka/">&lt;h2 id=&quot;todo&quot;&gt;TODO&lt;/h2&gt;
 
 &lt;ul&gt;
   &lt;li&gt;favicons&lt;/li&gt;
+  &lt;li&gt;send 01 for carla to approve&lt;/li&gt;
+  &lt;li&gt;separate other email as 02&lt;/li&gt;
+  &lt;li&gt;send 01&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h1 id=&quot;about&quot;&gt;About&lt;/h1&gt;
@@ -745,4 +748,4 @@ python inference.py
   &lt;/li&gt;
   &lt;li&gt;yml versao ingles&lt;/li&gt;
   &lt;li&gt;limite na pagina inicial? mais em outra pagina?&lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><summary type="html">Todo</summary></entry></feed>
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">TODO</summary></entry></feed>
