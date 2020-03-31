@@ -8,6 +8,7 @@ description: Vinay Gupta on systemic risks to civilization and responses
 date: 2020-01-29 18:03:16 -0500
 permalink: /:categories/:slug/
 ---
+Notes for the session 1 of [collapsism study circle](https://praxis.nyc/collapsism/)
 
 - **Through the Looking Glass**
 	- [youtube](https://www.youtube.com/watch?v=jm5o-ughyD8&t=1278s)
