@@ -33,8 +33,6 @@ Anything related to this site. Todo, instructions, ideas, etc.
 - other articles
 - gradients per group
 - gradient on external link
-- p5js inside div, not floating around
-- p5js, more than one?
 - ~~data using jekyll~~
 - js assets, how?
 - mobile

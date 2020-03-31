@@ -44,7 +44,7 @@ open -a FIRSTAPP
 ```
 
 	I dunno exactly when to use `''` or not. If URL is simple, you shouldn't use it. If too complex, you should. It breaks either one way or another, so test first and stick with it.
-
+	
 	Also, remember to leave a blank line. That ensures all your commands will run.
 
 ## Second trigger: `-social`
@@ -53,6 +53,6 @@ Same thing, but opens [mastodon](https://mastodon.social/), [twitter](https://tw
 
 ## Third trigger: `-todo`
 
-[Set Up Sublime Text for Markdown and Jekyll | Lynn’s Blog](https://lynn9388.github.io/2019/07/27/set-up-sublime-text-for-markdown-and-jekyll.html)
+[Set Up Sublime Text for Markdown and Jekyll](https://lynn9388.github.io/2019/07/27/set-up-sublime-text-for-markdown-and-jekyll.html)
 
 tags: #productivity #automation #exocortex
