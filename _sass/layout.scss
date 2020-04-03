@@ -93,34 +93,29 @@ h1, h2, h3, h4, h5, p {
 
 li {
 	del {
-	color: #999;
-	text-decoration: none !important;
-	 & ~ .highlighter-rouge {
-		font-family: Space Grotesk;
-		background-color: #ccc;
-		color: white;
-		display: inline-block;
-		margin-left: 5px;
-		padding: 2px 7px 0 7px;
-		font-size: 12px;
-		font-weight: bold;
+		a {
+			background-color: #fff;
+			color: #999;
+		}
+		color: #999;
+		& ~ .highlighter-rouge {
+			font-family: Space Grotesk;
+			background-color: #ccc;
+			color: white;
+			display: inline-block;
+			margin-left: 5px;
+			padding: 2px 7px 0 7px;
+			font-size: 12px;
+			font-weight: bold;
 			@include radius(2px, regular);
-	&:before {
-padding-right: 0;
-		displaY: inline-block;
-		content: "done:";
-		padding-right: 5px;
-
-	
-}
-
-
+			&:before {
+				padding-right: 0;
+				displaY: inline-block;
+				content: "DONE:";
+				padding-right: 5px;
+			}
+		}
 	}
-
-}
-
-
-
 }
 
 
