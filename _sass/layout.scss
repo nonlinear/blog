@@ -91,20 +91,37 @@ h1, h2, h3, h4, h5, p {
 
 
 
-del {
+li {
+	del {
 	color: #999;
 	text-decoration: none !important;
-	&:before {
-		content: "done";
+	 & ~ .highlighter-rouge {
+		font-family: Space Grotesk;
 		background-color: #ccc;
 		color: white;
-		padding: 3px 7px;
+		display: inline-block;
+		margin-left: 5px;
+		padding: 2px 7px 0 7px;
+		font-size: 12px;
 		font-weight: bold;
-		margin-right: 5px;
-		@include radius(2px);
-	}
+			@include radius(2px, regular);
+	&:before {
+padding-right: 0;
+		displaY: inline-block;
+		content: "done:";
+		padding-right: 5px;
+
+	
 }
 
+
+	}
+
+}
+
+
+
+}
 
 
 a {
