@@ -16,6 +16,9 @@
 	$transform: normal
 	);
 
+@include font-face(RenoMono, 
+	$path: "/assets/fonts/");
+
 body {
 	padding: $gap6;
 	font-family: Space Grotesk;
@@ -90,6 +93,31 @@ h1, h2, h3, h4, h5, p {
 }
 
 
+
+code.highlighter-rouge, pre.highlight code {
+	padding: 2px $gaphalf 0 $gaphalf;
+	font-family: RenoMono;
+	background-color: #fff;
+	font-size: 16px;
+	display: inline-block;
+	color: #333;
+	
+}
+
+pre.highlight, code.highlighter-rouge {
+
+	border: solid 1px #ccc;
+}
+
+pre.highlight {
+	padding: $gap $gaphalf;
+	background-color: #fff;
+
+	code {
+		display: block;
+	}
+
+}
 
 li {
 	del {
@@ -176,3 +204,4 @@ blockquote {
 	width: 50%;
 	margin: $gap2 0;
 }
+
