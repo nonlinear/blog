@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="https://www.nonlinear.nyc/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.nonlinear.nyc/" rel="alternate" type="text/html" /><updated>2020-04-08T10:11:41-04:00</updated><id>https://www.nonlinear.nyc/feed.xml</id><title type="html">nonlinear</title><subtitle>The anagram of my name is anarchist fool</subtitle><entry><title type="html">P5*js</title><link href="https://www.nonlinear.nyc/2020/03/22/p5-js.html" rel="alternate" type="text/html" title="P5*js" /><published>2020-03-22T00:00:00-04:00</published><updated>2020-03-22T00:00:00-04:00</updated><id>https://www.nonlinear.nyc/2020/03/22/p5*js</id><content type="html" xml:base="https://www.nonlinear.nyc/2020/03/22/p5-js.html">&lt;h1 id=&quot;videos&quot;&gt;Videos&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="https://www.nonlinear.nyc/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.nonlinear.nyc/" rel="alternate" type="text/html" /><updated>2020-04-08T15:13:20-04:00</updated><id>https://www.nonlinear.nyc/feed.xml</id><title type="html">nonlinear</title><subtitle>The anagram of my name is anarchist fool</subtitle><entry><title type="html">P5*js</title><link href="https://www.nonlinear.nyc/2020/03/22/p5-js.html" rel="alternate" type="text/html" title="P5*js" /><published>2020-03-22T00:00:00-04:00</published><updated>2020-03-22T00:00:00-04:00</updated><id>https://www.nonlinear.nyc/2020/03/22/p5*js</id><content type="html" xml:base="https://www.nonlinear.nyc/2020/03/22/p5-js.html">&lt;h1 id=&quot;videos&quot;&gt;Videos&lt;/h1&gt;
 
 &lt;hr /&gt;
 &lt;h2 id=&quot;how-i-learn&quot;&gt;How I Learn&lt;/h2&gt;
@@ -726,11 +726,11 @@ python inference.py
 
 &lt;ul&gt;
   &lt;li&gt;favicons&lt;/li&gt;
-  &lt;li&gt;send 01 for carla to approve&lt;/li&gt;
-  &lt;li&gt;separate other email as 02&lt;/li&gt;
-  &lt;li&gt;send 01&lt;/li&gt;
+  &lt;li&gt;&lt;del&gt;send 01 for carla to approve&lt;/del&gt; &lt;code class=&quot;highlighter-rouge&quot;&gt;2020-04-08&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;del&gt;separate other email as 02&lt;/del&gt; &lt;code class=&quot;highlighter-rouge&quot;&gt;2020-04-08&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;del&gt;send 01&lt;/del&gt; &lt;code class=&quot;highlighter-rouge&quot;&gt;2020-04-08&lt;/code&gt;&lt;/li&gt;
   &lt;li&gt;mailchimp country error&lt;/li&gt;
-  &lt;li&gt;mailchimp limit&lt;/li&gt;
+  &lt;li&gt;&lt;del&gt;mailchimp limit&lt;/del&gt; &lt;code class=&quot;highlighter-rouge&quot;&gt;2020-04-08&lt;/code&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h1 id=&quot;about&quot;&gt;About&lt;/h1&gt;
