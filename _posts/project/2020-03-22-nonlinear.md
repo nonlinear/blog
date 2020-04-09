@@ -31,8 +31,8 @@ Anything related to this site. Todo, instructions, ideas, etc.
 - ~~design this mofo~~
 - [Transitioning Gradients](https://keithjgrant.com/posts/2017/07/transitioning-gradients/)
 - other articles
-- gradients per group
-- gradient on external link
+- ~~gradients per group~~ `2020-04-08`
+- gradient on per link group
 - ~~data using jekyll~~
 - js assets, how?
 - mobile
