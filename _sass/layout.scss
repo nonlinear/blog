@@ -22,14 +22,66 @@
 body {
 	padding: $gap6;
 	font-family: Space Grotesk;
-	@include linear-gradient(130deg, #ffffff, #ECE9E6);
-	background-repeat: no-repeat;
-	background-attachment: fixed;
+	
+
 	@include transition;
-	// &.test {
-	// 		@include linear-gradient(140deg, #ffffff, #ccc);
-	// }
 }
+
+.backgrounds {
+	display: grid;
+	grid-template-columns: repeat(6, 1fr);
+	* {
+		height: 300px;
+		background-repeat: no-repeat;
+		background-attachment: fixed;
+		position: fixed;
+		top: 0;
+		left:0;
+		width:100%;
+		height:100vh;
+		z-index:-1;
+		@include transition;
+	}
+	.home {
+		@include linear-gradient(130deg, white, #ECE9E6);
+
+	}
+	.study {
+		@include linear-gradient(160deg, white, #fbd786, #f7797d);
+	}
+	.project {
+		@include linear-gradient(0deg, #D3CCE3, #E9E4F0, white);
+	}
+	.note {
+		@include linear-gradient(190deg, white, white, #ACBB78);
+	}
+	.processing {
+		@include linear-gradient(320deg, #9796f0, #fbc7d4, white);
+	}
+	.external {
+		@include linear-gradient(320deg, #00416A, #E4E5E6, white);
+	}
+}
+
+body:not(.home) .backgrounds .home,
+body:not(.study) .backgrounds .study,
+body:not(.project) .backgrounds .project,
+body:not(.note) .backgrounds .note,
+body:not(.processing) .backgrounds .processing,
+body .backgrounds .external {
+	@include opacity(0);
+}
+
+// body.test.home .backgrounds {
+// 	.home {
+// 	@include opacity(0);
+// }
+// 	.study {
+// 	@include opacity(100);
+// }
+// }
+
+
 
 
 .divider {
@@ -205,3 +257,7 @@ blockquote {
 	margin: $gap2 0;
 }
 
+
+canvas {
+	width: 100%;
+}
