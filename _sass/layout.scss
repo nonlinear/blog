@@ -227,8 +227,9 @@ a {
 }
 
 
-img {
+img, .wireframe svg {
 	width: 100%;
+	height: auto;
 }
 
 table {
