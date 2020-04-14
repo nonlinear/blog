@@ -223,6 +223,11 @@ a {
 			background-color: $link;
 			display: inline;
 		}
+		.description {
+			white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+		}
 		&:hover {
 			background: none !important;
 			.title {

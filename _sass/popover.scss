@@ -1,0 +1,38 @@
+.popover {
+	margin-top: $gap;
+	width: 200px;
+
+	font-family: Space Grotesk;
+	@include radius(0);
+	border: none;
+	@include shadow(box, 0 5px 0 rgba(0, 0, 0, 0.1));
+	.popover-header {
+		background: none;
+	}
+	.popover-body {
+
+		max-height: 200px;
+		overflow: auto;
+		font-size: 14px;
+		a {
+			background: none;
+			display: block;
+			padding: $gaphalf 0;
+			span.title {
+				line-height: 110%;
+				padding: 3px;
+				color: black;
+				background-color: $link;
+				@include transition;
+			}
+				&:hover span.title {
+		color: black;
+		text-decoration: none;
+		background-color: $hover;
+	}
+		}
+	}
+	.arrow {
+		border: none;
+	}
+}
