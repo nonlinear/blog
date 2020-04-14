@@ -141,8 +141,7 @@ h1, h2, h3, h4, h5, p {
 		&:hover {
 			p {
 				&.description {
-					height: 30px;
-					overflow: none;
+					height: 28px;
 				}
 			}
 		}
@@ -224,7 +223,6 @@ a {
 			display: inline;
 		}
 		.description {
-			white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
 		}
