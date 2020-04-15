@@ -41,13 +41,13 @@ body {
 	}
 	.noise {
 		background-image: url(/assets/images/Grainy_Overlay_2_Dense.png);
-	 -webkit-filter: invert(100%);
-    filter: invert(100%);
+		-webkit-filter: invert(100%);
+		filter: invert(100%);
 		background-repeat: repeat;
 		background-size: cover;
 	}
 	.home {
-		@include linear-gradient(130deg, white, #ECE9E6);
+		@include linear-gradient(320deg, #abbaab, white);
 	}
 	.study {
 		@include linear-gradient(160deg, white, #fbd786);
@@ -59,10 +59,10 @@ body {
 		@include linear-gradient(190deg, white, white, #ACBB78);
 	}
 	.processing {
-		@include linear-gradient(320deg, #9796f0, #fbc7d4, white);
+		@include linear-gradient(320deg, #dae2f8, #d6a4a4);
 	}
 	.external {
-		@include linear-gradient(200deg, #00ffff, white 80%);
+		@include linear-gradient(0deg, #fdfcfb, #e2d1c3);
 	}
 }
 
@@ -78,6 +78,9 @@ body.note .backgrounds .note,
 body.processing .backgrounds .processing,
 body.external .backgrounds .external {
 	@include opacity(100);
+}
+body.external .backgrounds *:not(.external) {
+	@include opacity(0);
 }
 
 .divider {
@@ -116,21 +119,22 @@ h1, h2, h3, h4, h5, p {
 .post {
 	display: block;
 	overflow: hidden;
-	p.description {
+	p {
 		margin: 0;
-		overflow: hidden;
-  text-overflow: ellipsis;
 	}
 	html.no-touch & {
-		p.description {
+		p {
+			&.description {
 				height: 1px;
 				overflow: hidden;
 				@include transition;
+			}
 		}
 		&:hover {
 			p {
 				&.description {
-					height: 28px;
+					height: 30px;
+					overflow: none;
 				}
 			}
 		}
@@ -202,6 +206,21 @@ a {
 		color: black;
 		text-decoration: none;
 		background-color: $hover;
+	}
+	.links & {
+		background: none !important;
+		.title {
+			@include transition;
+			background-color: $link;
+			display: inline;
+		}
+		&:hover {
+			background: none !important;
+			.title {
+				background-color: $hover;
+				
+			}
+		}
 	}
 
 }
