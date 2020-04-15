@@ -1,16 +1,16 @@
-	<script src="{{'/assets/vendor/jquery.min.js' | prepend: site.baseurl}}"></script>
-	<script src="{{'/assets/vendor/popper.min.js' | prepend: site.baseurl}}"></script>
-	<script src="{{'/assets/vendor/bootstrap.min.js' | prepend: site.baseurl}}"></script>
-	<script src="{{'/assets/vendor/p5.min.js' | prepend: site.baseurl}}"></script>
-	<script src="{{'/assets/vendor/p5.dom.min.js' | prepend: site.baseurl}}"></script>
-	<script src="{{'/assets/vendor/p5.sound.min.js' | prepend: site.baseurl}}"></script>
-	<script src="{{'/assets/vendor/modernizr.js' | prepend: site.baseurl}}"></script>
-	<script src="{{'/assets/vendor/detectizr.js' | prepend: site.baseurl}}"></script>
+	<script src="/assets/vendor/jquery.min.js"></script>
+	<script src="/assets/vendor/popper.min.js"></script>
+	<script src="/assets/vendor/bootstrap.min.js"></script>
+	<script src="/assets/vendor/p5.min.js"></script>
+	<script src="/assets/vendor/p5.dom.min.js"></script>
+	<script src="/assets/vendor/p5.sound.min.js"></script>
+	<script src="/assets/vendor/modernizr.js"></script>
+	<script src="/assets/vendor/detectizr.js"></script>
 	<script>
 		$(function () {
 			$('[data-toggle="tooltip"]').tooltip()
 		});
-    $('[data-toggle="popover"]').popover({ trigger: "manual" , html: true, animation:false, content: '<div class="red">Coming March 2014</div>'})
+    $('[data-toggle="popover"]').popover({ trigger: "manual" , html: true, animation:false, content: ''})
     .on("mouseenter", function () {
       var _this = this;
       $(this).popover("show");
@@ -36,12 +36,56 @@
 
               </script>
               <script>
-              	$(".col-sm.links").hover(
-              		function () {
-              			$("body").addClass("test");
-              		},
-              		function () {
-              			$("body").removeClass("test");
-              		}
-              		);
+                      $("a[href*=project]").hover(
+                  function () {
+                    $("body").addClass("project");
+                  },
+                  function () {
+                    $("body").removeClass("project");
+                  }
+                  );
+                      $("a[href*=study]").hover(
+                  function () {
+                    $("body").addClass("study");
+                  },
+                  function () {
+                    $("body").removeClass("study");
+                  }
+                  );
+                                   $("a[href*=note]").hover(
+                  function () {
+                    $("body").addClass("note");
+                  },
+                  function () {
+                    $("body").removeClass("note");
+                  }
+                  );
+                                    $("a[href*=processing]").hover(
+                  function () {
+                    $("body").addClass("processing");
+                  },
+                  function () {
+                    $("body").removeClass("processing");
+                  }
+                  );
+                               $("a[href*=nonlinear]").hover(
+                  function () {
+                    $("body").addClass("home");
+                  },
+                  function () {
+                    $("body").removeClass("home");
+                  }
+                  );
+               $('a').filter(function() {
+   return this.hostname && this.hostname !== location.hostname;
+}).addClass("external");
+                    $("a.external").hover(
+                  function () {
+                    $("body").addClass("external");
+                  },
+                  function () {
+                    $("body").removeClass("external");
+                  }
+                  );
+                                 
               	</script>

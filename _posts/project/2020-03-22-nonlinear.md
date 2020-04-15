@@ -15,9 +15,10 @@ Anything related to this site. Todo, instructions, ideas, etc.
 
 ## TODO
 
-- why is config.yml info not on head?
+- ~~why is config.yml info not on head?~~ `2020-04-14`
 - check unsorted
 - favicon
+- get p5js on canvas ([example](https://stackoverflow.com/questions/35660240/how-to-put-p5-js-canvas-in-a-html-div/36540479#36540479))
 - more secure repo (away from github?)
 - ~~get processing npm things~~
 - ~~move processing stuff~~
@@ -29,12 +30,11 @@ Anything related to this site. Todo, instructions, ideas, etc.
 - ~~atext for new file~~
 - ~~atext for frontmatter~~
 - ~~design this mofo~~
-- [Transitioning Gradients](https://keithjgrant.com/posts/2017/07/transitioning-gradients/)
+- ~~[Transitioning Gradients](https://keithjgrant.com/posts/2017/07/transitioning-gradients/)~~ `2020-04-14`
 - other articles
 - ~~gradients per group~~ `2020-04-08`
 - gradient on per link group
 - ~~data using jekyll~~
-- js assets, how?
-- mobile
-   - open links
-   - what more?
+- ~~js assets, how?~~ `2020-04-14`
+- ~~open links on mobile~~ `2020-04-14`
+- mobile: what more?

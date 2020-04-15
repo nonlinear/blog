@@ -28,10 +28,7 @@ body {
 }
 
 .backgrounds {
-	display: grid;
-	grid-template-columns: repeat(6, 1fr);
 	* {
-		height: 300px;
 		background-repeat: no-repeat;
 		background-attachment: fixed;
 		position: fixed;
@@ -51,7 +48,6 @@ body {
 	}
 	.home {
 		@include linear-gradient(130deg, white, #ECE9E6);
-
 	}
 	.study {
 		@include linear-gradient(160deg, white, #fbd786, #f7797d);
@@ -70,26 +66,19 @@ body {
 	}
 }
 
-body:not(.home) .backgrounds .home,
-body:not(.study) .backgrounds .study,
-body:not(.project) .backgrounds .project,
-body:not(.note) .backgrounds .note,
-body:not(.processing) .backgrounds .processing,
-body .backgrounds .external {
+body .backgrounds * {
 	@include opacity(0);
 }
 
-// body.test.home .backgrounds {
-// 	.home {
-// 	@include opacity(0);
-// }
-// 	.study {
-// 	@include opacity(100);
-// }
-// }
-
-
-
+body .backgrounds .noise,
+body.home .backgrounds .home,
+body.study .backgrounds .study,
+body.project .backgrounds .project,
+body.note .backgrounds .note,
+body.processing .backgrounds .processing,
+body.external .backgrounds .external {
+	@include opacity(100);
+}
 
 .divider {
 	margin: $gap3 0;
@@ -127,16 +116,16 @@ h1, h2, h3, h4, h5, p {
 .post {
 	display: block;
 	overflow: hidden;
-	p {
+	p.description {
 		margin: 0;
+		overflow: hidden;
+  text-overflow: ellipsis;
 	}
 	html.no-touch & {
-		p {
-			&.description {
+		p.description {
 				height: 1px;
 				overflow: hidden;
 				@include transition;
-			}
 		}
 		&:hover {
 			p {
@@ -209,31 +198,12 @@ a {
 	color: black;
 	background-color: $link;
 	@include transition;
-
 	&:hover {
 		color: black;
 		text-decoration: none;
 		background-color: $hover;
 	}
-	.links & {
-		background: none !important;
-		.title {
-			@include transition;
-			background-color: $link;
-			display: inline;
-		}
-		.description {
-  overflow: hidden;
-  text-overflow: ellipsis;
-		}
-		&:hover {
-			background: none !important;
-			.title {
-				background-color: $hover;
-				
-			}
-		}
-	}
+
 }
 
 
