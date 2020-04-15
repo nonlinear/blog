@@ -1,32 +1,32 @@
-	{% if post.categories contains "project" %}
-	{% for post in site.posts %}
-		{% if post.categories contains "project" and post.status contains "public" %}
-			<a href="{{ post.url }}"><span class="title">{{ post.title }}</span></a>
-		{% endif %}
-		{% endfor %}
-			{% endif %}
+	{% if page.categories contains "project" %}
 
-
-				{% if page.categories contains "study" %}
 	{% for post in site.posts %}
-		{% if post.categories contains "study" and post.status contains "public" %}
-			<a href="{{ post.url }}"><span class="title">{{ post.title }}</span></a>
-		{% endif %}
-		{% endfor %}
-			{% endif %}
+	{% if post.categories contains "project" and post.status contains "public" %}
+	<a href="{{ post.url }}"><span class="title">{{ post.title }}</span></a>
+	{% endif %}
+	{% endfor %}
+	{% endif %}
 
-		{% if page.categories contains "note" %}
+	{% if page.categories contains "study" %}
 	{% for post in site.posts %}
-		{% if post.categories contains "note" and post.status contains "public" %}
-			<a href="{{ post.url }}"><span class="title">{{ post.title }}</span></a>
-		{% endif %}
-		{% endfor %}
-			{% endif %}
+	{% if post.categories contains "study" and post.status contains "public" %}
+	<a href="{{ post.url }}"><span class="title">{{ post.title }}</span></a>
+	{% endif %}
+	{% endfor %}
+	{% endif %}
 
-							{% if post.categories contains "processing" %}
+	{% if page.categories contains "note" %}
 	{% for post in site.posts %}
-		{% if post.categories contains "processing" and post.status contains "public" %}
-			<a href="{{ post.url }}"><span class="title">{{ post.title }}</span></a>
-		{% endif %}
-		{% endfor %}
-			{% endif %}
+	{% if post.categories contains "note" and post.status contains "public" %}
+	<a href="{{ post.url }}"><span class="title">{{ post.title }}</span></a>
+	{% endif %}
+	{% endfor %}
+	{% endif %}
+
+	{% if page.categories contains "processing" %}
+	{% for post in site.posts %}
+	{% if post.categories contains "processing" and post.status contains "public" %}
+	<a href="{{ post.url }}"><span class="title">{{ post.title }}</span></a>
+	{% endif %}
+	{% endfor %}
+	{% endif %}

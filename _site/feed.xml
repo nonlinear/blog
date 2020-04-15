@@ -1,71 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="https://www.nonlinear.nyc/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.nonlinear.nyc/" rel="alternate" type="text/html" /><updated>2020-04-15T11:29:56-04:00</updated><id>https://www.nonlinear.nyc/feed.xml</id><title type="html">nonlinear</title><subtitle>The anagram of my name is anarchist fool</subtitle><entry><title type="html">Todo</title><link href="https://www.nonlinear.nyc/2020/03/22/TODO.html" rel="alternate" type="text/html" title="Todo" /><published>2020-03-22T00:00:00-04:00</published><updated>2020-03-22T00:00:00-04:00</updated><id>https://www.nonlinear.nyc/2020/03/22/TODO</id><content type="html" xml:base="https://www.nonlinear.nyc/2020/03/22/TODO.html"></content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">User Interviews</title><link href="https://www.nonlinear.nyc/2020/03/22/User-Interviews.html" rel="alternate" type="text/html" title="User Interviews" /><published>2020-03-22T00:00:00-04:00</published><updated>2020-03-22T00:00:00-04:00</updated><id>https://www.nonlinear.nyc/2020/03/22/User-Interviews</id><content type="html" xml:base="https://www.nonlinear.nyc/2020/03/22/User-Interviews.html">&lt;h1 id=&quot;user-interviews&quot;&gt;User Interviews&lt;/h1&gt;
-
-&lt;h3 id=&quot;josh-nelson&quot;&gt;Josh Nelson&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;“so generic”, wiley family&lt;/li&gt;
-  &lt;li&gt;captca, easy to read&lt;/li&gt;
-  &lt;li&gt;password conditions, highlights?&lt;/li&gt;
-  &lt;li&gt;link instead verification code&lt;/li&gt;
-  &lt;li&gt;“nothing to see” is misleading, eeh? it depends on user intentions, eh?&lt;/li&gt;
-  &lt;li&gt;he understands the journal flow (it is broken on testing, but correct on our flow)&lt;/li&gt;
-  &lt;li&gt;“i am liking this drag and drop”&lt;/li&gt;
-  &lt;li&gt;autoparse&lt;/li&gt;
-  &lt;li&gt;got email and noticed&lt;/li&gt;
-  &lt;li&gt;comparing resume sites (autoparse is bad)&lt;/li&gt;
-  &lt;li&gt;dismisses popup overall (overconfident)&lt;/li&gt;
-  &lt;li&gt;curious about error,&lt;/li&gt;
-  &lt;li&gt;failsafe is “well done”&lt;/li&gt;
-  &lt;li&gt;failsafe converts symbols!!!&lt;/li&gt;
-  &lt;li&gt;authors should scroll to selection&lt;/li&gt;
-  &lt;li&gt;“i should read this box” that dismissed&lt;/li&gt;
-  &lt;li&gt;author “and”, how to fix&lt;/li&gt;
-  &lt;li&gt;cant autofill only affiliation, “no affiliation” is a choice.&lt;/li&gt;
-  &lt;li&gt;Prevent google chrome autofill (or dismiss it)&lt;/li&gt;
-  &lt;li&gt;fix email right away? is it even an option?&lt;/li&gt;
-  &lt;li&gt;verify: define why order is this way? (can’t be alpha)&lt;/li&gt;
-  &lt;li&gt;likes progress board: CTA, intuitive&lt;/li&gt;
-  &lt;li&gt;he inferred revision, ha&lt;/li&gt;
-  &lt;li&gt;journal menu pages, broken&lt;/li&gt;
-  &lt;li&gt;“why are you suggesting” reviewer&lt;/li&gt;
-  &lt;li&gt;Abstract is wonky on final review&lt;/li&gt;
-  &lt;li&gt;whole file name? pdf preview&lt;/li&gt;
-  &lt;li&gt;converted to reviewers? or original file?&lt;/li&gt;
-  &lt;li&gt;why is “complete my submission” SO LONG?&lt;/li&gt;
-  &lt;li&gt;do we SAY authors are contacted? we should. maybe SAME email to them as CC?&lt;/li&gt;
-  &lt;li&gt;best setup i’ve seen to date.&lt;/li&gt;
-  &lt;li&gt;what reviewers get?&lt;/li&gt;
-  &lt;li&gt;append line numbers&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;jordi-de-batlle&quot;&gt;Jordi de Batlle&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;adapting format to journal is quite time consuming (2 hours)&lt;/li&gt;
-  &lt;li&gt;some lite-submission. let’s see if our journey is faster.&lt;/li&gt;
-  &lt;li&gt;qualification link is too subtle&lt;/li&gt;
-  &lt;li&gt;doesnt like the progress board. “convenient” if direct.&lt;/li&gt;
-  &lt;li&gt;“main document” on top. redeisgn article type menu&lt;/li&gt;
-  &lt;li&gt;2 visions: with or without figures&lt;/li&gt;
-  &lt;li&gt;ooh, not clear if you can new documents&lt;/li&gt;
-  &lt;li&gt;move backwards (didnt see loading)&lt;/li&gt;
-  &lt;li&gt;understands its a new step&lt;/li&gt;
-  &lt;li&gt;users like country autocomplete&lt;/li&gt;
-  &lt;li&gt;compact information (scroll less)&lt;/li&gt;
-  &lt;li&gt;disable google chrome country extension or learn to live with it.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;\&lt;/p&gt;
-
-&lt;h2 id=&quot;design-proposals&quot;&gt;design proposals&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;match affiliations, match 1, 2, no match (suggest as sub option)&lt;/li&gt;
-  &lt;li&gt;edit as third column&lt;/li&gt;
-  &lt;li&gt;Confetti page, survey more defined&lt;/li&gt;
-  &lt;li&gt;Keywords, focus on NUMBER of keywords (or optional)&lt;/li&gt;
-  &lt;li&gt;item with border on hover only, with side bar&lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><summary type="html">User Interviews</summary></entry><entry><title type="html">Talks</title><link href="https://www.nonlinear.nyc/2020/03/22/talks.html" rel="alternate" type="text/html" title="Talks" /><published>2020-03-22T00:00:00-04:00</published><updated>2020-03-22T00:00:00-04:00</updated><id>https://www.nonlinear.nyc/2020/03/22/talks</id><content type="html" xml:base="https://www.nonlinear.nyc/2020/03/22/talks.html">&lt;h1 id=&quot;talks&quot;&gt;Talks&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="https://www.nonlinear.nyc/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.nonlinear.nyc/" rel="alternate" type="text/html" /><updated>2020-04-15T12:00:04-04:00</updated><id>https://www.nonlinear.nyc/feed.xml</id><title type="html">nonlinear</title><subtitle>The anagram of my name is anarchist fool</subtitle><entry><title type="html">Todo</title><link href="https://www.nonlinear.nyc/2020/03/22/TODO.html" rel="alternate" type="text/html" title="Todo" /><published>2020-03-22T00:00:00-04:00</published><updated>2020-03-22T00:00:00-04:00</updated><id>https://www.nonlinear.nyc/2020/03/22/TODO</id><content type="html" xml:base="https://www.nonlinear.nyc/2020/03/22/TODO.html"></content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Talks</title><link href="https://www.nonlinear.nyc/2020/03/22/talks.html" rel="alternate" type="text/html" title="Talks" /><published>2020-03-22T00:00:00-04:00</published><updated>2020-03-22T00:00:00-04:00</updated><id>https://www.nonlinear.nyc/2020/03/22/talks</id><content type="html" xml:base="https://www.nonlinear.nyc/2020/03/22/talks.html">&lt;h1 id=&quot;talks&quot;&gt;Talks&lt;/h1&gt;
 
 &lt;h2 id=&quot;coming-up-in-ux-in-2020&quot;&gt;&lt;a href=&quot;https://www.meetup.com/uxcomeup/events/267875388/&quot;&gt;Coming Up in UX in 2020&lt;/a&gt;&lt;/h2&gt;
 
@@ -388,7 +321,94 @@ python inference.py
       &lt;li&gt;fase 2 é traducao. precisamos fechar o conteudo inicial&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><summary type="html">Janeraka</summary></entry><entry><title type="html">Other Publisher Workflows</title><link href="https://www.nonlinear.nyc/2020/03/22/Other-Publisher-Workflows.html" rel="alternate" type="text/html" title="Other Publisher Workflows" /><published>2020-03-22T00:00:00-04:00</published><updated>2020-03-22T00:00:00-04:00</updated><id>https://www.nonlinear.nyc/2020/03/22/Other-Publisher-Workflows</id><content type="html" xml:base="https://www.nonlinear.nyc/2020/03/22/Other-Publisher-Workflows.html">&lt;h1 id=&quot;other-publisher-workflows&quot;&gt;Other Publisher Workflows&lt;/h1&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">Janeraka</summary></entry><entry><title type="html">Frontend</title><link href="https://www.nonlinear.nyc/2020/03/22/frontend.html" rel="alternate" type="text/html" title="Frontend" /><published>2020-03-22T00:00:00-04:00</published><updated>2020-03-22T00:00:00-04:00</updated><id>https://www.nonlinear.nyc/2020/03/22/frontend</id><content type="html" xml:base="https://www.nonlinear.nyc/2020/03/22/frontend.html">&lt;h2 id=&quot;front-end-and-design-system&quot;&gt;Front End and Design System&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;issues-raised-by-as&quot;&gt;Issues Raised by AS&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;AS is mobile (mobile-first?): it works on mobile, but it’s not mobile-friendly&lt;/li&gt;
+  &lt;li&gt;funder dashboard application, dashboard, AS application, AS resources (marketing site)&lt;/li&gt;
+  &lt;li&gt;confluence for front end group&lt;/li&gt;
+  &lt;li&gt;REX and AS discrepancies, inventory needed
+    &lt;ul&gt;
+      &lt;li&gt;em, rem, pixel? (REX and AS)&lt;/li&gt;
+      &lt;li&gt;bootstrap inventory needed&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Products&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 id=&quot;style-guide-rex-breakdown&quot;&gt;Style Guide REX breakdown&lt;/h1&gt;
+
+&lt;h2 id=&quot;dependencies---56&quot;&gt;dependencies - 56&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;colors - 13&lt;/li&gt;
+  &lt;li&gt;fonts - 5&lt;/li&gt;
+  &lt;li&gt;icons - 5&lt;/li&gt;
+  &lt;li&gt;form items - 13&lt;/li&gt;
+  &lt;li&gt;spacing - 30&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;difficult&quot;&gt;difficult&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;form labels - 8&lt;/li&gt;
+  &lt;li&gt;item title/description as columns (move item header to left column, content goes to 2/3 on the right) - 30&lt;/li&gt;
+  &lt;li&gt;select and autocomplete - 13&lt;/li&gt;
+  &lt;li&gt;autocomplete loading - 13&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;cosmetic-only&quot;&gt;cosmetic only&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;buttons - 8&lt;/li&gt;
+  &lt;li&gt;character count - 5&lt;/li&gt;
+  &lt;li&gt;dropzone - 5&lt;/li&gt;
+  &lt;li&gt;upload list - 5&lt;/li&gt;
+  &lt;li&gt;popover and header menu - 8&lt;/li&gt;
+  &lt;li&gt;global header - 5&lt;/li&gt;
+  &lt;li&gt;footer and cookie message - 5&lt;/li&gt;
+  &lt;li&gt;loading - 5&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;total-166&quot;&gt;Total: 166&lt;/h2&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;aleksandr-integrated-message&quot;&gt;Aleksandr integrated message&lt;/h2&gt;
+
+&lt;p&gt;ello, after reviewing 2.8 affiliation editor wireframes, I’d like to put my two cents &lt;img src=&quot;https://statics.teams.microsoft.com/evergreen-assets/funstuff/skype-emoticons-f/smile/default_20.png?v=4&quot; alt=&quot;😄&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;(And sorry for such a long post)&lt;/p&gt;
+
+&lt;p&gt;Currently, Author Services is not the best-looking website out there. As far as I know, a redesign is planned, but is not happening soon. Additionally, these new wireframes for Affiliation Editor look somewhat inconsistent with old AS styles - there’s a difference between new features (they are more “colorful”) and old AS look. And some of the colors that are used in new wireframes are questionable in terms of accessibility and color contrast. If we implement this as it is, then we’ll have design inconsistency for some foreseeable future.&lt;/p&gt;
+
+&lt;p&gt;But I assume we all would like to have a better-looking product sooner. Over the last half a year we’ve been doing some standalone design related changes to AS, for example with My Profile Widget, or, more broadly, while making the site responsive. And we did quite a few changes to WPPAP as well.&lt;/p&gt;
+
+&lt;p&gt;Those our actions fit perfectly the idea of incremental redesign. In contrast to the full redesign, incremental redesign is a process that involves continuous improvements ideally based on data-driven decisions. Changes are smaller and new ideas are presented gradually.
+ It doesn’t involve a total overhaul of a website, rather just a single page or page section or even a small component.
+ Just for information - some useful articles on the idea:
+   http://inchoo.net/ecommerce/incremental-design-changes-and-revenue/
+   https://www.nngroup.com/articles/radical-incremental-redesign/
+   https://www.forbes.com/sites/rogerdooley/2014/07/24/never-redesign/#742a452e2e94&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Do you think it would possible to try to adopt such design workflow for the whole AS site - both old parts and new features?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I suppose that this way we’ll be able to quicker align the visuals of old functionality with new features while simultaneously moving towards a whole new (and better) look.&lt;/p&gt;
+
+&lt;p&gt;Instead of redesigning whole pages we can start from redesigning small UI pieces like buttons, checkboxes, inputs, pop-ups, smaller widgets, breadcrumbs and so on and move these small changes to production.
+ ( That’s similar to what some people call Atomic Design - http://bradfrost.com/blog/post/atomic-web-design/ )&lt;/p&gt;
+
+&lt;p&gt;Such changes can be implemented separately. They are small and unlikely to break anything. And every single one of them makes a project slightly better. Accumulative effect of several small but well thought-out changes can give a significant improvement to the overall user experience…&lt;/p&gt;</content><author><name></name></author><summary type="html">Front End and Design System</summary></entry><entry><title type="html">Other Publisher Workflows</title><link href="https://www.nonlinear.nyc/2020/03/22/Other-Publisher-Workflows.html" rel="alternate" type="text/html" title="Other Publisher Workflows" /><published>2020-03-22T00:00:00-04:00</published><updated>2020-03-22T00:00:00-04:00</updated><id>https://www.nonlinear.nyc/2020/03/22/Other-Publisher-Workflows</id><content type="html" xml:base="https://www.nonlinear.nyc/2020/03/22/Other-Publisher-Workflows.html">&lt;h1 id=&quot;other-publisher-workflows&quot;&gt;Other Publisher Workflows&lt;/h1&gt;
 
 &lt;p&gt;Hi everyone,&lt;/p&gt;
 
@@ -566,163 +586,74 @@ python inference.py
 
 &lt;p&gt;What  I’m reading from a lot of these is that institutions are independently  verifying eligibility of articles before the article gets published. I  can only guess that in that model with something like OUP, they are getting a lot of authors who claim affiliation but  don’t qualify, and the institution needs to review before it gets  covered and published. This seems like it could really slow the  publishing process down (waiting on institutions) and require a lot of back-tracking for authors who mistakenly (or intentionally)  claim eligibility when they are not eligible. On the other hand, I bet  they don’t get a lot of authors who are mistakenly paying for their own  APCs. Pros and Cons.&lt;/p&gt;
 
-&lt;p&gt;Danielle&lt;/p&gt;</content><author><name></name></author><summary type="html">Other Publisher Workflows</summary></entry><entry><title type="html">Frontend</title><link href="https://www.nonlinear.nyc/2020/03/22/frontend.html" rel="alternate" type="text/html" title="Frontend" /><published>2020-03-22T00:00:00-04:00</published><updated>2020-03-22T00:00:00-04:00</updated><id>https://www.nonlinear.nyc/2020/03/22/frontend</id><content type="html" xml:base="https://www.nonlinear.nyc/2020/03/22/frontend.html">&lt;h2 id=&quot;front-end-and-design-system&quot;&gt;Front End and Design System&lt;/h2&gt;
+&lt;p&gt;Danielle&lt;/p&gt;</content><author><name></name></author><summary type="html">Other Publisher Workflows</summary></entry><entry><title type="html">User Interviews</title><link href="https://www.nonlinear.nyc/2020/03/22/User-Interviews.html" rel="alternate" type="text/html" title="User Interviews" /><published>2020-03-22T00:00:00-04:00</published><updated>2020-03-22T00:00:00-04:00</updated><id>https://www.nonlinear.nyc/2020/03/22/User-Interviews</id><content type="html" xml:base="https://www.nonlinear.nyc/2020/03/22/User-Interviews.html">&lt;h1 id=&quot;user-interviews&quot;&gt;User Interviews&lt;/h1&gt;
+
+&lt;h3 id=&quot;josh-nelson&quot;&gt;Josh Nelson&lt;/h3&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;/li&gt;
+  &lt;li&gt;“so generic”, wiley family&lt;/li&gt;
+  &lt;li&gt;captca, easy to read&lt;/li&gt;
+  &lt;li&gt;password conditions, highlights?&lt;/li&gt;
+  &lt;li&gt;link instead verification code&lt;/li&gt;
+  &lt;li&gt;“nothing to see” is misleading, eeh? it depends on user intentions, eh?&lt;/li&gt;
+  &lt;li&gt;he understands the journal flow (it is broken on testing, but correct on our flow)&lt;/li&gt;
+  &lt;li&gt;“i am liking this drag and drop”&lt;/li&gt;
+  &lt;li&gt;autoparse&lt;/li&gt;
+  &lt;li&gt;got email and noticed&lt;/li&gt;
+  &lt;li&gt;comparing resume sites (autoparse is bad)&lt;/li&gt;
+  &lt;li&gt;dismisses popup overall (overconfident)&lt;/li&gt;
+  &lt;li&gt;curious about error,&lt;/li&gt;
+  &lt;li&gt;failsafe is “well done”&lt;/li&gt;
+  &lt;li&gt;failsafe converts symbols!!!&lt;/li&gt;
+  &lt;li&gt;authors should scroll to selection&lt;/li&gt;
+  &lt;li&gt;“i should read this box” that dismissed&lt;/li&gt;
+  &lt;li&gt;author “and”, how to fix&lt;/li&gt;
+  &lt;li&gt;cant autofill only affiliation, “no affiliation” is a choice.&lt;/li&gt;
+  &lt;li&gt;Prevent google chrome autofill (or dismiss it)&lt;/li&gt;
+  &lt;li&gt;fix email right away? is it even an option?&lt;/li&gt;
+  &lt;li&gt;verify: define why order is this way? (can’t be alpha)&lt;/li&gt;
+  &lt;li&gt;likes progress board: CTA, intuitive&lt;/li&gt;
+  &lt;li&gt;he inferred revision, ha&lt;/li&gt;
+  &lt;li&gt;journal menu pages, broken&lt;/li&gt;
+  &lt;li&gt;“why are you suggesting” reviewer&lt;/li&gt;
+  &lt;li&gt;Abstract is wonky on final review&lt;/li&gt;
+  &lt;li&gt;whole file name? pdf preview&lt;/li&gt;
+  &lt;li&gt;converted to reviewers? or original file?&lt;/li&gt;
+  &lt;li&gt;why is “complete my submission” SO LONG?&lt;/li&gt;
+  &lt;li&gt;do we SAY authors are contacted? we should. maybe SAME email to them as CC?&lt;/li&gt;
+  &lt;li&gt;best setup i’ve seen to date.&lt;/li&gt;
+  &lt;li&gt;what reviewers get?&lt;/li&gt;
+  &lt;li&gt;append line numbers&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;issues-raised-by-as&quot;&gt;Issues Raised by AS&lt;/h2&gt;
+&lt;h3 id=&quot;jordi-de-batlle&quot;&gt;Jordi de Batlle&lt;/h3&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;AS is mobile (mobile-first?): it works on mobile, but it’s not mobile-friendly&lt;/li&gt;
-  &lt;li&gt;funder dashboard application, dashboard, AS application, AS resources (marketing site)&lt;/li&gt;
-  &lt;li&gt;confluence for front end group&lt;/li&gt;
-  &lt;li&gt;REX and AS discrepancies, inventory needed
-    &lt;ul&gt;
-      &lt;li&gt;em, rem, pixel? (REX and AS)&lt;/li&gt;
-      &lt;li&gt;bootstrap inventory needed&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Products&lt;/li&gt;
+  &lt;li&gt;adapting format to journal is quite time consuming (2 hours)&lt;/li&gt;
+  &lt;li&gt;some lite-submission. let’s see if our journey is faster.&lt;/li&gt;
+  &lt;li&gt;qualification link is too subtle&lt;/li&gt;
+  &lt;li&gt;doesnt like the progress board. “convenient” if direct.&lt;/li&gt;
+  &lt;li&gt;“main document” on top. redeisgn article type menu&lt;/li&gt;
+  &lt;li&gt;2 visions: with or without figures&lt;/li&gt;
+  &lt;li&gt;ooh, not clear if you can new documents&lt;/li&gt;
+  &lt;li&gt;move backwards (didnt see loading)&lt;/li&gt;
+  &lt;li&gt;understands its a new step&lt;/li&gt;
+  &lt;li&gt;users like country autocomplete&lt;/li&gt;
+  &lt;li&gt;compact information (scroll less)&lt;/li&gt;
+  &lt;li&gt;disable google chrome country extension or learn to live with it.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;hr /&gt;
+&lt;p&gt;\&lt;/p&gt;
 
-&lt;h1 id=&quot;style-guide-rex-breakdown&quot;&gt;Style Guide REX breakdown&lt;/h1&gt;
-
-&lt;h2 id=&quot;dependencies---56&quot;&gt;dependencies - 56&lt;/h2&gt;
+&lt;h2 id=&quot;design-proposals&quot;&gt;design proposals&lt;/h2&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;colors - 13&lt;/li&gt;
-  &lt;li&gt;fonts - 5&lt;/li&gt;
-  &lt;li&gt;icons - 5&lt;/li&gt;
-  &lt;li&gt;form items - 13&lt;/li&gt;
-  &lt;li&gt;spacing - 30&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;difficult&quot;&gt;difficult&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;form labels - 8&lt;/li&gt;
-  &lt;li&gt;item title/description as columns (move item header to left column, content goes to 2/3 on the right) - 30&lt;/li&gt;
-  &lt;li&gt;select and autocomplete - 13&lt;/li&gt;
-  &lt;li&gt;autocomplete loading - 13&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;cosmetic-only&quot;&gt;cosmetic only&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;buttons - 8&lt;/li&gt;
-  &lt;li&gt;character count - 5&lt;/li&gt;
-  &lt;li&gt;dropzone - 5&lt;/li&gt;
-  &lt;li&gt;upload list - 5&lt;/li&gt;
-  &lt;li&gt;popover and header menu - 8&lt;/li&gt;
-  &lt;li&gt;global header - 5&lt;/li&gt;
-  &lt;li&gt;footer and cookie message - 5&lt;/li&gt;
-  &lt;li&gt;loading - 5&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;total-166&quot;&gt;Total: 166&lt;/h2&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;aleksandr-integrated-message&quot;&gt;Aleksandr integrated message&lt;/h2&gt;
-
-&lt;p&gt;ello, after reviewing 2.8 affiliation editor wireframes, I’d like to put my two cents &lt;img src=&quot;https://statics.teams.microsoft.com/evergreen-assets/funstuff/skype-emoticons-f/smile/default_20.png?v=4&quot; alt=&quot;😄&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;(And sorry for such a long post)&lt;/p&gt;
-
-&lt;p&gt;Currently, Author Services is not the best-looking website out there. As far as I know, a redesign is planned, but is not happening soon. Additionally, these new wireframes for Affiliation Editor look somewhat inconsistent with old AS styles - there’s a difference between new features (they are more “colorful”) and old AS look. And some of the colors that are used in new wireframes are questionable in terms of accessibility and color contrast. If we implement this as it is, then we’ll have design inconsistency for some foreseeable future.&lt;/p&gt;
-
-&lt;p&gt;But I assume we all would like to have a better-looking product sooner. Over the last half a year we’ve been doing some standalone design related changes to AS, for example with My Profile Widget, or, more broadly, while making the site responsive. And we did quite a few changes to WPPAP as well.&lt;/p&gt;
-
-&lt;p&gt;Those our actions fit perfectly the idea of incremental redesign. In contrast to the full redesign, incremental redesign is a process that involves continuous improvements ideally based on data-driven decisions. Changes are smaller and new ideas are presented gradually.
- It doesn’t involve a total overhaul of a website, rather just a single page or page section or even a small component.
- Just for information - some useful articles on the idea:
-   http://inchoo.net/ecommerce/incremental-design-changes-and-revenue/
-   https://www.nngroup.com/articles/radical-incremental-redesign/
-   https://www.forbes.com/sites/rogerdooley/2014/07/24/never-redesign/#742a452e2e94&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Do you think it would possible to try to adopt such design workflow for the whole AS site - both old parts and new features?&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;I suppose that this way we’ll be able to quicker align the visuals of old functionality with new features while simultaneously moving towards a whole new (and better) look.&lt;/p&gt;
-
-&lt;p&gt;Instead of redesigning whole pages we can start from redesigning small UI pieces like buttons, checkboxes, inputs, pop-ups, smaller widgets, breadcrumbs and so on and move these small changes to production.
- ( That’s similar to what some people call Atomic Design - http://bradfrost.com/blog/post/atomic-web-design/ )&lt;/p&gt;
-
-&lt;p&gt;Such changes can be implemented separately. They are small and unlikely to break anything. And every single one of them makes a project slightly better. Accumulative effect of several small but well thought-out changes can give a significant improvement to the overall user experience…&lt;/p&gt;</content><author><name></name></author><summary type="html">Front End and Design System</summary></entry><entry><title type="html">ethical code</title><link href="https://www.nonlinear.nyc/project/ethical/" rel="alternate" type="text/html" title="ethical code" /><published>2020-01-29T18:03:16-05:00</published><updated>2020-01-29T18:03:16-05:00</updated><id>https://www.nonlinear.nyc/project/ethical</id><content type="html" xml:base="https://www.nonlinear.nyc/project/ethical/">&lt;h3 id=&quot;todo&quot;&gt;TODO&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;start figma file&lt;/li&gt;
-  &lt;li&gt;get who needs permissions&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Here are my notes, then zee notes, for zee to consolidate and announce.&lt;/p&gt;
-
-&lt;h4 id=&quot;audience&quot;&gt;Audience&lt;/h4&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Palantir as company and developers&lt;/li&gt;
-  &lt;li&gt;non-developers (use laymen terms)&lt;/li&gt;
-  &lt;li&gt;maintainers
-    &lt;ol&gt;
-      &lt;li&gt;software is in use by palantir&lt;/li&gt;
-      &lt;li&gt;not on palantir and want to protect themselves&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h4 id=&quot;funnels&quot;&gt;Funnels&lt;/h4&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;maintainers with software in use
-    &lt;ol&gt;
-      &lt;li&gt;change the licensing: point to the research&lt;/li&gt;
-      &lt;li&gt;pledge on README (badge)&lt;/li&gt;
-      &lt;li&gt;donate money to a group that opposes ICE (README that they did)&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;maintainers unsure if they are used by palantir
-    &lt;ol&gt;
-      &lt;li&gt;github oauth to detect if (alerts? phase 2? discuss)
-        &lt;ol&gt;
-          &lt;li&gt;if yes, check “maintainers with software in use”&lt;/li&gt;
-          &lt;li&gt;if no, how to protect yourself from it&lt;/li&gt;
-        &lt;/ol&gt;
-      &lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;dev non-mantainers
-    &lt;ol&gt;
-      &lt;li&gt;raise an issue on ethical license (padding with warnings, how to behave)&lt;/li&gt;
-      &lt;li&gt;donate money to a group that opposes ICE (if you can afford)&lt;/li&gt;
-      &lt;li&gt;donate to repo (better contrast for repos on pledge)&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;non-dev
-    &lt;ol&gt;
-      &lt;li&gt;dashboard, graphs, progress, bird-eye view: explain what they are seeing (phase 2?)&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h4 id=&quot;arguments-to-expose&quot;&gt;Arguments to expose&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;open source traditionless&lt;/li&gt;
-  &lt;li&gt;overworked, underpaid maintainers (donation, thank you for your service, etc)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;tech-to-discuss&quot;&gt;Tech to discuss&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;flags on CTAs so we can measure progress (of donation, of issues raised, etc)&lt;/li&gt;
-  &lt;li&gt;proxy mesure for repo popularity: reveal power curve, some repos are better than others (likes, follow, activity. it PROBABLY exists somewhere)&lt;/li&gt;
-  &lt;li&gt;dashboard&lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><summary type="html">TODO</summary></entry><entry><title type="html">janeraka</title><link href="https://www.nonlinear.nyc/project/janeraka/" rel="alternate" type="text/html" title="janeraka" /><published>2020-01-29T18:03:16-05:00</published><updated>2020-01-29T18:03:16-05:00</updated><id>https://www.nonlinear.nyc/project/janeraka</id><content type="html" xml:base="https://www.nonlinear.nyc/project/janeraka/">&lt;h2 id=&quot;todo&quot;&gt;TODO&lt;/h2&gt;
+  &lt;li&gt;match affiliations, match 1, 2, no match (suggest as sub option)&lt;/li&gt;
+  &lt;li&gt;edit as third column&lt;/li&gt;
+  &lt;li&gt;Confetti page, survey more defined&lt;/li&gt;
+  &lt;li&gt;Keywords, focus on NUMBER of keywords (or optional)&lt;/li&gt;
+  &lt;li&gt;item with border on hover only, with side bar&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">User Interviews</summary></entry><entry><title type="html">janeraka</title><link href="https://www.nonlinear.nyc/project/janeraka/" rel="alternate" type="text/html" title="janeraka" /><published>2020-01-29T18:03:16-05:00</published><updated>2020-01-29T18:03:16-05:00</updated><id>https://www.nonlinear.nyc/project/janeraka</id><content type="html" xml:base="https://www.nonlinear.nyc/project/janeraka/">&lt;h2 id=&quot;todo&quot;&gt;TODO&lt;/h2&gt;
 
 &lt;ul&gt;
   &lt;li&gt;favicons&lt;/li&gt;
@@ -750,4 +681,200 @@ python inference.py
   &lt;/li&gt;
   &lt;li&gt;yml versao ingles&lt;/li&gt;
   &lt;li&gt;limite na pagina inicial? mais em outra pagina?&lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><summary type="html">TODO</summary></entry></feed>
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">TODO</summary></entry><entry><title type="html">mesa</title><link href="https://www.nonlinear.nyc/project/mesa/" rel="alternate" type="text/html" title="mesa" /><published>2020-01-29T18:03:16-05:00</published><updated>2020-01-29T18:03:16-05:00</updated><id>https://www.nonlinear.nyc/project/mesa</id><content type="html" xml:base="https://www.nonlinear.nyc/project/mesa/">&lt;iframe class=&quot;figma&quot; src=&quot;https://www.figma.com/embed?embed_host=share&amp;amp;url=https%3A%2F%2Fwww.figma.com%2Fproto%2FOB9WyNGphMN9E6YJofolq3%2Fboards-presentation%3Fnode-id%3D0%253A2%26viewport%3D239%252C176%252C0.17242388427257538%26scaling%3Dcontain&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h1 id=&quot;os-business-model&quot;&gt;OS business model&lt;/h1&gt;
+
+&lt;h2 id=&quot;pyramid&quot;&gt;pyramid&lt;/h2&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Name&lt;/th&gt;
+      &lt;th&gt;Stakeholder&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Topology application&lt;/td&gt;
+      &lt;td&gt;Janeraka, nycmesh&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Post-it application&lt;/td&gt;
+      &lt;td&gt;Pushpin port? how?&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Art application&lt;/td&gt;
+      &lt;td&gt;define&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Boards Platform&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;mailto:bernardoxhc@gmail.com&quot;&gt;Bernardo Fontes&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Business Model&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;mailto:georgia@simplysecure.org&quot;&gt;Georgia Bullen&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&quot;notes-by-oliver&quot;&gt;Notes by Oliver&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://protocol.ai/projects/&quot;&gt;Projects - Protocol Labs&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://nadiaeghbal.com/&quot;&gt;Nadia Eghbal&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;grants-to-look-out-for&quot;&gt;Grants to look out for&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/nayafia/microgrants#a-list-of-microgrant-programs-for-your-good-ideas&quot;&gt;A list of microgrant programs for your good ideas&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://wisconsinfastforward.com/wff_standard.htm&quot;&gt;Wisconsin Fast Forward Grants&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;The prototype fund German&lt;/li&gt;
+  &lt;li&gt;Tafka Mexican open source&lt;/li&gt;
+  &lt;li&gt;Canndid foundation center&lt;/li&gt;
+  &lt;li&gt;Open tech funds, prototypes (internet freedom)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;possible-fiscal-sponsors&quot;&gt;Possible Fiscal Sponsors&lt;/h2&gt;
+
+&lt;h2 id=&quot;partnerships-to-study&quot;&gt;Partnerships to study&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://publiclab.org/&quot;&gt;🎈 Public Lab: a DIY environmental science community&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://twitter.com/lizbarry&quot;&gt;Liz Barry&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://treekit.org/&quot;&gt;treeKIT - Maintenance mode&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;inkandswitch
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://github.com/inkandswitch/pushpin&quot;&gt;pushpin: A collaborative corkboard app&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://github.com/inkandswitch/interactive-shape-recognition&quot;&gt;interactive-shape-recognition: Implementation of “A Simple Approach to Recognise Geometric Shapes Interactively”&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://schoolofdata.nyc/&quot;&gt;NYC School of Data – a community conference through #civicdesign, #civictech, &amp;amp; #opendata.&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.digital-democracy.org/mapeo/&quot;&gt;Digital Democracy - Mapeo&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Lai yi Olsen&lt;/li&gt;
+  &lt;li&gt;Caroline sanders&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;todo&quot;&gt;Todo&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;thank Oliver, show ethical OS licncing&lt;/li&gt;
+  &lt;li&gt;thank Georgia, ask for pushpin invite, and art recommendations (Laiyi Olsen and Caroline sanders)&lt;/li&gt;
+  &lt;li&gt;storyboard “topology”: nycmesh and Janeraka&lt;/li&gt;
+  &lt;li&gt;Storyboard “pushpin” port&lt;/li&gt;
+  &lt;li&gt;Storyboard “art”&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Ryzome
+Fractured artists
+Open source collective
+Walking paper project&lt;/p&gt;
+
+&lt;h2 id=&quot;models-to-study&quot;&gt;Models to study&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;ethical open source&lt;/li&gt;
+  &lt;li&gt;Open access (for scientific papers)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;model-to-validate-its-a-very-crude-model&quot;&gt;model to validate (it’s a very crude model)&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;get paid in advance
+    &lt;ul&gt;
+      &lt;li&gt;focused scope: epic, estimated&lt;/li&gt;
+      &lt;li&gt;Grants, funds, crowdsourcing&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;deliver as commons
+    &lt;ul&gt;
+      &lt;li&gt;main code&lt;/li&gt;
+      &lt;li&gt;Integrations with existing libraries&lt;/li&gt;
+      &lt;li&gt;New libraries (stand alone projects)&lt;/li&gt;
+      &lt;li&gt;Documentation, methods (Creative Commons?)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;reputation for more grants&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;some-for-profit-projects-trying-the-same-thing&quot;&gt;some for-profit projects trying the same thing&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.yankodesign.com/2020/03/26/this-projector-comes-with-a-virtual-on-screen-whiteboard-marker/&quot;&gt;This projector comes with a virtual on-screen whiteboard marker&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;cheap-projectors-to-buy&quot;&gt;Cheap Projectors to buy&lt;/h3&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt; &lt;/th&gt;
+      &lt;th&gt;Name&lt;/th&gt;
+      &lt;th&gt;Price&lt;/th&gt;
+      &lt;th&gt;Lumens&lt;/th&gt;
+      &lt;th&gt;Image&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;1&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://www.amazon.com/DBPOWER-L21-Projector-Compatible-Smartphone/dp/B07VGCGRV2/ref=sr_1_4?keywords=DBPOWER+T20&amp;amp;qid=1584922652&amp;amp;s=electronics&amp;amp;sr=1-4&quot;&gt;DBPOWER L21 LCD Video Projector&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;$80&lt;/td&gt;
+      &lt;td&gt;5000&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;https://images-na.ssl-images-amazon.com/images/I/61SDXxKtFtL._AC_SL1000_.jpg&quot; alt=&quot;aaa&quot; /&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;2&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://www.amazon.com/Projector-Portable-Supported-Multimedia-Entertainment/dp/B0863HRY9G/ref=sr_1_1_sspa?keywords=GooBang+Doo+Projector%2C+2018&amp;amp;qid=1584922906&amp;amp;s=electronics&amp;amp;sr=1-1-spons&amp;amp;psc=1&amp;amp;spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFQWElMVFhON1IzWjYmZW5jcnlwdGVkSWQ9QTA3ODU5NDUzOU9WWVlVTUlPWjJVJmVuY3J5cHRlZEFkSWQ9QTAwODIwNDgyN1FBMDJaOEU2WVNOJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==&quot;&gt;Bomaker A2 720P Portable Projector&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;$120&lt;/td&gt;
+      &lt;td&gt;4500&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;https://images-na.ssl-images-amazon.com/images/I/71VGqKsNI8L._AC_SL1455_.jpg&quot; alt=&quot;aaa&quot; /&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;3&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://www.amazon.com/Projector-Supported-2600Lux-Lifetime-Compatible/dp/B07MGQRWHH/ref=sr_1_4?keywords=DR.+J+HI-04&amp;amp;qid=1584921927&amp;amp;sr=8-4&quot;&gt; Jinhoo Mini Overhead Projector&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;$77&lt;/td&gt;
+      &lt;td&gt;4200&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;https://images-na.ssl-images-amazon.com/images/I/51hVIWAfclL._AC_SL1000_.jpg&quot; alt=&quot;aaa&quot; /&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://top10bestbudget.com/home/best-projectors-100-200-300-400/&quot;&gt;17 Best Projectors under 100 in 2019&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;cheap-adapters&quot;&gt;Cheap adapters&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.amazon.com/Adapter-Converter-Adaptor-Macbook-Chromebook/dp/B074HZMCQ3/ref=sr_1_3?keywords=usbc+projector+adapter&amp;amp;qid=1585067350&amp;amp;sr=8-3&quot;&gt;USB C to HDMI 4K VGA Adapter&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;cheap-webcams-to-buy&quot;&gt;Cheap Webcams to buy&lt;/h3&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt; &lt;/th&gt;
+      &lt;th&gt;Name&lt;/th&gt;
+      &lt;th&gt;Price&lt;/th&gt;
+      &lt;th&gt;Image&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;1&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://www.amazon.com/Streaming-Microphone-Widescreen-Conferencing-Recording/dp/B082X91MPP/ref=sr_1_3?keywords=webcam&amp;amp;qid=1584923615&amp;amp;sr=8-3&quot;&gt;HD Webcam 1080P with Privacy Shutter and Tripod Stand&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;$40&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;https://images-na.ssl-images-amazon.com/images/I/71eaH2ZSa%2BL._AC_SL1500_.jpg&quot; alt=&quot;aaa&quot; /&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;2&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://www.amazon.com/FOONEE-Reduction-Microphone-Conferencing-Recording/dp/B07Y243BXP/ref=sr_1_12?keywords=webcam&amp;amp;qid=1584923615&amp;amp;sr=8-12&quot;&gt;FOONEE 1080P Full HD Webcam&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;$33&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;https://images-na.ssl-images-amazon.com/images/I/51GOrQ8w68L._AC_SL1000_.jpg&quot; alt=&quot;aaa&quot; /&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</content><author><name></name></author><summary type="html"></summary></entry></feed>

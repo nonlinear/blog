@@ -70,6 +70,13 @@ body .backgrounds * {
 	@include opacity(0);
 }
 
+.figma {
+	border: none;
+	padding: $gap 0;
+	width: 100%;
+	height: 500px;
+}
+
 body .backgrounds .noise,
 body.home .backgrounds .home,
 body.study .backgrounds .study,

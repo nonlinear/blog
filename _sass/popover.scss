@@ -16,8 +16,7 @@ a[data-toggle="popover"] {
 
 	font-family: Space Grotesk;
 	@include radius(0);
-	border: none;
-	@include shadow(box, 0 5px 0 rgba(0, 0, 0, 0.1));
+	@include shadow(box, 0 5px 0 rgba(0, 0, 0, 0.05));
 	.popover-header {
 		background: none;
 	}
