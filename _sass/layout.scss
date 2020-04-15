@@ -50,7 +50,7 @@ body {
 		@include linear-gradient(130deg, white, #ECE9E6);
 	}
 	.study {
-		@include linear-gradient(160deg, white, #fbd786, #f7797d);
+		@include linear-gradient(160deg, white, #fbd786);
 	}
 	.project {
 		@include linear-gradient(0deg, #D3CCE3, #E9E4F0, white);
@@ -62,7 +62,7 @@ body {
 		@include linear-gradient(320deg, #9796f0, #fbc7d4, white);
 	}
 	.external {
-		@include linear-gradient(320deg, #00416A, #E4E5E6, white);
+		@include linear-gradient(200deg, #00ffff, white 80%);
 	}
 }
 
