@@ -4,21 +4,9 @@ title: home
 categories: home
 ---
 <div class="row grid">
-	<div class="col-sm links">
-		<h3>Studies</h3>
-		{% for post in site.posts %}
-		{% if post.categories contains 'study' and post.status contains 'public' %}
-		
-			<a href="{{ post.url }}"  class="post">
-				<p class="title">{{ post.title }}</p>
-				<p class="description">{{ post.description }}</p>
-			</a>
 
-		{% endif %}
-		{% endfor %}
-	</div>
 
-	<div class="col-sm links">
+<!-- 	<div class="col-sm links">
 		<h3>Projects</h3>
 		{% for post in site.posts %}
 		{% if post.categories contains 'project' and post.status contains 'public' %}
@@ -32,8 +20,8 @@ categories: home
 
 		{% endif %}
 		{% endfor %}
-	</div>
-	<div class="col-sm links">
+	</div> -->
+<!-- 	<div class="col-sm links">
 		<h3>Notes</h3>
 		{% for post in site.posts %}
 		{% if post.categories contains 'note' and post.status contains 'public' %}
@@ -47,12 +35,15 @@ categories: home
 
 		{% endif %}
 		{% endfor %}
-	</div>
-
+	</div> -->
 	<div class="col-sm links">
-		<h3>Processing</h3>
+		<h3>About</h3>
+	pending
+	</div>
+	<div class="col-sm links">
+		<h3>Illustrations</h3>
 		{% for post in site.posts %}
-		{% if post.categories contains 'processing' and post.status contains 'public' %}
+		{% if post.categories contains 'illustrations' and post.status contains 'public' %}
 
 		
 			<a href="{{ post.url }}"  class="post">
@@ -60,6 +51,32 @@ categories: home
 				<p class="description">{{ post.description }}</p>
 			</a>
 
+
+		{% endif %}
+		{% endfor %}
+	</div> 
+	<div class="col-sm links">
+		<h3>Studies</h3>
+		{% for post in site.posts %}
+		{% if post.categories contains 'study' and post.status contains 'public' %}
+		
+			<a href="{{ post.url }}"  class="post">
+				<p class="title">{{ post.title }}</p>
+				<p class="description">{{ post.description }}</p>
+			</a>
+
+		{% endif %}
+		{% endfor %}
+	</div> 
+		<div class="col-sm links">
+		<h3>Processing</h3>
+		{% for post in site.posts %}
+		{% if post.categories contains 'processing' and post.status contains 'public' %}
+		
+			<a href="{{ post.url }}"  class="post">
+				<p class="title">{{ post.title }}</p>
+				<p class="description">{{ post.description }}</p>
+			</a>
 
 		{% endif %}
 		{% endfor %}

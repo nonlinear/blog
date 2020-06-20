@@ -55,6 +55,9 @@ body {
 	.project {
 		@include linear-gradient(0deg, #D3CCE3, #E9E4F0, white);
 	}
+	.illustrations {
+		@include linear-gradient(0deg, #f12711, #f5af19);
+	}
 	.note {
 		@include linear-gradient(190deg, white, white, #ACBB78);
 	}
@@ -77,11 +80,16 @@ body .backgrounds * {
 	height: 500px;
 }
 
+body.illustrations .backgrounds .noise {
+	@include opacity(40);
+}
+
 body .backgrounds .noise,
 body.home .backgrounds .home,
 body.study .backgrounds .study,
 body.project .backgrounds .project,
 body.note .backgrounds .note,
+body.illustrations .backgrounds .illustrations,
 body.processing .backgrounds .processing,
 body.external .backgrounds .external {
 	@include opacity(100);
@@ -268,3 +276,61 @@ blockquote {
 canvas {
 	width: 100%;
 }
+
+$gallery-cols: 4;
+$gallery-gap: 3px;
+$gallery-radius: 3px;
+
+.gallery {
+	line-height: 0;
+	-webkit-column-count: $gallery-cols;
+	-webkit-column-gap:   $gallery-gap;
+	-moz-column-count:    $gallery-cols;
+	-moz-column-gap:      $gallery-gap;
+	column-count:         $gallery-cols;
+	column-gap:           $gallery-gap;  
+	@media (max-width: 1000px) {
+		-moz-column-count:    ($gallery-cols - 1);
+		-webkit-column-count: ($gallery-cols - 1);
+		column-count:         ($gallery-cols - 1);
+	}
+	@media (max-width: 800px) {
+		-moz-column-count:    ($gallery-cols - 2);
+		-webkit-column-count: ($gallery-cols - 2);
+		column-count:         ($gallery-cols - 2);
+	}
+	@media (max-width: 500px) {
+		-moz-column-count:    1;
+		-webkit-column-count: 1;
+		column-count:         1;
+	}
+	img {
+		width: 100% !important;
+		height: auto !important;
+		margin-bottom: $gallery-gap;
+		@include transition;
+		cursor: pointer;
+
+		@include radius($gallery-radius);
+		&:hover {
+			@include scale(1.4);
+			z-index: 1000;
+		}
+// 		&:nth-of-type(1) {
+// 	@include fadeInUp($delay: $delay * 1);
+// }
+// 		&:nth-of-type(2) {
+// 	@include fadeInUp($delay: $delay * 2);
+// }
+// 		&:nth-of-type(3) {
+// 	@include fadeInUp($delay: $delay * 3);
+// }
+// 		&:nth-of-type(4) {
+// 	@include fadeInUp($delay: $delay * 4);
+// }
+	}
+	&:hover img:not(:hover) {
+		@include opacity(20);
+	}
+}
+
