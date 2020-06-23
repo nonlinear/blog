@@ -1,4 +1,23 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="https://www.nonlinear.nyc/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.nonlinear.nyc/" rel="alternate" type="text/html" /><updated>2020-06-23T19:24:57-04:00</updated><id>https://www.nonlinear.nyc/feed.xml</id><title type="html">nonlinear</title><subtitle>The anagram of my name is anarchist fool</subtitle><entry><title type="html">Todo</title><link href="https://www.nonlinear.nyc/2020/03/22/TODO.html" rel="alternate" type="text/html" title="Todo" /><published>2020-03-22T00:00:00-04:00</published><updated>2020-03-22T00:00:00-04:00</updated><id>https://www.nonlinear.nyc/2020/03/22/TODO</id><content type="html" xml:base="https://www.nonlinear.nyc/2020/03/22/TODO.html"></content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Frontend</title><link href="https://www.nonlinear.nyc/2020/03/22/frontend.html" rel="alternate" type="text/html" title="Frontend" /><published>2020-03-22T00:00:00-04:00</published><updated>2020-03-22T00:00:00-04:00</updated><id>https://www.nonlinear.nyc/2020/03/22/frontend</id><content type="html" xml:base="https://www.nonlinear.nyc/2020/03/22/frontend.html">&lt;h2 id=&quot;front-end-and-design-system&quot;&gt;Front End and Design System&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="https://www.nonlinear.nyc/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.nonlinear.nyc/" rel="alternate" type="text/html" /><updated>2020-06-23T19:25:56-04:00</updated><id>https://www.nonlinear.nyc/feed.xml</id><title type="html">nonlinear</title><subtitle>The anagram of my name is anarchist fool</subtitle><entry><title type="html">Todo</title><link href="https://www.nonlinear.nyc/2020/03/22/TODO.html" rel="alternate" type="text/html" title="Todo" /><published>2020-03-22T00:00:00-04:00</published><updated>2020-03-22T00:00:00-04:00</updated><id>https://www.nonlinear.nyc/2020/03/22/TODO</id><content type="html" xml:base="https://www.nonlinear.nyc/2020/03/22/TODO.html"></content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Janeraka</title><link href="https://www.nonlinear.nyc/2020/03/22/janeraka.html" rel="alternate" type="text/html" title="Janeraka" /><published>2020-03-22T00:00:00-04:00</published><updated>2020-03-22T00:00:00-04:00</updated><id>https://www.nonlinear.nyc/2020/03/22/janeraka</id><content type="html" xml:base="https://www.nonlinear.nyc/2020/03/22/janeraka.html">&lt;h1 id=&quot;janeraka&quot;&gt;Janeraka&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;pra comecar
+    &lt;ul&gt;
+      &lt;li&gt;fechando a fase 1 (portugues, doação)&lt;/li&gt;
+      &lt;li&gt;eu quero fechar esse projeto, nao tenho tempo&lt;/li&gt;
+      &lt;li&gt;Esquece todas as outras comunicacoes. vamos tentar ser mais concisos na reta final.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;pra discutir
+    &lt;ul&gt;
+      &lt;li&gt;Pdf, simplifiquei&lt;/li&gt;
+      &lt;li&gt;imagens, tem melhores?&lt;/li&gt;
+      &lt;li&gt;Doacoes (link)&lt;/li&gt;
+      &lt;li&gt;Contato&lt;/li&gt;
+      &lt;li&gt;fase 2 é traducao. precisamos fechar o conteudo inicial&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">Janeraka</summary></entry><entry><title type="html">Frontend</title><link href="https://www.nonlinear.nyc/2020/03/22/frontend.html" rel="alternate" type="text/html" title="Frontend" /><published>2020-03-22T00:00:00-04:00</published><updated>2020-03-22T00:00:00-04:00</updated><id>https://www.nonlinear.nyc/2020/03/22/frontend</id><content type="html" xml:base="https://www.nonlinear.nyc/2020/03/22/frontend.html">&lt;h2 id=&quot;front-end-and-design-system&quot;&gt;Front End and Design System&lt;/h2&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;/li&gt;
@@ -434,29 +453,7 @@ python inference.py
   &lt;li&gt;learn if/else&lt;/li&gt;
   &lt;li&gt;learn how to bring an external file INSIDE p5js&lt;/li&gt;
   &lt;li&gt;&lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><summary type="html">Videos</summary></entry><entry><title type="html">Jekyll Site</title><link href="https://www.nonlinear.nyc/2020/03/22/jekyll-site.html" rel="alternate" type="text/html" title="Jekyll Site" /><published>2020-03-22T00:00:00-04:00</published><updated>2020-03-22T00:00:00-04:00</updated><id>https://www.nonlinear.nyc/2020/03/22/jekyll-site</id><content type="html" xml:base="https://www.nonlinear.nyc/2020/03/22/jekyll-site.html">&lt;h1 id=&quot;jekyll-site&quot;&gt;jekyll site&lt;/h1&gt;
-
-&lt;h3 id=&quot;creating-the-site&quot;&gt;Creating the site&lt;/h3&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;jekyll new site`&lt;/li&gt;
-  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;cd site&lt;/code&gt;&lt;/li&gt;
-  &lt;li&gt;make new repository, named &lt;code class=&quot;highlighter-rouge&quot;&gt;[username].github.io&lt;/code&gt; (this weird name is to allow changes)&lt;/li&gt;
-  &lt;li&gt;link repo with &lt;code class=&quot;highlighter-rouge&quot;&gt;site/&lt;/code&gt; folder&lt;/li&gt;
-  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;bundle exec jekyll serve&lt;/code&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h3 id=&quot;adding-bootstrap&quot;&gt;Adding bootstrap&lt;/h3&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;install dependencies &lt;code class=&quot;highlighter-rouge&quot;&gt;npm install popper.js bootstrap jquery wowjs animatewithsass --save&lt;/code&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h3 id=&quot;adding-animatewithsass&quot;&gt;Adding animatewithsass&lt;/h3&gt;
-
-&lt;p&gt;Add wowjs&lt;/p&gt;
-
-&lt;p&gt;Themes&lt;/p&gt;</content><author><name></name></author><summary type="html">jekyll site</summary></entry><entry><title type="html">Other Publisher Workflows</title><link href="https://www.nonlinear.nyc/2020/03/22/Other-Publisher-Workflows.html" rel="alternate" type="text/html" title="Other Publisher Workflows" /><published>2020-03-22T00:00:00-04:00</published><updated>2020-03-22T00:00:00-04:00</updated><id>https://www.nonlinear.nyc/2020/03/22/Other-Publisher-Workflows</id><content type="html" xml:base="https://www.nonlinear.nyc/2020/03/22/Other-Publisher-Workflows.html">&lt;h1 id=&quot;other-publisher-workflows&quot;&gt;Other Publisher Workflows&lt;/h1&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">Videos</summary></entry><entry><title type="html">Other Publisher Workflows</title><link href="https://www.nonlinear.nyc/2020/03/22/Other-Publisher-Workflows.html" rel="alternate" type="text/html" title="Other Publisher Workflows" /><published>2020-03-22T00:00:00-04:00</published><updated>2020-03-22T00:00:00-04:00</updated><id>https://www.nonlinear.nyc/2020/03/22/Other-Publisher-Workflows</id><content type="html" xml:base="https://www.nonlinear.nyc/2020/03/22/Other-Publisher-Workflows.html">&lt;h1 id=&quot;other-publisher-workflows&quot;&gt;Other Publisher Workflows&lt;/h1&gt;
 
 &lt;p&gt;Hi everyone,&lt;/p&gt;
 
@@ -634,43 +631,29 @@ python inference.py
 
 &lt;p&gt;What  I’m reading from a lot of these is that institutions are independently  verifying eligibility of articles before the article gets published. I  can only guess that in that model with something like OUP, they are getting a lot of authors who claim affiliation but  don’t qualify, and the institution needs to review before it gets  covered and published. This seems like it could really slow the  publishing process down (waiting on institutions) and require a lot of back-tracking for authors who mistakenly (or intentionally)  claim eligibility when they are not eligible. On the other hand, I bet  they don’t get a lot of authors who are mistakenly paying for their own  APCs. Pros and Cons.&lt;/p&gt;
 
-&lt;p&gt;Danielle&lt;/p&gt;</content><author><name></name></author><summary type="html">Other Publisher Workflows</summary></entry><entry><title type="html">Janeraka</title><link href="https://www.nonlinear.nyc/2020/03/22/janeraka.html" rel="alternate" type="text/html" title="Janeraka" /><published>2020-03-22T00:00:00-04:00</published><updated>2020-03-22T00:00:00-04:00</updated><id>https://www.nonlinear.nyc/2020/03/22/janeraka</id><content type="html" xml:base="https://www.nonlinear.nyc/2020/03/22/janeraka.html">&lt;h1 id=&quot;janeraka&quot;&gt;Janeraka&lt;/h1&gt;
+&lt;p&gt;Danielle&lt;/p&gt;</content><author><name></name></author><summary type="html">Other Publisher Workflows</summary></entry><entry><title type="html">Jekyll Site</title><link href="https://www.nonlinear.nyc/2020/03/22/jekyll-site.html" rel="alternate" type="text/html" title="Jekyll Site" /><published>2020-03-22T00:00:00-04:00</published><updated>2020-03-22T00:00:00-04:00</updated><id>https://www.nonlinear.nyc/2020/03/22/jekyll-site</id><content type="html" xml:base="https://www.nonlinear.nyc/2020/03/22/jekyll-site.html">&lt;h1 id=&quot;jekyll-site&quot;&gt;jekyll site&lt;/h1&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;pra comecar
-    &lt;ul&gt;
-      &lt;li&gt;fechando a fase 1 (portugues, doação)&lt;/li&gt;
-      &lt;li&gt;eu quero fechar esse projeto, nao tenho tempo&lt;/li&gt;
-      &lt;li&gt;Esquece todas as outras comunicacoes. vamos tentar ser mais concisos na reta final.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;pra discutir
-    &lt;ul&gt;
-      &lt;li&gt;Pdf, simplifiquei&lt;/li&gt;
-      &lt;li&gt;imagens, tem melhores?&lt;/li&gt;
-      &lt;li&gt;Doacoes (link)&lt;/li&gt;
-      &lt;li&gt;Contato&lt;/li&gt;
-      &lt;li&gt;fase 2 é traducao. precisamos fechar o conteudo inicial&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><summary type="html">Janeraka</summary></entry><entry><title type="html">languages</title><link href="https://www.nonlinear.nyc/processing/languages/" rel="alternate" type="text/html" title="languages" /><published>2020-01-29T18:03:16-05:00</published><updated>2020-01-29T18:03:16-05:00</updated><id>https://www.nonlinear.nyc/processing/languages</id><content type="html" xml:base="https://www.nonlinear.nyc/processing/languages/">&lt;script&gt;
-		var data
-			function preload(){
-			data = loadJSON('/assets/data/more/languages.json')
-		}
-function setup() {
-   noCanvas()
-  var language = data.languages
-for (var i = 0; i &lt; language.length; i++) {
-	createElement('h1', language[i].name)
-}
-}
+&lt;h3 id=&quot;creating-the-site&quot;&gt;Creating the site&lt;/h3&gt;
 
-function draw() {
-  background(100)
-}
+&lt;ol&gt;
+  &lt;li&gt;jekyll new site`&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;cd site&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;make new repository, named &lt;code class=&quot;highlighter-rouge&quot;&gt;[username].github.io&lt;/code&gt; (this weird name is to allow changes)&lt;/li&gt;
+  &lt;li&gt;link repo with &lt;code class=&quot;highlighter-rouge&quot;&gt;site/&lt;/code&gt; folder&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;bundle exec jekyll serve&lt;/code&gt;&lt;/li&gt;
+&lt;/ol&gt;
 
-&lt;/script&gt;</content><author><name></name></author><summary type="html">var data function preload(){ data = loadJSON('/assets/data/more/languages.json') } function setup() { noCanvas() var language = data.languages for (var i = 0; i &lt; language.length; i++) { createElement('h1', language[i].name) } }</summary></entry><entry><title type="html">loop</title><link href="https://www.nonlinear.nyc/processing/loop/" rel="alternate" type="text/html" title="loop" /><published>2020-01-29T18:03:16-05:00</published><updated>2020-01-29T18:03:16-05:00</updated><id>https://www.nonlinear.nyc/processing/loop</id><content type="html" xml:base="https://www.nonlinear.nyc/processing/loop/">&lt;style&gt;    canvas {
+&lt;h3 id=&quot;adding-bootstrap&quot;&gt;Adding bootstrap&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;install dependencies &lt;code class=&quot;highlighter-rouge&quot;&gt;npm install popper.js bootstrap jquery wowjs animatewithsass --save&lt;/code&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;adding-animatewithsass&quot;&gt;Adding animatewithsass&lt;/h3&gt;
+
+&lt;p&gt;Add wowjs&lt;/p&gt;
+
+&lt;p&gt;Themes&lt;/p&gt;</content><author><name></name></author><summary type="html">jekyll site</summary></entry><entry><title type="html">loop</title><link href="https://www.nonlinear.nyc/processing/loop/" rel="alternate" type="text/html" title="loop" /><published>2020-01-29T18:03:16-05:00</published><updated>2020-01-29T18:03:16-05:00</updated><id>https://www.nonlinear.nyc/processing/loop</id><content type="html" xml:base="https://www.nonlinear.nyc/processing/loop/">&lt;style&gt;    canvas {
            position:absolute;
            top:0;
            left:0;
@@ -696,4 +679,59 @@ function draw() {
   }
 }
 
-&lt;/script&gt;</content><author><name></name></author><summary type="html">function setup() { createCanvas(windowWidth, windowHeight) }</summary></entry></feed>
+&lt;/script&gt;</content><author><name></name></author><summary type="html">function setup() { createCanvas(windowWidth, windowHeight) }</summary></entry><entry><title type="html">stars</title><link href="https://www.nonlinear.nyc/processing/stars/" rel="alternate" type="text/html" title="stars" /><published>2020-01-29T18:03:16-05:00</published><updated>2020-01-29T18:03:16-05:00</updated><id>https://www.nonlinear.nyc/processing/stars</id><content type="html" xml:base="https://www.nonlinear.nyc/processing/stars/">&lt;style&gt;    canvas {
+           position:absolute;
+           top:0;
+           left:0;
+           width:100%;
+           height:100%;
+           z-index:-1;
+        }
+        &lt;/style&gt;
+	&lt;script&gt;
+	function star(left, top, size, range) {
+			push()
+			stroke(random(0, 100))
+			strokeWeight(2)
+			translate(random(left, left + range), random(top, top + range))
+			line(0, size * -1, 0, size)
+			rotate(45)
+			line(0, size * -1, 0, size)
+			rotate(45)
+			line(0, size * -1, 0, size)
+			pop()
+		}
+    &lt;/script&gt;
+	&lt;script&gt;
+		function setup() {
+			createCanvas(windowWidth, windowHeight)
+			console.log('The faculty of 5 is 1*2*3*4*5 = ' + faculty(5))
+		}
+		function faculty(theValue) {
+			var result = 1
+			for (var i = 1; i &lt;= theValue; i++) {
+				result = result * i
+			}
+			return result
+		}
+
+		function draw() {
+			background(125)
+			ellipse(50, 50, 50, 50)
+			push()
+			star(30, 20, 10, 3)
+			star(50, 40, 15, 3)
+			star(40, 70, 12, 3)
+			translate(100, 60)
+			star(30, 20, 10, 3)
+			star(50, 40, 8, 3)
+			star(40, 70, 7, 3)
+			translate(20, -60)
+			star(30, 20, 15, 3)
+			star(50, 40, 10, 3)
+			star(40, 70, 12, 3)
+			pop()
+		}
+
+
+	&lt;/script&gt;</content><author><name></name></author><summary type="html">function setup() { createCanvas(windowWidth, windowHeight) console.log('The faculty of 5 is 1*2*3*4*5 = ' + faculty(5)) } function faculty(theValue) { var result = 1 for (var i = 1; i &lt;= theValue; i++) { result = result * i } return result }</summary></entry></feed>
