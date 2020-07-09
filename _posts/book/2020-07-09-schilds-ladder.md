@@ -8,6 +8,7 @@ description: by Greg Egan, highlights
 date: 2020-01-29 18:03:16 -0500
 permalink: /:categories/:slug/
 ---
+<a href="https://en.wikipedia.org/wiki/Schild%27s_Ladder"><img class="book" src="/assets/images/books/SchildsLadder.jpg" alt=""></a>
 <p>Read in Play Books around May 2016</p>
 <ol class="highlights">
 <li>"I'm the quintessential singleton," Cass replied. "I weigh up all my choices very carefully."</li>

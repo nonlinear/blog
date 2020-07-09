@@ -241,7 +241,7 @@ a {
 }
 
 
-img, .wireframe svg {
+body:not(.book) img, .wireframe svg {
 	width: 100%;
 	height: auto;
 }
@@ -348,7 +348,6 @@ ol.highlights {
   margin-bottom: 1.5rem;
   font-size: 1.3rem;
   padding: 0;
-  width: 60%;
 @include opacity(30);
 @include transition;
 
