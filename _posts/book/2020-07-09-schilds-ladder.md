@@ -10,7 +10,7 @@ permalink: /:categories/:slug/
 ---
 <a href="https://en.wikipedia.org/wiki/Schild%27s_Ladder"><img class="book" src="/assets/images/books/SchildsLadder.jpg" alt=""></a>
 <p>Read in Play Books around May 2016</p>
-<ol class="highlights">
+<ul>
 <li>"I'm the quintessential singleton," Cass replied. "I weigh up all my choices very carefully."</li>
 <li class="book-date">April 30, 2016</li>
 <li>Every viewpoint was a compromise, but she had to be as close as she could get.</li>
@@ -151,4 +151,4 @@ permalink: /:categories/:slug/
 <li class="book-date">May 13, 2016</li>
 <li>Decoherence and the Appearance of a Classical World in Quantum Theory</li>
 <li class="book-date">May 14, 2016</li>
-</ol>
+</ul>
