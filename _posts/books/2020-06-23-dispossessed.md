@@ -16,7 +16,7 @@ Read in Play Books around January 2017
 
 [Wikipedia](https://en.wikipedia.org/wiki/The_Dispossessed)
 
- If the foreman had no experience in bossing a mob, they had no experience in being one.
+- If the foreman had no experience in bossing a mob, they had no experience in being one.
 	- December 24, 2016
 - A stone lay there. It was dark like the wall, but on it, or inside it, there was a number; and 5 he thought at first, then took it for 1 then understood what it was—the primal number, that was both unity and plurality. “That is the cornerstone
 	- May 6, 2017
