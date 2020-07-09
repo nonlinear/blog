@@ -2,15 +2,21 @@
 layout: default
 title: Incomplete Nature
 slug: incomplete
-categories: book
+categories: books
 status: public
-description: highlights
+description: by Terence W. Deacon
 date: 2020-01-29 18:03:16 -0500
 permalink: /:categories/:slug/
 ---
-Excerpts from:
+![book](/assets/images/books/incomplete.jpg)
+
 Incomplete Nature: How Mind Emerged from Matter
-by Deacon W.
+
+by Terence W. Deacon
+
+Reading
+
+[Wikipedia](https://en.wikipedia.org/wiki/Incomplete_Nature)
 
 - But it is not simply a many-to-one relationship; it is the mapping of a continuum to discrete states.
 

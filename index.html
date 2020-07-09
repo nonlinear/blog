@@ -21,10 +21,14 @@ categories: home
 		{% endif %}
 		{% endfor %}
 	</div> -->
-<!-- 	<div class="col-sm links">
-		<h3>Notes</h3>
+	<div class="col-sm links">
+		<h3>About</h3>
+	pending
+	</div>
+	<div class="col-sm links">
+		<h3>Books</h3>
 		{% for post in site.posts %}
-		{% if post.categories contains 'note' and post.status contains 'public' %}
+		{% if post.categories contains 'books' and post.status contains 'public' %}
 
 		
 			<a href="{{ post.url }}"  class="post">
@@ -35,11 +39,8 @@ categories: home
 
 		{% endif %}
 		{% endfor %}
-	</div> -->
-	<div class="col-sm links">
-		<h3>About</h3>
-	pending
 	</div>
+	
 	<div class="col-sm links">
 		<h3>Illustrations</h3>
 		{% for post in site.posts %}

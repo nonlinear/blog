@@ -2,16 +2,20 @@
 layout: default
 title: Supersizing the mind
 slug: supersizing
-categories: book
+categories: books
 status: public
-description: by Andy Clark, highlights
+description: by Andy Clark
 date: 2020-01-29 18:03:16 -0500
 permalink: /:categories/:slug/
 ---
 
-From [Supersizing the Mind: Embodiment, Action, and Cognitive Extension](https://global.oup.com/academic/product/supersizing-the-mind-9780195333213?cc=us&lang=en&)
+![book](/assets/images/books/supersizing.jpg)
 
-Partial extraction from [Sumnotes](https://www.sumnotes.net/viewer.php)
+Supersizing the Mind: Embodiment, Action, and Cognitive Extension
+
+by Andy Clark, partial extraction from [Sumnotes](https://www.sumnotes.net/viewer.php)
+
+[Embodied Cognition on Wikipedia](https://en.wikipedia.org/wiki/Embodied_cognition)
 
 - This is the thesis of the extended mind: when parts of the environment are coupled to the brain in the right way, they become parts of the mind.
 - Parity Principle, which held that if aprocess in the world works in a way that we should count as a cognitive process if it were done in the head, then we should count it as a cognitive process all the same.
