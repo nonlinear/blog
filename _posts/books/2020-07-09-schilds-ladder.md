@@ -155,4 +155,3 @@ Read in Play Books around May 2016
 	- May 13, 2016
 - Decoherence and the Appearance of a Classical World in Quantum Theory
 	- May 14, 2016
-</ul>
