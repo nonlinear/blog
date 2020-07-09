@@ -348,38 +348,49 @@ img {
   counter-reset: my-awesome-counter;
   margin: 0;
   padding: 0;
-  		ul {
-		display: none;
-	}
+  	
   li {
   counter-increment: my-awesome-counter;
   display:block;
-  margin-bottom: $gap2;
+  margin-top: $gap3;
   font-size: 1.3rem;
   padding: 0;
-  cursor: pointer;
-@include opacity(40);
 @include transition;
 
-	&:hover {
-		color:  black;
-		@include opacity(100);
-		  padding: $gap 0;
-		  & ~ .book-date {
-		  	// display: block;
-		  }
-	}
+
   &::before {
   content: counter(my-awesome-counter);
   font-weight: bold;
   font-size: 3rem;
   width: 100px;
-
+@include opacity(20);
   margin-right: 0.5rem;
   display: block;
   font-family: 'Abril Fatface', serif;
   line-height: 1;
+  @include transition;
 }
+ ul {
+		  
+		  	li {
+		  		  margin-top: $gaphalf !important;
+		  		  @include opacity(0);
+		  	@include transition;
+  font-size: 1rem;
+		  		  &::before {
+display: none;
+}
+		  	}
+		  }
+	&:hover {
+		color:  black;
+		  & > ul li {
+		  	@include opacity(70);
+		  }
+		  &::before {
+		  	@include opacity(100);
+		  }
+	}
 }
 }
 }
