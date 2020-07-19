@@ -64,11 +64,23 @@ body {
 	.books {
 		@include linear-gradient(90deg, #FFAFBD, #ffc3a0);
 	}
-	.processing {
+	.creative-code {
 		@include linear-gradient(320deg, #dae2f8, #d6a4a4);
 	}
 	.external {
 		@include linear-gradient(0deg, #fdfcfb, #e2d1c3);
+	}
+}
+
+.creative-code {
+	.container {
+@include opacity(0);
+	@include transition;
+	&:hover {
+		@include opacity(100);
+	}
+
+
 	}
 }
 
@@ -94,7 +106,7 @@ body.project .backgrounds .project,
 body.note .backgrounds .note,
 body.books .backgrounds .books,
 body.illustrations .backgrounds .illustrations,
-body.processing .backgrounds .processing,
+body.creative-code .backgrounds .creative-code,
 body.external .backgrounds .external {
 	@include opacity(100);
 }

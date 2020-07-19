@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="https://www.nonlinear.nyc/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.nonlinear.nyc/" rel="alternate" type="text/html" /><updated>2020-07-09T19:19:25-04:00</updated><id>https://www.nonlinear.nyc/feed.xml</id><title type="html">nonlinear</title><subtitle>The anagram of my name is anarchist fool</subtitle><entry><title type="html">Todo</title><link href="https://www.nonlinear.nyc/2020/03/22/TODO.html" rel="alternate" type="text/html" title="Todo" /><published>2020-03-22T00:00:00-04:00</published><updated>2020-03-22T00:00:00-04:00</updated><id>https://www.nonlinear.nyc/2020/03/22/TODO</id><content type="html" xml:base="https://www.nonlinear.nyc/2020/03/22/TODO.html"></content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Jekyll Site</title><link href="https://www.nonlinear.nyc/2020/03/22/jekyll-site.html" rel="alternate" type="text/html" title="Jekyll Site" /><published>2020-03-22T00:00:00-04:00</published><updated>2020-03-22T00:00:00-04:00</updated><id>https://www.nonlinear.nyc/2020/03/22/jekyll-site</id><content type="html" xml:base="https://www.nonlinear.nyc/2020/03/22/jekyll-site.html">&lt;h1 id=&quot;jekyll-site&quot;&gt;jekyll site&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="https://www.nonlinear.nyc/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.nonlinear.nyc/" rel="alternate" type="text/html" /><updated>2020-07-19T17:21:50-04:00</updated><id>https://www.nonlinear.nyc/feed.xml</id><title type="html">nonlinear</title><subtitle>The anagram of my name is anarchist fool</subtitle><entry><title type="html">Todo</title><link href="https://www.nonlinear.nyc/2020/03/22/TODO.html" rel="alternate" type="text/html" title="Todo" /><published>2020-03-22T00:00:00-04:00</published><updated>2020-03-22T00:00:00-04:00</updated><id>https://www.nonlinear.nyc/2020/03/22/TODO</id><content type="html" xml:base="https://www.nonlinear.nyc/2020/03/22/TODO.html"></content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Jekyll Site</title><link href="https://www.nonlinear.nyc/2020/03/22/jekyll-site.html" rel="alternate" type="text/html" title="Jekyll Site" /><published>2020-03-22T00:00:00-04:00</published><updated>2020-03-22T00:00:00-04:00</updated><id>https://www.nonlinear.nyc/2020/03/22/jekyll-site</id><content type="html" xml:base="https://www.nonlinear.nyc/2020/03/22/jekyll-site.html">&lt;h1 id=&quot;jekyll-site&quot;&gt;jekyll site&lt;/h1&gt;
 
 &lt;h3 id=&quot;creating-the-site&quot;&gt;Creating the site&lt;/h3&gt;
 
@@ -653,47 +653,47 @@ python inference.py
       &lt;/tbody&gt;
     &lt;/table&gt;
   &lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><summary type="html">Talks</summary></entry><entry><title type="html">After the crisis</title><link href="https://www.nonlinear.nyc/note/after-crisis/" rel="alternate" type="text/html" title="After the crisis" /><published>2020-01-29T18:03:16-05:00</published><updated>2020-01-29T18:03:16-05:00</updated><id>https://www.nonlinear.nyc/note/after-crisis</id><content type="html" xml:base="https://www.nonlinear.nyc/note/after-crisis/">&lt;p&gt;&lt;a href=&quot;https://www.vice.com/en_us/article/wxekvw/the-world-after-coronavirus-healthcare-labor-climate-internet&quot;&gt;What the World Will Look Like After Coronavirus - VICE&lt;/a&gt;&lt;/p&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">Talks</summary></entry><entry><title type="html">languages</title><link href="https://www.nonlinear.nyc/creative-code/languages/" rel="alternate" type="text/html" title="languages" /><published>2020-01-29T18:03:16-05:00</published><updated>2020-01-29T18:03:16-05:00</updated><id>https://www.nonlinear.nyc/creative-code/languages</id><content type="html" xml:base="https://www.nonlinear.nyc/creative-code/languages/">&lt;script&gt;
+		var data
+			function preload(){
+			data = loadJSON('/assets/data/more/languages.json')
+		}
+function setup() {
+   noCanvas()
+  var language = data.languages
+for (var i = 0; i &lt; language.length; i++) {
+	createElement('h1', language[i].name)
+}
+}
 
-&lt;ul&gt;
-  &lt;li&gt;Free and universal healthcare (“healthcare is a basic human right” -B. Sanders)&lt;/li&gt;
-  &lt;li&gt;Abolish ICE and prisons (“ICE is now a public health hazard”)&lt;/li&gt;
-  &lt;li&gt;Protect and empower labor (“Without these protections, everyone’s safety and health is put at risk”)&lt;/li&gt;
-  &lt;li&gt;A healthier climate (“If the 2008-09 financial crash is any  indicator, carbon could shoot right back up as soon as the crisis is  over”)&lt;/li&gt;
-  &lt;li&gt;Fast, accessible broadband (“Community owned/operated broadband  networks, long demonized and even prohibited by law are looking better  than ever”)&lt;/li&gt;
-  &lt;li&gt;Smash the surveillance state (“This pandemic mustn’t be used to infringe on the civil liberties and privacy of millions”)&lt;/li&gt;
-  &lt;li&gt;Billionaire wealth (“They’re sending people to work while jetting off to luxurious doomsday bunkers, getting Covid-19 tests while normal  people can’t, and also singing ‘Imagine’ from bucolic getaways.”)&lt;/li&gt;
-  &lt;li&gt;Public transit that works (“Congress is poised to prioritize bailing  out airlines and the cruise industry before it takes a look at public  transit”)&lt;/li&gt;
-  &lt;li&gt;The right to repair (“Right-to-repair has become a matter of life and death.”)&lt;/li&gt;
-  &lt;li&gt;Science for the people (“We were caught flat-footed by a fixation on ‘innovation’ and lack of public options”)&lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><summary type="html">What the World Will Look Like After Coronavirus - VICE</summary></entry><entry><title type="html">accelerometer</title><link href="https://www.nonlinear.nyc/processing/accelerometer/" rel="alternate" type="text/html" title="accelerometer" /><published>2020-01-29T18:03:16-05:00</published><updated>2020-01-29T18:03:16-05:00</updated><id>https://www.nonlinear.nyc/processing/accelerometer</id><content type="html" xml:base="https://www.nonlinear.nyc/processing/accelerometer/">&lt;!-- https://stackoverflow.com/questions/56514116/how-do-i-get-deviceorientationevent-and-devicemotionevent-to-work-on-safari --&gt;
-&lt;script type=&quot;text/javascript&quot;&gt;
-    function requestOrientationPermission(){
-        DeviceOrientationEvent.requestPermission()
-        .then(response =&gt; {
-            if (response == 'granted') {
-                window.addEventListener('deviceorientation', (e) =&gt; {
-                    // do something with e
-                })
-            }
-        })
-        .catch(console.error)
-    }
-    function requestMotionPermission(){
-        DeviceMotionEvent.requestPermission()
-        .then(response =&gt; {
-            if (response == 'granted') {
-                window.addEventListener('devicemotion', (e) =&gt; {
-                    // do something with e
-                })
-            }
-        })
-        .catch(console.error)
-    }
-&lt;/script&gt;
+function draw() {
+  background(100)
+}
 
-&lt;div class=&quot;alert&quot;&gt;
-	&lt;p&gt;This experiment uses accelerometer so it needs your permission&lt;/p&gt;
-	&lt;button onclick='requestMotionPermission();'&gt;Request motion&lt;/button&gt;
-&lt;button onclick='requestOrientationPermission();'&gt;Request orientation&lt;/button&gt;
-&lt;/div&gt;</content><author><name></name></author><summary type="html">This experiment uses accelerometer so it needs your permission Request motion Request orientation</summary></entry></feed>
+&lt;/script&gt;</content><author><name></name></author><summary type="html">var data function preload(){ data = loadJSON('/assets/data/more/languages.json') } function setup() { noCanvas() var language = data.languages for (var i = 0; i &lt; language.length; i++) { createElement('h1', language[i].name) } }</summary></entry><entry><title type="html">loop</title><link href="https://www.nonlinear.nyc/creative-code/loop/" rel="alternate" type="text/html" title="loop" /><published>2020-01-29T18:03:16-05:00</published><updated>2020-01-29T18:03:16-05:00</updated><id>https://www.nonlinear.nyc/creative-code/loop</id><content type="html" xml:base="https://www.nonlinear.nyc/creative-code/loop/">&lt;style&gt;    canvas {
+           position:absolute;
+           top:0;
+           left:0;
+           width:100%;
+           height:100%;
+           z-index:-1;
+        }
+        &lt;/style&gt;
+	&lt;script&gt;
+function setup() {
+  createCanvas(windowWidth, windowHeight)
+}
+
+function draw() {
+  background(1,75,100)
+  fill(random(237, 207), random(34, 4), random(93, 63))
+  noStroke()
+  var diameter = 100
+  var range = 20
+
+  for (var i = 0;i &lt;= width / diameter;i = i + 1) {
+  	ellipse(i * diameter, 100, random(diameter, diameter - range), random(diameter, diameter - range))
+  }
+}
+
+&lt;/script&gt;</content><author><name></name></author><summary type="html">function setup() { createCanvas(windowWidth, windowHeight) }</summary></entry></feed>

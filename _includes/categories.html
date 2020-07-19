@@ -39,9 +39,9 @@
 	{% endfor %}
 	{% endif %}
 
-	{% if page.categories contains "processing" %}
+	{% if page.categories contains "creative-code" %}
 	{% for post in site.posts %}
-	{% if post.categories contains "processing" and post.status contains "public" %}
+	{% if post.categories contains "creative-code" and post.status contains "public" %}
 	<a href="{{ post.url }}"><span class="title">{{ post.title }}</span></a>
 	{% endif %}
 	{% endfor %}
