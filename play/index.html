@@ -1,14 +1,14 @@
 ---
-layout: default
+layout: play
 title: home
-categories: creative-code
+categories: play
 ---
 <h1>Creative Code</h1>
 <div class="row grid">
 	<div class="col-sm links">
 		<h3>Initial Stuff</h3>
 		{% for post in site.posts %}
-		{% if post.categories contains 'creative-code' and post.status contains 'public' %}
+		{% if post.categories contains 'play' and post.status contains 'public' %}
 			<a href="{{ post.url }}"  class="post">
 				<p class="title">{{ post.title }}</p>
 				<p class="description">{{ post.description }}</p>

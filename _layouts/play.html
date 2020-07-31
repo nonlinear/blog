@@ -1,0 +1,25 @@
+---
+layout: play
+---
+<html>
+{% include head.html %}
+<body class="play">
+		<div class="menu">
+			<div class="scroll">
+				{% if page.path contains '_posts' %}
+			<h2 class="title">{{ page.title }}</h2>
+<div class="actions">			<a href="#">
+    👁️</a>
+			<a href="#">
+✉️</a></div>
+			{% endif %}
+			{{ content }}
+			
+			</div>
+</div>
+	
+	{% include scripts.html %}
+	{% include p5js.html %}
+</body>
+
+</html>

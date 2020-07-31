@@ -64,7 +64,7 @@ body {
 	.books {
 		@include linear-gradient(90deg, #FFAFBD, #ffc3a0);
 	}
-	.creative-code {
+	.play {
 		@include linear-gradient(320deg, #dae2f8, #d6a4a4);
 	}
 	.external {
@@ -72,17 +72,6 @@ body {
 	}
 }
 
-.creative-code {
-	.container {
-@include opacity(0);
-	@include transition;
-	&:hover {
-		@include opacity(100);
-	}
-
-
-	}
-}
 
 body .backgrounds * {
 	@include opacity(0);
@@ -106,7 +95,7 @@ body.project .backgrounds .project,
 body.note .backgrounds .note,
 body.books .backgrounds .books,
 body.illustrations .backgrounds .illustrations,
-body.creative-code .backgrounds .creative-code,
+body.play .backgrounds .play,
 body.external .backgrounds .external {
 	@include opacity(100);
 }
@@ -407,3 +396,43 @@ display: none;
 }
 }
 
+$menu: 250px;
+$peek: 30px;
+
+.menu { 
+	width: $menu;
+	padding-right: $peek;
+	height: 96vh;
+	@include transition;
+	position: absolute;
+	top: 0;
+	left: ($menu - $peek) * -1;
+		@include opacity(0);
+	box-sizing: border-box;
+
+	margin: 2vh 0;
+		&:hover, &:focus, &:focus-within {
+		left: 0;
+		@include opacity(100);
+	}
+	.title {
+		margin: 0;
+		padding:0;
+	}
+	.actions {
+	a {
+			background: none;
+		font-size: 20px;
+	}
+	}
+	.scroll {
+		overflow: auto;
+		padding: 20px;
+			background-color: white;
+				@include radius(0, 10px, 10px, 0, irregular);
+	@include shadow(box, 5px 0 0px rgba(0, 0, 0, 0.1));
+	box-sizing: border-box;
+		height: 96vh;
+
+}
+ }
