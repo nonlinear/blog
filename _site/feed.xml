@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="https://www.nonlinear.nyc/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.nonlinear.nyc/" rel="alternate" type="text/html" /><updated>2020-07-31T20:01:42-04:00</updated><id>https://www.nonlinear.nyc/feed.xml</id><title type="html">nonlinear</title><subtitle>The anagram of my name is anarchist fool</subtitle><entry><title type="html">accelerometer</title><link href="https://www.nonlinear.nyc/play/accelerometer/" rel="alternate" type="text/html" title="accelerometer" /><published>2020-03-24T00:00:00-04:00</published><updated>2020-03-24T00:00:00-04:00</updated><id>https://www.nonlinear.nyc/play/accelerometer</id><content type="html" xml:base="https://www.nonlinear.nyc/play/accelerometer/">&lt;!-- https://stackoverflow.com/questions/56514116/how-do-i-get-deviceorientationevent-and-devicemotionevent-to-work-on-safari --&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="https://www.nonlinear.nyc/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.nonlinear.nyc/" rel="alternate" type="text/html" /><updated>2020-07-31T20:10:25-04:00</updated><id>https://www.nonlinear.nyc/feed.xml</id><title type="html">nonlinear</title><subtitle>The anagram of my name is anarchist fool</subtitle><entry><title type="html">accelerometer</title><link href="https://www.nonlinear.nyc/play/accelerometer/" rel="alternate" type="text/html" title="accelerometer" /><published>2020-03-24T00:00:00-04:00</published><updated>2020-03-24T00:00:00-04:00</updated><id>https://www.nonlinear.nyc/play/accelerometer</id><content type="html" xml:base="https://www.nonlinear.nyc/play/accelerometer/">&lt;!-- https://stackoverflow.com/questions/56514116/how-do-i-get-deviceorientationevent-and-devicemotionevent-to-work-on-safari --&gt;
 &lt;script type=&quot;text/javascript&quot;&gt;
     function requestOrientationPermission(){
         DeviceOrientationEvent.requestPermission()
@@ -267,10 +267,7 @@ From &lt;a href=&quot;https://codepen.io/p5art/pen/XKWyob&quot;&gt;this codepen&
 		initStuff();
 	}
 
-	&lt;/script&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">stars</title><link href="https://www.nonlinear.nyc/play/stars/" rel="alternate" type="text/html" title="stars" /><published>2020-03-24T00:00:00-04:00</published><updated>2020-03-24T00:00:00-04:00</updated><id>https://www.nonlinear.nyc/play/stars</id><content type="html" xml:base="https://www.nonlinear.nyc/play/stars/">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Totam libero culpa placeat nisi doloribus distinctio impedit quia, quisquam! Adipisci, dolores!&lt;/p&gt;
-
-
-&lt;style&gt;    canvas {
+	&lt;/script&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">stars</title><link href="https://www.nonlinear.nyc/play/stars/" rel="alternate" type="text/html" title="stars" /><published>2020-03-24T00:00:00-04:00</published><updated>2020-03-24T00:00:00-04:00</updated><id>https://www.nonlinear.nyc/play/stars</id><content type="html" xml:base="https://www.nonlinear.nyc/play/stars/">&lt;style&gt;    canvas {
            position:absolute;
            top:0;
            left:0;
@@ -279,7 +276,7 @@ From &lt;a href=&quot;https://codepen.io/p5art/pen/XKWyob&quot;&gt;this codepen&
            z-index:-1;
         }
         &lt;/style&gt;
-	&lt;script&gt;
+&lt;script&gt;
 	function star(left, top, size, range) {
 			push()
 			stroke(random(0, 100))
@@ -293,39 +290,38 @@ From &lt;a href=&quot;https://codepen.io/p5art/pen/XKWyob&quot;&gt;this codepen&
 			pop()
 		}
     &lt;/script&gt;
-	&lt;script&gt;
-		function setup() {
-			createCanvas(windowWidth, windowHeight)
-			console.log('The faculty of 5 is 1*2*3*4*5 = ' + faculty(5))
+&lt;script&gt;
+	function setup() {
+		createCanvas(windowWidth, windowHeight)
+		console.log('The faculty of 5 is 1*2*3*4*5 = ' + faculty(5))
+	}
+	function faculty(theValue) {
+		var result = 1
+		for (var i = 1; i &lt;= theValue; i++) {
+			result = result * i
 		}
-		function faculty(theValue) {
-			var result = 1
-			for (var i = 1; i &lt;= theValue; i++) {
-				result = result * i
-			}
-			return result
-		}
+		return result
+	}
 
-		function draw() {
-			background(125)
-			ellipse(50, 50, 50, 50)
-			push()
-			star(30, 20, 10, 3)
-			star(50, 40, 15, 3)
-			star(40, 70, 12, 3)
-			translate(100, 60)
-			star(30, 20, 10, 3)
-			star(50, 40, 8, 3)
-			star(40, 70, 7, 3)
-			translate(20, -60)
-			star(30, 20, 15, 3)
-			star(50, 40, 10, 3)
-			star(40, 70, 12, 3)
-			pop()
-		}
-
-
-	&lt;/script&gt;</content><author><name></name></author><summary type="html">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Totam libero culpa placeat nisi doloribus distinctio impedit quia, quisquam! Adipisci, dolores!</summary></entry><entry><title type="html">lynda</title><link href="https://www.nonlinear.nyc/play/lynda/" rel="alternate" type="text/html" title="lynda" /><published>2020-03-24T00:00:00-04:00</published><updated>2020-03-24T00:00:00-04:00</updated><id>https://www.nonlinear.nyc/play/lynda</id><content type="html" xml:base="https://www.nonlinear.nyc/play/lynda/">&lt;style&gt;    canvas {
+	function draw() {
+		background(125)
+		ellipse(50, 50, 50, 50)
+		push()
+		star(30, 20, 10, 3)
+		star(50, 40, 15, 3)
+		star(40, 70, 12, 3)
+		translate(100, 60)
+		star(30, 20, 10, 3)
+		star(50, 40, 8, 3)
+		star(40, 70, 7, 3)
+		translate(20, -60)
+		star(30, 20, 15, 3)
+		star(50, 40, 10, 3)
+		star(40, 70, 12, 3)
+		pop()
+	}
+&lt;/script&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Totam libero culpa placeat nisi doloribus distinctio impedit quia, quisquam! Adipisci, dolores!&lt;/p&gt;</content><author><name></name></author><summary type="html">function setup() { createCanvas(windowWidth, windowHeight) console.log('The faculty of 5 is 1*2*3*4*5 = ' + faculty(5)) } function faculty(theValue) { var result = 1 for (var i = 1; i &lt;= theValue; i++) { result = result * i } return result }</summary></entry><entry><title type="html">lynda</title><link href="https://www.nonlinear.nyc/play/lynda/" rel="alternate" type="text/html" title="lynda" /><published>2020-03-24T00:00:00-04:00</published><updated>2020-03-24T00:00:00-04:00</updated><id>https://www.nonlinear.nyc/play/lynda</id><content type="html" xml:base="https://www.nonlinear.nyc/play/lynda/">&lt;style&gt;    canvas {
            position:absolute;
            top:0;
            left:0;
