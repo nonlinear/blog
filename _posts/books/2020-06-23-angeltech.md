@@ -19,7 +19,7 @@ Read in Play Books around September 2014
 [Review](https://users.aalto.fi/~saarit2/deoxy/review_angeltech.htm)
 
 
- the principle of Consciousness itself, which, like the god Hermes. . .travels between worlds without becoming residential to any of them.
+- the principle of Consciousness itself, which, like the god Hermes. . .travels between worlds without becoming residential to any of them.
 	- September 25, 2014
 - Angel Tech was constructed much like a can-opener. What it describes is secondary to what it opens up as it reads
 	- September 25, 2014

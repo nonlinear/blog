@@ -8,7 +8,7 @@ description: by Greg Egan
 date: 2020-01-29 18:03:16 -0500
 permalink: /:categories/:slug/
 ---
-![book](/assets/images/books/SchildsLadder.jpg)
+![book](/assets/images/books/{{ page.slug }}.jpg)
 
 Read in Play Books around May 2016
 

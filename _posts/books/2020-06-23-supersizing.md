@@ -8,8 +8,7 @@ description: by Andy Clark
 date: 2020-01-29 18:03:16 -0500
 permalink: /:categories/:slug/
 ---
-
-![book](/assets/images/books/supersizing.jpg)
+![book](/assets/images/books/{{ page.slug }}.jpg)
 
 Supersizing the Mind: Embodiment, Action, and Cognitive Extension
 

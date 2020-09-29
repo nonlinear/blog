@@ -1,26 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="https://www.nonlinear.nyc/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.nonlinear.nyc/" rel="alternate" type="text/html" /><updated>2020-08-14T10:50:31-04:00</updated><id>https://www.nonlinear.nyc/feed.xml</id><title type="html">nonlinear</title><subtitle>The anagram of my name is anarchist fool</subtitle><entry><title type="html">Todo</title><link href="https://www.nonlinear.nyc/2020/03/22/TODO.html" rel="alternate" type="text/html" title="Todo" /><published>2020-03-22T00:00:00-04:00</published><updated>2020-03-22T00:00:00-04:00</updated><id>https://www.nonlinear.nyc/2020/03/22/TODO</id><content type="html" xml:base="https://www.nonlinear.nyc/2020/03/22/TODO.html"></content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Jekyll Site</title><link href="https://www.nonlinear.nyc/2020/03/22/jekyll-site.html" rel="alternate" type="text/html" title="Jekyll Site" /><published>2020-03-22T00:00:00-04:00</published><updated>2020-03-22T00:00:00-04:00</updated><id>https://www.nonlinear.nyc/2020/03/22/jekyll-site</id><content type="html" xml:base="https://www.nonlinear.nyc/2020/03/22/jekyll-site.html">&lt;h1 id=&quot;jekyll-site&quot;&gt;jekyll site&lt;/h1&gt;
-
-&lt;h3 id=&quot;creating-the-site&quot;&gt;Creating the site&lt;/h3&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;jekyll new site`&lt;/li&gt;
-  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;cd site&lt;/code&gt;&lt;/li&gt;
-  &lt;li&gt;make new repository, named &lt;code class=&quot;highlighter-rouge&quot;&gt;[username].github.io&lt;/code&gt; (this weird name is to allow changes)&lt;/li&gt;
-  &lt;li&gt;link repo with &lt;code class=&quot;highlighter-rouge&quot;&gt;site/&lt;/code&gt; folder&lt;/li&gt;
-  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;bundle exec jekyll serve&lt;/code&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h3 id=&quot;adding-bootstrap&quot;&gt;Adding bootstrap&lt;/h3&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;install dependencies &lt;code class=&quot;highlighter-rouge&quot;&gt;npm install popper.js bootstrap jquery wowjs animatewithsass --save&lt;/code&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h3 id=&quot;adding-animatewithsass&quot;&gt;Adding animatewithsass&lt;/h3&gt;
-
-&lt;p&gt;Add wowjs&lt;/p&gt;
-
-&lt;p&gt;Themes&lt;/p&gt;</content><author><name></name></author><summary type="html">jekyll site</summary></entry><entry><title type="html">Janeraka</title><link href="https://www.nonlinear.nyc/2020/03/22/janeraka.html" rel="alternate" type="text/html" title="Janeraka" /><published>2020-03-22T00:00:00-04:00</published><updated>2020-03-22T00:00:00-04:00</updated><id>https://www.nonlinear.nyc/2020/03/22/janeraka</id><content type="html" xml:base="https://www.nonlinear.nyc/2020/03/22/janeraka.html">&lt;h1 id=&quot;janeraka&quot;&gt;Janeraka&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-09-29T10:53:11-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">nonlinear</title><subtitle>The anagram of my name is anarchist fool</subtitle><entry><title type="html">Todo</title><link href="http://localhost:4000/2020/03/22/TODO.html" rel="alternate" type="text/html" title="Todo" /><published>2020-03-22T00:00:00-04:00</published><updated>2020-03-22T00:00:00-04:00</updated><id>http://localhost:4000/2020/03/22/TODO</id><content type="html" xml:base="http://localhost:4000/2020/03/22/TODO.html"></content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Janeraka</title><link href="http://localhost:4000/2020/03/22/janeraka.html" rel="alternate" type="text/html" title="Janeraka" /><published>2020-03-22T00:00:00-04:00</published><updated>2020-03-22T00:00:00-04:00</updated><id>http://localhost:4000/2020/03/22/janeraka</id><content type="html" xml:base="http://localhost:4000/2020/03/22/janeraka.html">&lt;h1 id=&quot;janeraka&quot;&gt;Janeraka&lt;/h1&gt;
 
 &lt;ul&gt;
   &lt;li&gt;pra comecar
@@ -39,7 +17,7 @@
       &lt;li&gt;fase 2 é traducao. precisamos fechar o conteudo inicial&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><summary type="html">Janeraka</summary></entry><entry><title type="html">Frontend</title><link href="https://www.nonlinear.nyc/2020/03/22/frontend.html" rel="alternate" type="text/html" title="Frontend" /><published>2020-03-22T00:00:00-04:00</published><updated>2020-03-22T00:00:00-04:00</updated><id>https://www.nonlinear.nyc/2020/03/22/frontend</id><content type="html" xml:base="https://www.nonlinear.nyc/2020/03/22/frontend.html">&lt;h2 id=&quot;front-end-and-design-system&quot;&gt;Front End and Design System&lt;/h2&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">Janeraka</summary></entry><entry><title type="html">Frontend</title><link href="http://localhost:4000/2020/03/22/frontend.html" rel="alternate" type="text/html" title="Frontend" /><published>2020-03-22T00:00:00-04:00</published><updated>2020-03-22T00:00:00-04:00</updated><id>http://localhost:4000/2020/03/22/frontend</id><content type="html" xml:base="http://localhost:4000/2020/03/22/frontend.html">&lt;h2 id=&quot;front-end-and-design-system&quot;&gt;Front End and Design System&lt;/h2&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;/li&gt;
@@ -126,7 +104,7 @@
 &lt;p&gt;Instead of redesigning whole pages we can start from redesigning small UI pieces like buttons, checkboxes, inputs, pop-ups, smaller widgets, breadcrumbs and so on and move these small changes to production.
  ( That’s similar to what some people call Atomic Design - http://bradfrost.com/blog/post/atomic-web-design/ )&lt;/p&gt;
 
-&lt;p&gt;Such changes can be implemented separately. They are small and unlikely to break anything. And every single one of them makes a project slightly better. Accumulative effect of several small but well thought-out changes can give a significant improvement to the overall user experience…&lt;/p&gt;</content><author><name></name></author><summary type="html">Front End and Design System</summary></entry><entry><title type="html">User Interviews</title><link href="https://www.nonlinear.nyc/2020/03/22/User-Interviews.html" rel="alternate" type="text/html" title="User Interviews" /><published>2020-03-22T00:00:00-04:00</published><updated>2020-03-22T00:00:00-04:00</updated><id>https://www.nonlinear.nyc/2020/03/22/User-Interviews</id><content type="html" xml:base="https://www.nonlinear.nyc/2020/03/22/User-Interviews.html">&lt;h1 id=&quot;user-interviews&quot;&gt;User Interviews&lt;/h1&gt;
+&lt;p&gt;Such changes can be implemented separately. They are small and unlikely to break anything. And every single one of them makes a project slightly better. Accumulative effect of several small but well thought-out changes can give a significant improvement to the overall user experience…&lt;/p&gt;</content><author><name></name></author><summary type="html">Front End and Design System</summary></entry><entry><title type="html">User Interviews</title><link href="http://localhost:4000/2020/03/22/User-Interviews.html" rel="alternate" type="text/html" title="User Interviews" /><published>2020-03-22T00:00:00-04:00</published><updated>2020-03-22T00:00:00-04:00</updated><id>http://localhost:4000/2020/03/22/User-Interviews</id><content type="html" xml:base="http://localhost:4000/2020/03/22/User-Interviews.html">&lt;h1 id=&quot;user-interviews&quot;&gt;User Interviews&lt;/h1&gt;
 
 &lt;h3 id=&quot;josh-nelson&quot;&gt;Josh Nelson&lt;/h3&gt;
 
@@ -193,7 +171,7 @@
   &lt;li&gt;Confetti page, survey more defined&lt;/li&gt;
   &lt;li&gt;Keywords, focus on NUMBER of keywords (or optional)&lt;/li&gt;
   &lt;li&gt;item with border on hover only, with side bar&lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><summary type="html">User Interviews</summary></entry><entry><title type="html">Talks</title><link href="https://www.nonlinear.nyc/2020/03/22/talks.html" rel="alternate" type="text/html" title="Talks" /><published>2020-03-22T00:00:00-04:00</published><updated>2020-03-22T00:00:00-04:00</updated><id>https://www.nonlinear.nyc/2020/03/22/talks</id><content type="html" xml:base="https://www.nonlinear.nyc/2020/03/22/talks.html">&lt;h1 id=&quot;talks&quot;&gt;Talks&lt;/h1&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">User Interviews</summary></entry><entry><title type="html">Talks</title><link href="http://localhost:4000/2020/03/22/talks.html" rel="alternate" type="text/html" title="Talks" /><published>2020-03-22T00:00:00-04:00</published><updated>2020-03-22T00:00:00-04:00</updated><id>http://localhost:4000/2020/03/22/talks</id><content type="html" xml:base="http://localhost:4000/2020/03/22/talks.html">&lt;h1 id=&quot;talks&quot;&gt;Talks&lt;/h1&gt;
 
 &lt;h2 id=&quot;coming-up-in-ux-in-2020&quot;&gt;&lt;a href=&quot;https://www.meetup.com/uxcomeup/events/267875388/&quot;&gt;Coming Up in UX in 2020&lt;/a&gt;&lt;/h2&gt;
 
@@ -388,7 +366,94 @@ python inference.py
       &lt;/tbody&gt;
     &lt;/table&gt;
   &lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><summary type="html">Talks</summary></entry><entry><title type="html">Other Publisher Workflows</title><link href="https://www.nonlinear.nyc/2020/03/22/Other-Publisher-Workflows.html" rel="alternate" type="text/html" title="Other Publisher Workflows" /><published>2020-03-22T00:00:00-04:00</published><updated>2020-03-22T00:00:00-04:00</updated><id>https://www.nonlinear.nyc/2020/03/22/Other-Publisher-Workflows</id><content type="html" xml:base="https://www.nonlinear.nyc/2020/03/22/Other-Publisher-Workflows.html">&lt;h1 id=&quot;other-publisher-workflows&quot;&gt;Other Publisher Workflows&lt;/h1&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">Talks</summary></entry><entry><title type="html">P5*js</title><link href="http://localhost:4000/2020/03/22/p5-js.html" rel="alternate" type="text/html" title="P5*js" /><published>2020-03-22T00:00:00-04:00</published><updated>2020-03-22T00:00:00-04:00</updated><id>http://localhost:4000/2020/03/22/p5*js</id><content type="html" xml:base="http://localhost:4000/2020/03/22/p5-js.html">&lt;h1 id=&quot;videos&quot;&gt;Videos&lt;/h1&gt;
+
+&lt;hr /&gt;
+&lt;h2 id=&quot;how-i-learn&quot;&gt;How I Learn&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Set timer (5 min)&lt;/li&gt;
+  &lt;li&gt;How do I feel&lt;/li&gt;
+  &lt;li&gt;How do I learn&lt;/li&gt;
+  &lt;li&gt;Demo:
+    &lt;ul&gt;
+      &lt;li&gt;
+        &lt;h2 id=&quot;processing-night-is-now-a-weekly-online-talk&quot;&gt;&lt;a href=&quot;https://praxis.nyc/processing&quot;&gt;Processing Night&lt;/a&gt; is now a weekly online talk&lt;/h2&gt;
+        &lt;h2 id=&quot;kinetic-typography&quot;&gt;Kinetic Typography&lt;/h2&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Set Timer (10 min?)&lt;/li&gt;
+  &lt;li&gt;How do I feel? (context)&lt;/li&gt;
+  &lt;li&gt;What did I do? (brief)&lt;/li&gt;
+  &lt;li&gt;Demo&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Tim Rodenbröker: Kinetic Typography (&lt;a href=&quot;https://timrodenbroeker.de/processing-tutorial-kinetic-typography-1/&quot;&gt;article&lt;/a&gt;, &lt;a href=&quot;https://www.youtube.com/watch?v=SKDhkB8g1So&amp;amp;feature=youtu.be&quot;&gt;video&lt;/a&gt;)&lt;/li&gt;
+  &lt;li&gt;Results (&lt;a href=&quot;https://github.com/nonlinear/processing-night/tree/master/kinetic_typography&quot;&gt;github&lt;/a&gt;)
+    &lt;ol&gt;
+      &lt;li&gt;Possibilities&lt;/li&gt;
+      &lt;li&gt;Things I learned
+        &lt;ol&gt;
+          &lt;li&gt;When working on Pgraphics element, make sure to define a renderer.&lt;/li&gt;
+          &lt;li&gt;Sine function&lt;/li&gt;
+          &lt;li&gt;random function&lt;/li&gt;
+          &lt;li&gt;translate, rotate, skew move everything BELOW code. Push/pop wraps it like a parenthesis. (&lt;a href=&quot;https://youtu.be/OaBSHuP4xcE&quot;&gt;video tutorial&lt;/a&gt;)&lt;/li&gt;
+        &lt;/ol&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Tools that helped
+        &lt;ol&gt;
+          &lt;li&gt;Sublimerge (to diff between your code  and tutotial one, and identify typos)&lt;/li&gt;
+          &lt;li&gt;new snippets: push, pop, matrix, rotate, createFont and all text related, beginDraw, endDraw&lt;/li&gt;
+        &lt;/ol&gt;
+      &lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;json&quot;&gt;Json&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Set Timer (5 min)&lt;/li&gt;
+  &lt;li&gt;How do I feel? (context)&lt;/li&gt;
+  &lt;li&gt;What did I do? (brief)&lt;/li&gt;
+  &lt;li&gt;Demo
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;http://www.nonlinear.nyc/processing-night/json.html&quot;&gt;json loop&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://github.com/praxisnyc/sample-data#sample-data&quot;&gt;sample-data&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;TIL
+    &lt;ol&gt;
+      &lt;li&gt;JSON can only point to URL, not local&lt;/li&gt;
+      &lt;li&gt;I gotta make &lt;code class=&quot;highlighter-rouge&quot;&gt;random()&lt;/code&gt; work&lt;/li&gt;
+      &lt;li&gt;variables can be outside &lt;code class=&quot;highlighter-rouge&quot;&gt;function&lt;/code&gt; (cleaner)&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;operators&quot;&gt;Operators&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;+&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;-&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;*&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;/&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;%&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;converted: &lt;code class=&quot;highlighter-rouge&quot;&gt;map()&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;round()&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;random()&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;cos()&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;stars&quot;&gt;Stars&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;learn if/else&lt;/li&gt;
+  &lt;li&gt;learn how to bring an external file INSIDE p5js&lt;/li&gt;
+  &lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">Videos</summary></entry><entry><title type="html">Other Publisher Workflows</title><link href="http://localhost:4000/2020/03/22/Other-Publisher-Workflows.html" rel="alternate" type="text/html" title="Other Publisher Workflows" /><published>2020-03-22T00:00:00-04:00</published><updated>2020-03-22T00:00:00-04:00</updated><id>http://localhost:4000/2020/03/22/Other-Publisher-Workflows</id><content type="html" xml:base="http://localhost:4000/2020/03/22/Other-Publisher-Workflows.html">&lt;h1 id=&quot;other-publisher-workflows&quot;&gt;Other Publisher Workflows&lt;/h1&gt;
 
 &lt;p&gt;Hi everyone,&lt;/p&gt;
 
@@ -566,94 +631,98 @@ python inference.py
 
 &lt;p&gt;What  I’m reading from a lot of these is that institutions are independently  verifying eligibility of articles before the article gets published. I  can only guess that in that model with something like OUP, they are getting a lot of authors who claim affiliation but  don’t qualify, and the institution needs to review before it gets  covered and published. This seems like it could really slow the  publishing process down (waiting on institutions) and require a lot of back-tracking for authors who mistakenly (or intentionally)  claim eligibility when they are not eligible. On the other hand, I bet  they don’t get a lot of authors who are mistakenly paying for their own  APCs. Pros and Cons.&lt;/p&gt;
 
-&lt;p&gt;Danielle&lt;/p&gt;</content><author><name></name></author><summary type="html">Other Publisher Workflows</summary></entry><entry><title type="html">P5*js</title><link href="https://www.nonlinear.nyc/2020/03/22/p5-js.html" rel="alternate" type="text/html" title="P5*js" /><published>2020-03-22T00:00:00-04:00</published><updated>2020-03-22T00:00:00-04:00</updated><id>https://www.nonlinear.nyc/2020/03/22/p5*js</id><content type="html" xml:base="https://www.nonlinear.nyc/2020/03/22/p5-js.html">&lt;h1 id=&quot;videos&quot;&gt;Videos&lt;/h1&gt;
+&lt;p&gt;Danielle&lt;/p&gt;</content><author><name></name></author><summary type="html">Other Publisher Workflows</summary></entry><entry><title type="html">Jekyll Site</title><link href="http://localhost:4000/2020/03/22/jekyll-site.html" rel="alternate" type="text/html" title="Jekyll Site" /><published>2020-03-22T00:00:00-04:00</published><updated>2020-03-22T00:00:00-04:00</updated><id>http://localhost:4000/2020/03/22/jekyll-site</id><content type="html" xml:base="http://localhost:4000/2020/03/22/jekyll-site.html">&lt;h1 id=&quot;jekyll-site&quot;&gt;jekyll site&lt;/h1&gt;
 
-&lt;hr /&gt;
-&lt;h2 id=&quot;how-i-learn&quot;&gt;How I Learn&lt;/h2&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Set timer (5 min)&lt;/li&gt;
-  &lt;li&gt;How do I feel&lt;/li&gt;
-  &lt;li&gt;How do I learn&lt;/li&gt;
-  &lt;li&gt;Demo:
-    &lt;ul&gt;
-      &lt;li&gt;
-        &lt;h2 id=&quot;processing-night-is-now-a-weekly-online-talk&quot;&gt;&lt;a href=&quot;https://praxis.nyc/processing&quot;&gt;Processing Night&lt;/a&gt; is now a weekly online talk&lt;/h2&gt;
-        &lt;h2 id=&quot;kinetic-typography&quot;&gt;Kinetic Typography&lt;/h2&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Set Timer (10 min?)&lt;/li&gt;
-  &lt;li&gt;How do I feel? (context)&lt;/li&gt;
-  &lt;li&gt;What did I do? (brief)&lt;/li&gt;
-  &lt;li&gt;Demo&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Tim Rodenbröker: Kinetic Typography (&lt;a href=&quot;https://timrodenbroeker.de/processing-tutorial-kinetic-typography-1/&quot;&gt;article&lt;/a&gt;, &lt;a href=&quot;https://www.youtube.com/watch?v=SKDhkB8g1So&amp;amp;feature=youtu.be&quot;&gt;video&lt;/a&gt;)&lt;/li&gt;
-  &lt;li&gt;Results (&lt;a href=&quot;https://github.com/nonlinear/processing-night/tree/master/kinetic_typography&quot;&gt;github&lt;/a&gt;)
-    &lt;ol&gt;
-      &lt;li&gt;Possibilities&lt;/li&gt;
-      &lt;li&gt;Things I learned
-        &lt;ol&gt;
-          &lt;li&gt;When working on Pgraphics element, make sure to define a renderer.&lt;/li&gt;
-          &lt;li&gt;Sine function&lt;/li&gt;
-          &lt;li&gt;random function&lt;/li&gt;
-          &lt;li&gt;translate, rotate, skew move everything BELOW code. Push/pop wraps it like a parenthesis. (&lt;a href=&quot;https://youtu.be/OaBSHuP4xcE&quot;&gt;video tutorial&lt;/a&gt;)&lt;/li&gt;
-        &lt;/ol&gt;
-      &lt;/li&gt;
-      &lt;li&gt;Tools that helped
-        &lt;ol&gt;
-          &lt;li&gt;Sublimerge (to diff between your code  and tutotial one, and identify typos)&lt;/li&gt;
-          &lt;li&gt;new snippets: push, pop, matrix, rotate, createFont and all text related, beginDraw, endDraw&lt;/li&gt;
-        &lt;/ol&gt;
-      &lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;json&quot;&gt;Json&lt;/h2&gt;
+&lt;h3 id=&quot;creating-the-site&quot;&gt;Creating the site&lt;/h3&gt;
 
 &lt;ol&gt;
-  &lt;li&gt;Set Timer (5 min)&lt;/li&gt;
-  &lt;li&gt;How do I feel? (context)&lt;/li&gt;
-  &lt;li&gt;What did I do? (brief)&lt;/li&gt;
-  &lt;li&gt;Demo
-    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;http://www.nonlinear.nyc/processing-night/json.html&quot;&gt;json loop&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://github.com/praxisnyc/sample-data#sample-data&quot;&gt;sample-data&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;TIL
-    &lt;ol&gt;
-      &lt;li&gt;JSON can only point to URL, not local&lt;/li&gt;
-      &lt;li&gt;I gotta make &lt;code class=&quot;highlighter-rouge&quot;&gt;random()&lt;/code&gt; work&lt;/li&gt;
-      &lt;li&gt;variables can be outside &lt;code class=&quot;highlighter-rouge&quot;&gt;function&lt;/code&gt; (cleaner)&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
+  &lt;li&gt;jekyll new site`&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;cd site&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;make new repository, named &lt;code class=&quot;highlighter-rouge&quot;&gt;[username].github.io&lt;/code&gt; (this weird name is to allow changes)&lt;/li&gt;
+  &lt;li&gt;link repo with &lt;code class=&quot;highlighter-rouge&quot;&gt;site/&lt;/code&gt; folder&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;bundle exec jekyll serve&lt;/code&gt;&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;hr /&gt;
+&lt;h3 id=&quot;adding-bootstrap&quot;&gt;Adding bootstrap&lt;/h3&gt;
 
-&lt;h3 id=&quot;operators&quot;&gt;Operators&lt;/h3&gt;
+&lt;ol&gt;
+  &lt;li&gt;install dependencies &lt;code class=&quot;highlighter-rouge&quot;&gt;npm install popper.js bootstrap jquery wowjs animatewithsass --save&lt;/code&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;adding-animatewithsass&quot;&gt;Adding animatewithsass&lt;/h3&gt;
+
+&lt;p&gt;Add wowjs&lt;/p&gt;
+
+&lt;p&gt;Themes&lt;/p&gt;</content><author><name></name></author><summary type="html">jekyll site</summary></entry><entry><title type="html">Calibre PDF Conversion</title><link href="http://localhost:4000/note/calibre/" rel="alternate" type="text/html" title="Calibre PDF Conversion" /><published>2020-01-29T18:03:16-05:00</published><updated>2020-01-29T18:03:16-05:00</updated><id>http://localhost:4000/note/Calibre</id><content type="html" xml:base="http://localhost:4000/note/calibre/">&lt;p&gt;permalink: /:categories/:slug/&lt;/p&gt;
+
+&lt;h2 id=&quot;instructions&quot;&gt;Instructions&lt;/h2&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;+&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;-&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;*&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;/&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;%&lt;/code&gt;&lt;/li&gt;
-  &lt;li&gt;converted: &lt;code class=&quot;highlighter-rouge&quot;&gt;map()&lt;/code&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;round()&lt;/code&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;random()&lt;/code&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;cos()&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;Convert Book&lt;/li&gt;
+  &lt;li&gt;Univers-Light-Normal 120%&lt;/li&gt;
+  &lt;li&gt;Text Left Align&lt;/li&gt;
+  &lt;li&gt;Layout 1 em&lt;/li&gt;
+  &lt;li&gt;pdf output A5&lt;/li&gt;
+  &lt;li&gt;header template&lt;/li&gt;
+  &lt;li&gt;check page total, change header and run again&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&quot;stars&quot;&gt;Stars&lt;/h3&gt;
+&lt;h2 id=&quot;title-and-author-template&quot;&gt;Title and Author template&lt;/h2&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;learn if/else&lt;/li&gt;
-  &lt;li&gt;learn how to bring an external file INSIDE p5js&lt;/li&gt;
-  &lt;li&gt;&lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><summary type="html">Videos</summary></entry><entry><title type="html">After the crisis</title><link href="https://www.nonlinear.nyc/note/after-crisis/" rel="alternate" type="text/html" title="After the crisis" /><published>2020-01-29T18:03:16-05:00</published><updated>2020-01-29T18:03:16-05:00</updated><id>https://www.nonlinear.nyc/note/after-crisis</id><content type="html" xml:base="https://www.nonlinear.nyc/note/after-crisis/">&lt;p&gt;&lt;a href=&quot;https://www.vice.com/en_us/article/wxekvw/the-world-after-coronavirus-healthcare-labor-climate-internet&quot;&gt;What the World Will Look Like After Coronavirus - VICE&lt;/a&gt;&lt;/p&gt;
+&lt;div style=&quot;border-radius: 0 0 5px 5px;
+      background-color: #000;
+      color: white;
+      padding: 10px;&quot;&gt;
+    &lt;div style=&quot;display: grid; grid-template-columns: 1fr 1fr; grid-gap: 30px; font-size: 80%&quot;&gt;
+      &lt;p style=&quot;text-align: left&quot;&gt;
+        _TITLE_
+      &lt;/p&gt;
+      &lt;p style=&quot;text-align: right&quot;&gt;
+        _AUTHOR_
+      &lt;/p&gt;
+    &lt;/div&gt;
+   &lt;div style=&quot;display: grid; grid-template-columns: calc((_PAGENUM_ * 100)/1173)% 1fr; grid-gap: 0; height: 3px&quot;&gt;
+     &lt;p style=&quot;
+      background-color: white;&quot;&gt;&lt;/p&gt;
+     &lt;p style=&quot;
+      background-color: black;&quot;&gt;&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;blockquote&gt;
+
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;title-only-template&quot;&gt;Title-only template&lt;/h2&gt;
+
+&lt;div class=&quot;language-html highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;div&lt;/span&gt;
+  &lt;span class=&quot;na&quot;&gt;style=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;text-align: center;
+    border-radius: 0 0 5px 5px;
+    background-color: #000;
+    color: white;
+    padding: 10px;&quot;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
+  &lt;span class=&quot;nt&quot;&gt;&amp;lt;div&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;style=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;height: 30px;&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
+    &lt;span class=&quot;nt&quot;&gt;&amp;lt;p&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;style=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot; margin: 0; font-size: 80%; text-align: center&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
+      _TITLE_
+    &lt;span class=&quot;nt&quot;&gt;&amp;lt;/p&amp;gt;&lt;/span&gt;
+
+  &lt;span class=&quot;nt&quot;&gt;&amp;lt;/div&amp;gt;&lt;/span&gt;
+  &lt;span class=&quot;nt&quot;&gt;&amp;lt;div&lt;/span&gt;
+    &lt;span class=&quot;na&quot;&gt;style=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;   width: 100%;
+    display: block;
+    height: 3px;
+    background-color: black;&quot;&lt;/span&gt;
+  &lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
+    &lt;span class=&quot;nt&quot;&gt;&amp;lt;div&lt;/span&gt;
+      &lt;span class=&quot;na&quot;&gt;style=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;      width: calc((_PAGENUM_ * 100%)/1173);
+    background-color: white;
+    display: block;
+    height: 3px;&quot;&lt;/span&gt;
+    &lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;/div&amp;gt;&lt;/span&gt;
+  &lt;span class=&quot;nt&quot;&gt;&amp;lt;/div&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;/div&amp;gt;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name></name></author><summary type="html">permalink: /:categories/:slug/</summary></entry><entry><title type="html">After the crisis</title><link href="http://localhost:4000/note/after-crisis/" rel="alternate" type="text/html" title="After the crisis" /><published>2020-01-29T18:03:16-05:00</published><updated>2020-01-29T18:03:16-05:00</updated><id>http://localhost:4000/note/after-crisis</id><content type="html" xml:base="http://localhost:4000/note/after-crisis/">&lt;p&gt;&lt;a href=&quot;https://www.vice.com/en_us/article/wxekvw/the-world-after-coronavirus-healthcare-labor-climate-internet&quot;&gt;What the World Will Look Like After Coronavirus - VICE&lt;/a&gt;&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Free and universal healthcare (“healthcare is a basic human right” -B. Sanders)&lt;/li&gt;
@@ -666,73 +735,4 @@ python inference.py
   &lt;li&gt;Public transit that works (“Congress is poised to prioritize bailing  out airlines and the cruise industry before it takes a look at public  transit”)&lt;/li&gt;
   &lt;li&gt;The right to repair (“Right-to-repair has become a matter of life and death.”)&lt;/li&gt;
   &lt;li&gt;Science for the people (“We were caught flat-footed by a fixation on ‘innovation’ and lack of public options”)&lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><summary type="html">What the World Will Look Like After Coronavirus - VICE</summary></entry><entry><title type="html">ethical code</title><link href="https://www.nonlinear.nyc/project/ethical/" rel="alternate" type="text/html" title="ethical code" /><published>2020-01-29T18:03:16-05:00</published><updated>2020-01-29T18:03:16-05:00</updated><id>https://www.nonlinear.nyc/project/ethical</id><content type="html" xml:base="https://www.nonlinear.nyc/project/ethical/">&lt;h3 id=&quot;todo&quot;&gt;TODO&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;start figma file&lt;/li&gt;
-  &lt;li&gt;get who needs permissions&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Here are my notes, then zee notes, for zee to consolidate and announce.&lt;/p&gt;
-
-&lt;h4 id=&quot;audience&quot;&gt;Audience&lt;/h4&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Palantir as company and developers&lt;/li&gt;
-  &lt;li&gt;non-developers (use laymen terms)&lt;/li&gt;
-  &lt;li&gt;maintainers
-    &lt;ol&gt;
-      &lt;li&gt;software is in use by palantir&lt;/li&gt;
-      &lt;li&gt;not on palantir and want to protect themselves&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h4 id=&quot;funnels&quot;&gt;Funnels&lt;/h4&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;maintainers with software in use
-    &lt;ol&gt;
-      &lt;li&gt;change the licensing: point to the research&lt;/li&gt;
-      &lt;li&gt;pledge on README (badge)&lt;/li&gt;
-      &lt;li&gt;donate money to a group that opposes ICE (README that they did)&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;maintainers unsure if they are used by palantir
-    &lt;ol&gt;
-      &lt;li&gt;github oauth to detect if (alerts? phase 2? discuss)
-        &lt;ol&gt;
-          &lt;li&gt;if yes, check “maintainers with software in use”&lt;/li&gt;
-          &lt;li&gt;if no, how to protect yourself from it&lt;/li&gt;
-        &lt;/ol&gt;
-      &lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;dev non-mantainers
-    &lt;ol&gt;
-      &lt;li&gt;raise an issue on ethical license (padding with warnings, how to behave)&lt;/li&gt;
-      &lt;li&gt;donate money to a group that opposes ICE (if you can afford)&lt;/li&gt;
-      &lt;li&gt;donate to repo (better contrast for repos on pledge)&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;non-dev
-    &lt;ol&gt;
-      &lt;li&gt;dashboard, graphs, progress, bird-eye view: explain what they are seeing (phase 2?)&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h4 id=&quot;arguments-to-expose&quot;&gt;Arguments to expose&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;open source traditionless&lt;/li&gt;
-  &lt;li&gt;overworked, underpaid maintainers (donation, thank you for your service, etc)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;tech-to-discuss&quot;&gt;Tech to discuss&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;flags on CTAs so we can measure progress (of donation, of issues raised, etc)&lt;/li&gt;
-  &lt;li&gt;proxy mesure for repo popularity: reveal power curve, some repos are better than others (likes, follow, activity. it PROBABLY exists somewhere)&lt;/li&gt;
-  &lt;li&gt;dashboard&lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><summary type="html">TODO</summary></entry></feed>
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">What the World Will Look Like After Coronavirus - VICE</summary></entry></feed>
