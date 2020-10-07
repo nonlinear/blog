@@ -246,7 +246,7 @@ a {
 }
 
 
-body:not(.book) img, .wireframe svg {
+body:not(.book):not(.rings) img, .wireframe svg {
 	width: 100%;
 	height: auto;
 }
