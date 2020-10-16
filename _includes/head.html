@@ -42,8 +42,11 @@
 	{% endif %}
 	{%if page.cover %}
 	<meta property="twitter:image" content={{ site.url }}/assets/images/{{ page.cover }}> {% endif %} {%if page.open %}
-		<meta property="twitter:image" content={{ site.url }}/assets/images/{{ page.open }}> {% endif %} <link
+		<meta property="twitter:image" content={{ site.url }}/assets/images/{{ page.open }}> {% endif %} 
+		
+		<link
 		rel="stylesheet" href="{{'/assets/main.css' | prepend: site.baseurl}}">
+
 
 
 </head>
