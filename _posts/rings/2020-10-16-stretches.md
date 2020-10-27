@@ -9,8 +9,7 @@ date: 2020-10-16
 permalink: /:categories/:slug/
 ---
 
-
-<!-- | |  |  |  |
+| |  |  |  |
 | -- | -- | ------------- | --: |
 | 1 | Squat opener  | 3 min          | <img src="/assets/images/rings/stretches01.png" style="width: 250px" /> |
 | 2 | Shoulder stretch  | 1 min per side | <img src="/assets/images/rings/stretches02.png" style="width: 250px" /> |
@@ -19,13 +18,4 @@ permalink: /:categories/:slug/
 | 5 | Triceps stretch   | 1 min per side |<img src="/assets/images/rings/stretches05.png" style="width: 250px" />|
 | 6 (night) | Hip stretch   | 2 min per side |<img src="/assets/images/rings/stretches06.png" style="width: 250px" />|
 | 7 (night) | Forward fold   | 3 min |<img src="/assets/images/rings/stretches07.png" style="width: 250px" />|
-| | | | | -->
-
-
-1. Squat opener, 3 min
-1. Shoulder stretch, 1 min per side
-1. Butterfly stretch, 3 min
-1. Forearms, 3 min
-1. Triceps stretch, 1 min per side
-1. Hip stretch (night), 2 min per side
-1. Forward fold (night), 3 min
+| | | | |
